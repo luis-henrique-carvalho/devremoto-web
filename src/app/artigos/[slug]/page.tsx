@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import Link from "next/link";
-import { getPostBySlug, getAllPosts } from "@/lib/blog";
+import { getArtigoBySlug, getAllArtigos } from "@/lib/artigos";
 import { Badge } from "@/components/ui/badge";
 import { buttonVariants } from "@/components/ui/button";
 import { GithubIcon } from "@/components/icons";
@@ -19,7 +19,7 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  const posts = await getAllPosts();
+  const posts = await getAllArtigos();
   return posts.map((p) => ({
     slug: p.slug,
   }));
@@ -27,7 +27,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const data = await getPostBySlug(slug);
+  const data = await getArtigoBySlug(slug);
   if (!data) return { title: "Artigo não encontrado" };
 
   return {
@@ -43,9 +43,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-export default async function BlogPostPage({ params }: Props) {
+export default async function ArtigoPostPage({ params }: Props) {
   const { slug } = await params;
-  const result = await getPostBySlug(slug);
+  const result = await getArtigoBySlug(slug);
 
   if (!result) {
     notFound();
@@ -54,24 +54,24 @@ export default async function BlogPostPage({ params }: Props) {
   const { post, contentHtml } = result;
 
   return (
-    <div className="container mx-auto max-w-4xl px-4 sm:px-6 py-10 sm:py-14 flex flex-col gap-10">
+    <div className="container mx-auto max-w-4xl px-4 sm:px-6 py-6 sm:py-14 flex flex-col gap-8 sm:gap-10">
       {/* Back button */}
       <div>
         <Link
-          href="/blog"
+          href="/artigos"
           className={buttonVariants({
             variant: "ghost",
             size: "sm",
-            className: "text-zinc-400 hover:text-white font-mono text-xs",
+            className: "text-zinc-400 hover:text-white font-mono text-xs min-h-[44px] sm:min-h-0 flex items-center",
           })}
         >
           <ArrowLeft className="size-3.5 mr-1.5" />
-          <span>Voltar para o blog</span>
+          <span>Voltar para artigos</span>
         </Link>
       </div>
 
       {/* Article Header */}
-      <header className="flex flex-col gap-5 border-b border-white/[0.08] pb-8">
+      <header className="flex flex-col gap-4 border-b border-white/[0.08] pb-6 sm:pb-8">
         <div className="flex flex-wrap items-center gap-2 text-xs font-mono text-zinc-500">
           <Badge variant="outline" className="border-sky-500/30 bg-sky-500/10 text-sky-400 font-mono">
             {post.category}
@@ -88,24 +88,24 @@ export default async function BlogPostPage({ params }: Props) {
           </span>
         </div>
 
-        <h1 className="text-3xl sm:text-5xl font-extrabold text-white tracking-tight leading-tight">
+        <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold text-white tracking-tight leading-tight">
           {post.title}
         </h1>
 
-        <p className="text-base sm:text-lg text-zinc-300 leading-relaxed">
+        <p className="text-sm sm:text-base text-zinc-300 leading-relaxed">
           {post.description}
         </p>
 
         {/* GitHub Quick Box if available */}
         {post.githubRepo && (
-          <div className="flex items-center justify-between rounded-xl border border-white/[0.1] bg-[#141519] p-4 text-xs font-mono">
-            <div className="flex items-center gap-2 text-zinc-300">
-              <GithubIcon className="size-4 text-white" />
-              <span className="font-semibold">{post.githubRepo}</span>
+          <div className="flex items-center justify-between rounded-xl border border-white/[0.1] bg-[#141519] p-3.5 sm:p-4 text-xs font-mono">
+            <div className="flex items-center gap-2 text-zinc-300 truncate">
+              <GithubIcon className="size-4 text-white shrink-0" />
+              <span className="font-semibold truncate">{post.githubRepo}</span>
               {post.stars && (
-                <span className="flex items-center gap-1 text-amber-400 ml-2">
+                <span className="flex items-center gap-0.5 text-amber-400 ml-1 shrink-0">
                   <Star className="size-3 fill-amber-400" />
-                  {post.stars} stars
+                  {post.stars}
                 </span>
               )}
             </div>
@@ -114,16 +114,16 @@ export default async function BlogPostPage({ params }: Props) {
               href={`https://github.com/${post.githubRepo}`}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-sky-400 hover:underline"
+              className="text-sky-400 hover:underline shrink-0 ml-2"
             >
-              Ver no GitHub →
+              GitHub →
             </a>
           </div>
         )}
 
         <div className="flex flex-wrap gap-1.5 pt-1">
           {post.tags.map((tag) => (
-            <Badge key={tag} variant="outline" className="bg-white/[0.03] border-white/[0.08] text-zinc-400 text-xs font-mono">
+            <Badge key={tag} variant="outline" className="bg-white/[0.03] border-white/[0.08] text-zinc-400 text-[11px] font-mono">
               #{tag}
             </Badge>
           ))}
@@ -136,14 +136,14 @@ export default async function BlogPostPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: contentHtml }}
       />
 
-      {/* Author Card & Promotion */}
-      <div className="rounded-2xl border border-white/[0.08] bg-[#16171B] p-6 sm:p-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
-        <div className="flex items-center gap-4">
-          <div className="size-12 rounded-full bg-emerald-500/20 border border-emerald-500/40 flex items-center justify-center text-emerald-400 font-bold font-mono">
+      {/* Author Card & Personal Portfolio link */}
+      <div className="rounded-2xl border border-white/[0.08] bg-[#16171B] p-5 sm:p-7 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-5">
+        <div className="flex items-center gap-3.5">
+          <div className="size-11 sm:size-12 rounded-full bg-emerald-500/20 border border-emerald-500/40 flex items-center justify-center text-emerald-400 font-bold font-mono shrink-0">
             LC
           </div>
           <div className="flex flex-col">
-            <span className="font-bold text-white text-base">{post.author}</span>
+            <span className="font-bold text-white text-sm sm:text-base">{post.author}</span>
             <span className="text-xs text-zinc-400">
               Engenheiro de Software & Criador do @devremoto.br
             </span>
@@ -155,29 +155,29 @@ export default async function BlogPostPage({ params }: Props) {
           className={buttonVariants({
             variant: "outline",
             size: "sm",
-            className: "font-mono text-xs border-white/[0.12] hover:bg-white/[0.05]",
+            className: "font-mono text-xs border-white/[0.12] hover:bg-white/[0.05] min-h-[44px] sm:min-h-0 flex items-center w-full sm:w-auto justify-center",
           })}
         >
-          <span>Conhecer o projeto →</span>
+          <span>Conhecer portfólio →</span>
         </Link>
       </div>
 
       {/* Cross-Promo Banner: Check open jobs */}
-      <div className="rounded-2xl border border-emerald-500/30 bg-gradient-to-r from-[#172B24]/40 to-[#121316] p-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+      <div className="rounded-2xl border border-emerald-500/30 bg-gradient-to-r from-[#172B24]/40 to-[#121316] p-5 sm:p-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
         <div className="flex flex-col gap-1">
           <div className="flex items-center gap-2 text-xs font-mono text-emerald-400">
             <Sparkles className="size-3.5" />
-            <span>Procurando uma oportunidade remota?</span>
+            <span>Trabalho 100% Home Office</span>
           </div>
-          <h4 className="text-lg font-bold text-white">
-            Veja as vagas 100% home office abertas no radar de hoje
+          <h4 className="text-base sm:text-lg font-bold text-white">
+            Confira as vagas remotas verificadas no radar de hoje
           </h4>
         </div>
 
         <Link
           href="/vagas"
           className={buttonVariants({
-            className: "bg-emerald-500 text-black hover:bg-emerald-400 font-mono font-bold shrink-0",
+            className: "bg-emerald-500 text-black hover:bg-emerald-400 font-mono font-bold shrink-0 min-h-[44px] flex items-center justify-center",
           })}
         >
           <Briefcase className="size-4 mr-2" />

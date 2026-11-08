@@ -39,24 +39,24 @@ export default async function EditionPage({ params }: Props) {
   }
 
   return (
-    <div className="container mx-auto max-w-4xl px-4 sm:px-6 py-10 sm:py-14 flex flex-col gap-10">
-      {/* Navigation back */}
+    <div className="container mx-auto max-w-4xl px-4 sm:px-6 py-6 sm:py-12 flex flex-col gap-8">
+      {/* Back button */}
       <div>
         <Link
           href="/vagas"
           className={buttonVariants({
             variant: "ghost",
             size: "sm",
-            className: "text-zinc-400 hover:text-white font-mono text-xs",
+            className: "text-zinc-400 hover:text-white font-mono text-xs min-h-[44px] sm:min-h-0 flex items-center",
           })}
         >
           <ArrowLeft className="size-3.5 mr-1.5" />
-          <span>Voltar para todas as vagas</span>
+          <span>Ver todas as vagas</span>
         </Link>
       </div>
 
-      {/* Header Banner */}
-      <div className="flex flex-col gap-4 rounded-2xl border border-emerald-500/30 bg-gradient-to-b from-[#172B24]/40 to-[#121316] p-6 sm:p-8">
+      {/* Header Banner - Compact for Instagram Mobile In-App Browser */}
+      <div className="flex flex-col gap-3 rounded-2xl border border-emerald-500/30 bg-gradient-to-b from-[#172B24]/40 to-[#121316] p-5 sm:p-7">
         <div className="flex items-center justify-between gap-2">
           <div className="inline-flex items-center gap-1.5 rounded-full border border-emerald-500/30 bg-emerald-500/10 px-3 py-1 text-xs font-mono text-emerald-400">
             <Calendar className="size-3.5" />
@@ -64,37 +64,36 @@ export default async function EditionPage({ params }: Props) {
           </div>
 
           <Badge variant="outline" className="border-white/[0.1] text-zinc-400 text-xs font-mono">
-            {edition.count} vagas curadas
+            {edition.count} vagas
           </Badge>
         </div>
 
-        <div className="flex flex-col gap-2">
-          <h1 className="text-2xl sm:text-4xl font-extrabold text-white tracking-tight">
+        <div className="flex flex-col gap-1.5">
+          <h1 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">
             Links Oficiais das Vagas
           </h1>
-          <p className="text-sm sm:text-base text-zinc-300">
-            {edition.hook?.lead ||
-              "Todas as oportunidades abaixo aceitam devs trabalhando 100% de casa em qualquer cidade do Brasil. Toque em qualquer card para abrir a página oficial de candidatura."}
+          <p className="text-xs sm:text-sm text-zinc-300 leading-relaxed">
+            Todas as oportunidades abaixo aceitam devs 100% home office de qualquer cidade do Brasil. Toque no botão de cada vaga para abrir a candidatura.
           </p>
         </div>
 
-        <div className="flex flex-wrap items-center gap-2 pt-2 border-t border-white/[0.08] text-xs font-mono text-zinc-400">
-          <span className="text-zinc-500">Stacks presentes:</span>
+        <div className="flex flex-wrap items-center gap-1.5 pt-2 border-t border-white/[0.08] text-xs font-mono text-zinc-400">
+          <span className="text-zinc-500">Stacks:</span>
           {edition.uniqueStacks.map((s) => (
-            <span key={s} className="rounded bg-white/[0.05] px-2 py-0.5 text-zinc-300">
+            <span key={s} className="rounded bg-white/[0.05] px-2 py-0.5 text-zinc-300 text-[11px]">
               {s}
             </span>
           ))}
           <span className="text-zinc-600">·</span>
-          <span className="text-emerald-400">{edition.senioritySummary}</span>
+          <span className="text-emerald-400 text-[11px]">{edition.senioritySummary}</span>
         </div>
       </div>
 
       {/* Jobs list */}
       <div className="flex flex-col gap-4">
-        <h2 className="text-lg font-bold text-white font-mono flex items-center gap-2">
+        <h2 className="text-base font-bold text-white font-mono flex items-center gap-2">
           <Sparkles className="size-4 text-emerald-400" />
-          <span>Vagas desta edição:</span>
+          <span>Vagas anunciadas nesta edição:</span>
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">

@@ -4,7 +4,7 @@ import { GithubIcon, InstagramIcon, LinkedinIcon } from "@/components/icons";
 
 export function Footer() {
   return (
-    <footer className="border-t border-white/[0.08] bg-[#0A0A0C] mt-auto">
+    <footer className="border-t border-white/[0.08] bg-[#0A0A0C] mt-auto pb-20 sm:pb-12">
       <div className="container mx-auto max-w-6xl px-4 sm:px-6 py-12 flex flex-col gap-8">
         <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
           <div className="flex flex-col gap-2">
@@ -15,7 +15,7 @@ export function Footer() {
               <span className="font-mono font-bold text-white text-sm">dev.remoto</span>
             </div>
             <p className="text-sm text-zinc-400 max-w-md">
-              Radar diário de oportunidades tech 100% remotas no Brasil e análises independentes de novas ferramentas open-source.
+              Radar diário de oportunidades tech 100% remotas no Brasil, artigos técnicos e engenharia de software independente.
             </p>
           </div>
 
@@ -52,7 +52,7 @@ export function Footer() {
 
         <div className="border-t border-white/[0.05] pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-zinc-500 font-mono">
           <div className="flex items-center gap-1">
-            <span>Curadoria mantida por</span>
+            <span>Desenvolvido e mantido por</span>
             <Link href="/sobre" className="text-emerald-400 hover:underline">
               Luis Carvalho
             </Link>
