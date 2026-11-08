@@ -1,16 +1,14 @@
 import { Metadata } from "next";
 import {
   Terminal,
-  ShieldCheck,
   Mail,
   Sparkles,
   ArrowRight,
   Code2,
   Cpu,
   Layers,
-  CheckCircle2,
-  ExternalLink,
   Laptop,
+  Megaphone,
 } from "lucide-react";
 import { GithubIcon, InstagramIcon, LinkedinIcon } from "@/components/icons";
 import { buttonVariants } from "@/components/ui/button";
@@ -19,7 +17,7 @@ import { Badge } from "@/components/ui/badge";
 export const metadata: Metadata = {
   title: "Sobre Luis Carvalho · Engenheiro de Software & Criador",
   description:
-    "Conheça o perfil profissional de Luis Carvalho, a arquitetura do projeto dev.remoto e oportunidades de consultoria e parcerias.",
+    "Conheça Luis Carvalho, a arquitetura do projeto dev.remoto e opções de parcerias e mídia no canal.",
 };
 
 export default function SobrePage() {
@@ -35,27 +33,26 @@ export default function SobrePage() {
               </div>
             </div>
             <span className="absolute -bottom-1 -right-1 flex size-4">
-              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75" />
               <span className="relative inline-flex rounded-full size-4 bg-emerald-500 border-2 border-[#0D0D0F]" />
             </span>
           </div>
 
           <div className="flex flex-col gap-1.5">
             <div className="inline-flex items-center gap-2 rounded-full border border-emerald-500/30 bg-emerald-500/10 px-3 py-1 text-xs font-mono text-emerald-400 w-fit">
-              <span className="size-1.5 rounded-full bg-emerald-400" />
-              <span>Disponível para consultoria & projetos</span>
+              <Terminal className="size-3" />
+              <span>Engenharia de Software & Conteúdo</span>
             </div>
             <h1 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
               Luis Carvalho
             </h1>
-            <p className="text-sm sm:text-base text-emerald-400 font-mono">
-              Engenheiro de Software Full Stack & Arquiteto de IA
+            <p className="text-sm sm:text-base text-zinc-400 font-mono">
+              Engenheiro de Software & Criador do @devremoto.br
             </p>
           </div>
         </div>
 
         <p className="text-base sm:text-lg text-zinc-300 leading-relaxed max-w-3xl">
-          Especialista em construir produtos digitais rápidos, sistemas distribuídos e automações inteligentes com inteligência artificial. Criador do ecossistema <strong className="text-white">dev.remoto</strong>, com o objetivo de conectar profissionais de tecnologia a vagas de trabalho 100% home office no Brasil e no exterior.
+          Atuo no mercado de tecnologia desenvolvendo produtos digitais, arquitetura de software e sistemas automatizados com inteligência artificial. Criei o projeto <strong className="text-white">dev.remoto</strong> como uma iniciativa independente para fortalecer o ecossistema de trabalho remoto no Brasil e compartilhar análises práticas sobre desenvolvimento de software.
         </p>
 
         {/* Social / Direct Channels */}
@@ -103,7 +100,7 @@ export default function SobrePage() {
             })}
           >
             <Mail className="size-4 mr-2" />
-            <span>Falar por E-mail</span>
+            <span>Contato</span>
           </a>
         </div>
       </section>
@@ -113,13 +110,13 @@ export default function SobrePage() {
         <div className="flex flex-col gap-2">
           <div className="inline-flex items-center gap-1.5 text-xs font-mono text-emerald-400">
             <Code2 className="size-3.5" />
-            <span>Case de Engenharia em Destaque</span>
+            <span>Case de Engenharia & Automação</span>
           </div>
           <h2 className="text-2xl sm:text-3xl font-bold text-white tracking-tight">
             Como o dev.remoto funciona por baixo do capô
           </h2>
           <p className="text-sm text-zinc-400 leading-relaxed">
-            O dev.remoto não é uma planilha manual ou um robô de repost. Trata-se de uma esteira autônoma completa de software projetada para operar no piloto automático diário:
+            O dev.remoto foi construído como uma esteira autônoma completa de ponta a ponta, demonstrando na prática o poder da automação aliada à inteligência artificial:
           </p>
         </div>
 
@@ -127,7 +124,7 @@ export default function SobrePage() {
           <div className="rounded-xl border border-white/[0.06] bg-[#121316] p-4 flex flex-col gap-2">
             <div className="flex items-center gap-2 text-emerald-400 font-mono text-xs font-bold">
               <span className="size-5 rounded-full bg-emerald-500/10 flex items-center justify-center text-[11px]">1</span>
-              <span>Rastreamento & Scraping</span>
+              <span>Rastreamento & Ingestão</span>
             </div>
             <p className="text-xs text-zinc-400 leading-relaxed">
               Varredura diária de APIs, portais de vagas e repositórios do GitHub com normalização de senioridade, stack e data de publicação.
@@ -137,43 +134,43 @@ export default function SobrePage() {
           <div className="rounded-xl border border-white/[0.06] bg-[#121316] p-4 flex flex-col gap-2">
             <div className="flex items-center gap-2 text-sky-400 font-mono text-xs font-bold">
               <span className="size-5 rounded-full bg-sky-500/10 flex items-center justify-center text-[11px]">2</span>
-              <span>Validação Rigorosa</span>
+              <span>Curadoria Automatizada</span>
             </div>
             <p className="text-xs text-zinc-400 leading-relaxed">
-              Filtro estrito que analisa descrições para garantir trabalho 100% home office, descartando modelos híbridos ou presença física disfarçada.
+              Modelos de linguagem analisam descrições para garantir trabalho 100% home office, descartando modelos híbridos ou anúncios enganosos.
             </p>
           </div>
 
           <div className="rounded-xl border border-white/[0.06] bg-[#121316] p-4 flex flex-col gap-2">
             <div className="flex items-center gap-2 text-amber-400 font-mono text-xs font-bold">
               <span className="size-5 rounded-full bg-amber-500/10 flex items-center justify-center text-[11px]">3</span>
-              <span>Renderização Programática</span>
+              <span>Renderização em Código</span>
             </div>
             <p className="text-xs text-zinc-400 leading-relaxed">
-              Geração de carrosséis e vídeos verticais em código HTML/GSAP através do motor HyperFrames, renderizados diretamente pelo terminal.
+              Geração de carrosséis e vídeos verticais em código puro HTML/CSS/GSAP através do motor HyperFrames, renderizados diretamente pelo terminal.
             </p>
           </div>
 
           <div className="rounded-xl border border-white/[0.06] bg-[#121316] p-4 flex flex-col gap-2">
             <div className="flex items-center gap-2 text-purple-400 font-mono text-xs font-bold">
               <span className="size-5 rounded-full bg-purple-500/10 flex items-center justify-center text-[11px]">4</span>
-              <span>Entrega & Next.js Estático</span>
+              <span>Hub Web & Entrega em DM</span>
             </div>
             <p className="text-xs text-zinc-400 leading-relaxed">
-              Deploy instantâneo de páginas estáticas na Vercel e disparador de links no direct do Instagram via automação inteligente com webhooks.
+              Deploy de páginas estáticas Next.js na Vercel e disparador de links no direct do Instagram via automação conectada aos webhooks da Meta.
             </p>
           </div>
         </div>
       </section>
 
-      {/* Technical Skills & Arsenal */}
+      {/* Technical Stacks */}
       <section className="flex flex-col gap-6">
         <div className="flex flex-col gap-1">
           <h2 className="text-xl sm:text-2xl font-bold text-white tracking-tight">
-            Especialidades & Tecnologias
+            Especialidades Técnicas
           </h2>
           <p className="text-xs sm:text-sm text-zinc-400">
-            Ferramentas e padrões de arquitetura aplicados no desenvolvimento de software de alta performance:
+            Tecnologias e conceitos aplicados no desenvolvimento deste ecossistema:
           </p>
         </div>
 
@@ -184,7 +181,7 @@ export default function SobrePage() {
             </div>
             <h3 className="font-bold text-white text-sm">Front-End & UI</h3>
             <p className="text-xs text-zinc-400 leading-relaxed">
-              TypeScript, React 19, Next.js (App Router), Tailwind CSS v4, shadcn/ui e design responsivo mobile-first com alta fidelidade visual.
+              TypeScript, React 19, Next.js (App Router), Tailwind CSS v4, shadcn/ui e design responsivo mobile-first.
             </p>
           </div>
 
@@ -192,9 +189,9 @@ export default function SobrePage() {
             <div className="size-8 rounded-lg bg-sky-500/10 border border-sky-500/30 flex items-center justify-center text-sky-400">
               <Layers className="size-4" />
             </div>
-            <h3 className="font-bold text-white text-sm">Back-End & Bancos</h3>
+            <h3 className="font-bold text-white text-sm">Back-End & Dados</h3>
             <p className="text-xs text-zinc-400 leading-relaxed">
-              Node.js, Python, arquitetura Deep Modules, APIs RESTful, GraphQL, PostgreSQL, SQLite, caching e integrações de pagamentos.
+              Node.js, Python, arquitetura modular, APIs RESTful, webhooks, SQLite e pipelines de processamento.
             </p>
           </div>
 
@@ -204,40 +201,40 @@ export default function SobrePage() {
             </div>
             <h3 className="font-bold text-white text-sm">IA & Automação</h3>
             <p className="text-xs text-zinc-400 leading-relaxed">
-              Agentes autônomos, integrações de LLMs (Claude, Gemini, OpenAI), pipelines com Docker, Playwright, Vercel e Cloudflare.
+              Integrações com LLMs, agentes autônomos, automações de mídia programática e containers Docker.
             </p>
           </div>
         </div>
       </section>
 
-      {/* Services & Contact */}
+      {/* Commercial & Partnerships Section (Strictly B2B / Creator Monetization) */}
       <section className="rounded-2xl border border-emerald-500/30 bg-gradient-to-b from-[#172B24]/40 to-[#121316] p-6 sm:p-8 flex flex-col gap-6">
         <div className="flex flex-col gap-2">
           <Badge variant="outline" className="border-emerald-500/40 text-emerald-300 font-mono text-xs w-fit">
-            Oportunidades & Parcerias
+            Parcerias & Divulgação
           </Badge>
           <h2 className="text-2xl sm:text-3xl font-bold text-white">
-            Como podemos trabalhar juntos?
+            Divulgue sua empresa ou ferramenta no dev.remoto
           </h2>
           <p className="text-sm text-zinc-300 leading-relaxed max-w-2xl">
-            Estou aberto a desafios técnicos, consultorias pontuais, contratação para posições seniores remotas e divulgação de marcas ou vagas de tecnologia no ecossistema dev.remoto:
+            Conecte sua marca ou suas vagas abertas a uma comunidade qualificada de desenvolvedores de software no Brasil:
           </p>
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs font-mono">
           <div className="rounded-lg bg-black/40 border border-white/[0.08] p-3.5 flex flex-col gap-1.5">
-            <span className="text-emerald-400 font-bold">01 · Consultoria</span>
-            <span className="text-zinc-400">Arquitetura de software, automação inteligente e modernização de stacks.</span>
+            <span className="text-emerald-400 font-bold">01 · Vagas em Destaque</span>
+            <span className="text-zinc-400">Destaque posições da sua empresa no topo do site e nas edições do Instagram.</span>
           </div>
 
           <div className="rounded-lg bg-black/40 border border-white/[0.08] p-3.5 flex flex-col gap-1.5">
-            <span className="text-sky-400 font-bold">02 · Vagas em Destaque</span>
-            <span className="text-zinc-400">Divulgue posições abertas no topo do site e nos carrosséis do Instagram.</span>
+            <span className="text-sky-400 font-bold">02 · Mídia & Publieditoriais</span>
+            <span className="text-zinc-400">Reviews e artigos técnicos apresentando produtos SaaS, APIs e ferramentas tech.</span>
           </div>
 
           <div className="rounded-lg bg-black/40 border border-white/[0.08] p-3.5 flex flex-col gap-1.5">
-            <span className="text-amber-400 font-bold">03 · Contratação</span>
-            <span className="text-zinc-400">Disponibilidade para atuar como Engenheiro Sênior em projetos internacionais.</span>
+            <span className="text-amber-400 font-bold">03 · Conteúdo & Comunidade</span>
+            <span className="text-zinc-400">Colaborações técnicas, estudos de caso e projetos conjuntos open-source.</span>
           </div>
         </div>
 
@@ -249,7 +246,7 @@ export default function SobrePage() {
             })}
           >
             <Mail className="size-4" />
-            <span>Enviar Proposta por E-mail</span>
+            <span>Falar sobre Parcerias</span>
           </a>
 
           <a
@@ -261,7 +258,7 @@ export default function SobrePage() {
               className: "border-white/[0.12] hover:bg-white/[0.05] font-mono min-h-[44px]",
             })}
           >
-            <span>Direct no @devremoto.br</span>
+            <span>Direct no Instagram</span>
             <ArrowRight className="size-4 ml-2" />
           </a>
         </div>
