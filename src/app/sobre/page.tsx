@@ -157,7 +157,7 @@ export default function SobrePage() {
               <span>Hub Web & Entrega em DM</span>
             </div>
             <p className="text-xs text-zinc-400 leading-relaxed">
-              Deploy de páginas estáticas Next.js na Vercel e disparador de links no direct do Instagram via automação conectada aos webhooks da Meta.
+              Deploy de páginas Next.js na Cloudflare Workers Edge e disparador de links no direct do Instagram via automação conectada aos webhooks da Meta.
             </p>
           </div>
         </div>

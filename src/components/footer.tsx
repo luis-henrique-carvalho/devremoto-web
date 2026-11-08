@@ -58,7 +58,7 @@ export function Footer() {
             </Link>
           </div>
           <div>
-            <span>© 2026 dev.remoto · Hospedado na Vercel</span>
+            <span>© 2026 dev.remoto · Hospedado na Cloudflare</span>
           </div>
         </div>
       </div>
