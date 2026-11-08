@@ -1,0 +1,311 @@
+{
+  "generatedAt": "2026-11-07T17:57:36.746Z",
+  "dateLabel": "07.nov",
+  "count": 8,
+  "hook": {
+    "angle": "brand-anchor",
+    "headline": "Solutis, Wicomm e +6 techs contratando de casa hoje.",
+    "lead": "Curadoria diária sem híbrido disfarçado. Oportunidades verificadas abertas para trabalhar de qualquer estado."
+  },
+  "uniqueStacks": [
+    "Dados",
+    "Java",
+    "Full Stack",
+    "IA / GenAI"
+  ],
+  "senioritySummary": "Júnior → Especialista",
+  "jobs": [
+    {
+      "url": "https://solutis.inhire.app/vagas/b90859ee-fc09-4e98-b4cf-405935560659/arquitetoa-de-dados-senior-or-remoto",
+      "company": "Solutis",
+      "handle": "@solutis",
+      "title": "Arquiteto(a) de Dados Sênior",
+      "seniority": "Especialista",
+      "stacks": [
+        "Dados",
+        "InHire"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "InHire",
+      "postedAt": "2026-11-07",
+      "isRecognized": true,
+      "score": 48.251658067129625
+    },
+    {
+      "url": "https://wicomm.vagas.solides.com.br/vaga/949725?origem=remotar",
+      "company": "Wicomm",
+      "handle": "@wicomm",
+      "title": "Desenvolvedor Front-end Jr",
+      "seniority": "Júnior",
+      "stacks": [
+        "Front-End",
+        "Web UI",
+        "Sólides"
+      ],
+      "category": "Front-End & Interfaces",
+      "source": "Sólides",
+      "postedAt": "2026-11-07",
+      "isRecognized": false,
+      "score": 35.251658078703706
+    },
+    {
+      "url": "https://girotech.gupy.io/job/eyJqb2JJZCI6MTI4MDMzMjMsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "company": "Giro.Tech",
+      "handle": "@giro-tech",
+      "title": "Desenvolvedor Backend Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Back-End",
+        "APIs",
+        "Gupy"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "Gupy",
+      "postedAt": "2026-11-07",
+      "isRecognized": false,
+      "score": 35.251658078703706
+    },
+    {
+      "url": "https://programathor.com.br/jobs/33869-desenvolvedor-a-java-full-stack-pleno",
+      "company": "Loldesign",
+      "handle": "@loldesign",
+      "title": "Desenvolvedor(a) Java Full Stack Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Java",
+        "ProgramaThor"
+      ],
+      "category": "Java, .NET & Enterprise",
+      "source": "ProgramaThor",
+      "postedAt": "2026-11-07",
+      "isRecognized": false,
+      "score": 35.251658067129625
+    },
+    {
+      "url": "https://programathor.com.br/jobs/33854-desenvolvedor-full-stack-pleno",
+      "company": "Mídia 3",
+      "handle": "@midia-3",
+      "title": "Desenvolvedor Full Stack Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Full Stack",
+        "Web APIs",
+        "ProgramaThor"
+      ],
+      "category": "Full Stack & Produto",
+      "source": "ProgramaThor",
+      "postedAt": "2026-11-07",
+      "isRecognized": false,
+      "score": 35.251658067129625
+    },
+    {
+      "url": "https://programathor.com.br/jobs/33847-ai-engineer-pleno",
+      "company": "Askable",
+      "handle": "@askable",
+      "title": "AI Engineer Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "IA / GenAI",
+        "ProgramaThor"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "ProgramaThor",
+      "postedAt": "2026-11-07",
+      "isRecognized": false,
+      "score": 35.251658067129625
+    },
+    {
+      "url": "https://programathor.com.br/jobs/33840-desenvolvedor-a-full-stack-pleno",
+      "company": "Concept IaaS",
+      "handle": "@concept-iaas",
+      "title": "Desenvolvedor(a) Full Stack Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Full Stack",
+        "Web APIs",
+        "ProgramaThor"
+      ],
+      "category": "Full Stack & Produto",
+      "source": "ProgramaThor",
+      "postedAt": "2026-11-07",
+      "isRecognized": false,
+      "score": 35.251658067129625
+    },
+    {
+      "url": "https://girotech.gupy.io/job/eyJqb2JJZCI6MTI4MDMzMjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "GIRO.TECH - Tecnologia para originação e distribuição de crédito.",
+      "handle": "@giro-tech-tecnologia-para-originacao-e-distribuicao-de-credito",
+      "title": "Desenvolvedor Backend Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Back-End",
+        "APIs",
+        "Gupy"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "Gupy",
+      "postedAt": "2026-11-06",
+      "isRecognized": false,
+      "score": 34.25165805555555
+    }
+  ],
+  "slidesPairs": [
+    {
+      "eyebrow": "// trilha_01 · vagas verificadas",
+      "heading": "Dados / IA · Front-End",
+      "jobs": [
+        {
+          "url": "https://solutis.inhire.app/vagas/b90859ee-fc09-4e98-b4cf-405935560659/arquitetoa-de-dados-senior-or-remoto",
+          "company": "Solutis",
+          "handle": "@solutis",
+          "title": "Arquiteto(a) de Dados Sênior",
+          "seniority": "Especialista",
+          "stacks": [
+            "Dados",
+            "InHire"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "InHire",
+          "postedAt": "2026-11-07",
+          "isRecognized": true,
+          "score": 48.251658067129625
+        },
+        {
+          "url": "https://wicomm.vagas.solides.com.br/vaga/949725?origem=remotar",
+          "company": "Wicomm",
+          "handle": "@wicomm",
+          "title": "Desenvolvedor Front-end Jr",
+          "seniority": "Júnior",
+          "stacks": [
+            "Front-End",
+            "Web UI",
+            "Sólides"
+          ],
+          "category": "Front-End & Interfaces",
+          "source": "Sólides",
+          "postedAt": "2026-11-07",
+          "isRecognized": false,
+          "score": 35.251658078703706
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_02 · vagas verificadas",
+      "heading": "Back-End · Java / .NET",
+      "jobs": [
+        {
+          "url": "https://girotech.gupy.io/job/eyJqb2JJZCI6MTI4MDMzMjMsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+          "company": "Giro.Tech",
+          "handle": "@giro-tech",
+          "title": "Desenvolvedor Backend Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Back-End",
+            "APIs",
+            "Gupy"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "Gupy",
+          "postedAt": "2026-11-07",
+          "isRecognized": false,
+          "score": 35.251658078703706
+        },
+        {
+          "url": "https://programathor.com.br/jobs/33869-desenvolvedor-a-java-full-stack-pleno",
+          "company": "Loldesign",
+          "handle": "@loldesign",
+          "title": "Desenvolvedor(a) Java Full Stack Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Java",
+            "ProgramaThor"
+          ],
+          "category": "Java, .NET & Enterprise",
+          "source": "ProgramaThor",
+          "postedAt": "2026-11-07",
+          "isRecognized": false,
+          "score": 35.251658067129625
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_03 · vagas verificadas",
+      "heading": "Full Stack · Dados / IA",
+      "jobs": [
+        {
+          "url": "https://programathor.com.br/jobs/33854-desenvolvedor-full-stack-pleno",
+          "company": "Mídia 3",
+          "handle": "@midia-3",
+          "title": "Desenvolvedor Full Stack Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Full Stack",
+            "Web APIs",
+            "ProgramaThor"
+          ],
+          "category": "Full Stack & Produto",
+          "source": "ProgramaThor",
+          "postedAt": "2026-11-07",
+          "isRecognized": false,
+          "score": 35.251658067129625
+        },
+        {
+          "url": "https://programathor.com.br/jobs/33847-ai-engineer-pleno",
+          "company": "Askable",
+          "handle": "@askable",
+          "title": "AI Engineer Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "IA / GenAI",
+            "ProgramaThor"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "ProgramaThor",
+          "postedAt": "2026-11-07",
+          "isRecognized": false,
+          "score": 35.251658067129625
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_04 · vagas verificadas",
+      "heading": "Full Stack · Back-End",
+      "jobs": [
+        {
+          "url": "https://programathor.com.br/jobs/33840-desenvolvedor-a-full-stack-pleno",
+          "company": "Concept IaaS",
+          "handle": "@concept-iaas",
+          "title": "Desenvolvedor(a) Full Stack Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Full Stack",
+            "Web APIs",
+            "ProgramaThor"
+          ],
+          "category": "Full Stack & Produto",
+          "source": "ProgramaThor",
+          "postedAt": "2026-11-07",
+          "isRecognized": false,
+          "score": 35.251658067129625
+        },
+        {
+          "url": "https://girotech.gupy.io/job/eyJqb2JJZCI6MTI4MDMzMjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "GIRO.TECH - Tecnologia para originação e distribuição de crédito.",
+          "handle": "@giro-tech-tecnologia-para-originacao-e-distribuicao-de-credito",
+          "title": "Desenvolvedor Backend Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Back-End",
+            "APIs",
+            "Gupy"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "Gupy",
+          "postedAt": "2026-11-06",
+          "isRecognized": false,
+          "score": 34.25165805555555
+        }
+      ]
+    }
+  ]
+}

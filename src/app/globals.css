@@ -1,26 +1,148 @@
 @import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@custom-variant dark (&:is(.dark *));
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-inter), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: var(--font-jetbrains-mono), "Fira Code", monospace;
+  
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+:root {
+  /* Default dark Emerald Noir theme */
+  --background: #0D0D0F;
+  --foreground: #F9FAFB;
+  --card: #16171B;
+  --card-foreground: #F9FAFB;
+  --popover: #16171B;
+  --popover-foreground: #F9FAFB;
+  --primary: #10A37F;
+  --primary-foreground: #FFFFFF;
+  --secondary: #1F2026;
+  --secondary-foreground: #F9FAFB;
+  --muted: #1F2026;
+  --muted-foreground: #A1A1AA;
+  --accent: #172B24;
+  --accent-foreground: #34D399;
+  --destructive: #EF4444;
+  --border: rgba(255, 255, 255, 0.08);
+  --input: rgba(255, 255, 255, 0.12);
+  --ring: #10A37F;
+  --radius: 0.75rem;
 }
 
 body {
-  background: var(--background);
+  background-color: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  background-image: 
+    radial-gradient(circle at 85% 0%, rgba(16, 163, 127, 0.14), transparent 45%),
+    radial-gradient(circle at 10% 25%, rgba(56, 189, 248, 0.06), transparent 35%);
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+/* Custom Markdown Prose Styling */
+.prose-content {
+  color: #E4E4E7;
+  line-height: 1.8;
+  font-size: 1.05rem;
+}
+
+.prose-content h1,
+.prose-content h2,
+.prose-content h3,
+.prose-content h4 {
+  color: #F9FAFB;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-top: 2rem;
+  margin-bottom: 0.85rem;
+}
+
+.prose-content h2 {
+  font-size: 1.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding-bottom: 0.5rem;
+}
+
+.prose-content h3 {
+  font-size: 1.25rem;
+}
+
+.prose-content p {
+  margin-bottom: 1.25rem;
+}
+
+.prose-content a {
+  color: #34D399;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.prose-content strong {
+  color: #FFFFFF;
+}
+
+.prose-content ul,
+.prose-content ol {
+  margin-bottom: 1.25rem;
+  padding-left: 1.5rem;
+}
+
+.prose-content li {
+  margin-bottom: 0.4rem;
+}
+
+.prose-content code {
+  font-family: var(--font-mono);
+  background: rgba(255, 255, 255, 0.07);
+  padding: 0.2rem 0.45rem;
+  border-radius: 0.35rem;
+  font-size: 0.9em;
+  color: #38BDF8;
+}
+
+.prose-content pre {
+  background: #141519;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 1.25rem;
+  border-radius: 0.75rem;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+.prose-content pre code {
+  background: transparent;
+  padding: 0;
+  color: #E4E4E7;
+  font-size: 0.92rem;
+}
+
+.prose-content hr {
+  border: 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  margin: 2rem 0;
 }
