@@ -1,35 +1,11 @@
-import fs from "node:fs/promises";
-import path from "node:path";
+import rawEditions from "../../content/vagas/editions.json";
 import { Job, JobEdition } from "./types";
 
-const VAGAS_DIR = path.join(process.cwd(), "content/vagas");
 const ACTIVE_DAYS_LIMIT = 30; // 30-day TTL
 
 export async function getAllEditions(): Promise<JobEdition[]> {
-  try {
-    const files = await fs.readdir(VAGAS_DIR);
-    const jsonFiles = files.filter((f) => f.endsWith(".json"));
-
-    const editions: JobEdition[] = [];
-
-    for (const file of jsonFiles) {
-      const date = file.replace(".json", "");
-      const fullPath = path.join(VAGAS_DIR, file);
-      const raw = await fs.readFile(fullPath, "utf-8");
-      const parsed = JSON.parse(raw);
-
-      editions.push({
-        ...parsed,
-        date: parsed.date || date,
-      });
-    }
-
-    // Sort descending by date (newest first)
-    return editions.sort((a, b) => b.date.localeCompare(a.date));
-  } catch (error) {
-    console.error("Error loading job editions:", error);
-    return [];
-  }
+  const editions = (rawEditions as JobEdition[]).slice();
+  return editions.sort((a, b) => b.date.localeCompare(a.date));
 }
 
 export async function getLatestEdition(): Promise<JobEdition | null> {
@@ -38,17 +14,9 @@ export async function getLatestEdition(): Promise<JobEdition | null> {
 }
 
 export async function getEditionByDate(date: string): Promise<JobEdition | null> {
-  try {
-    const fullPath = path.join(VAGAS_DIR, `${date}.json`);
-    const raw = await fs.readFile(fullPath, "utf-8");
-    const parsed = JSON.parse(raw);
-    return {
-      ...parsed,
-      date: parsed.date || date,
-    };
-  } catch {
-    return null;
-  }
+  const editions = await getAllEditions();
+  const match = editions.find((e) => e.date === date);
+  return match || null;
 }
 
 export interface JobWithDate {
@@ -64,7 +32,6 @@ export async function getAllJobs(options?: { activeOnly?: boolean }): Promise<Jo
   const cutoffTime = now - ACTIVE_DAYS_LIMIT * 24 * 60 * 60 * 1000;
 
   for (const edition of editions) {
-    // If activeOnly is true, check if edition is within 30 days
     if (options?.activeOnly) {
       const editionTime = new Date(edition.date).getTime();
       if (!isNaN(editionTime) && editionTime < cutoffTime) {
@@ -133,16 +100,18 @@ export async function getPaginatedJobs(params: PaginationParams = {}): Promise<P
 
   const total = filtered.length;
   const totalPages = Math.ceil(total / limit) || 1;
-  const offset = (page - 1) * limit;
-  const jobs = filtered.slice(offset, offset + limit);
-  const hasMore = offset + limit < total;
+  const validPage = Math.max(1, Math.min(page, totalPages));
+  const startIndex = (validPage - 1) * limit;
+  const endIndex = startIndex + limit;
+
+  const paginatedJobs = filtered.slice(startIndex, endIndex);
 
   return {
-    jobs,
+    jobs: paginatedJobs,
     total,
-    page,
+    page: validPage,
     limit,
-    hasMore,
+    hasMore: validPage < totalPages,
     totalPages,
   };
 }

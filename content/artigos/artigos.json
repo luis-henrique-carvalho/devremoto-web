@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "biome-substituindo-eslint-e-prettier",
+    "title": "Biome.js: O Linter e Formatter em Rust que quer Aposentar o ESLint e Prettier",
+    "description": "Descubra como o Biome formata e analisa projetos TypeScript e JavaScript com velocidade quase instantânea e configuração simplificada.",
+    "date": "2026-11-08",
+    "category": "Ferramentas",
+    "tags": [
+      "TypeScript",
+      "JavaScript",
+      "Rust",
+      "DevTools"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "4 min de leitura",
+    "githubRepo": "biomejs/biome",
+    "stars": "14.2k",
+    "content": "\nSe você trabalha com TypeScript ou JavaScript há algum tempo, certamente já passou pela dor de cabeça de configurar uma combinação de **ESLint**, **Prettier**, plugins e regras conflitantes, além de esperar segundos preciosos no seu pipeline de CI.\n\nO **Biome** (sucessor espiritual do projeto Rome) é uma ferramenta completa desenvolvida em **Rust** que combina formatação de código e análise estática (linting) em um único binário com foco obsessivo em performance.\n\n---\n\n### Por que o Biome chamou a atenção da comunidade?\n\n1. **Velocidade Bruta**: Por ser compilado em Rust e tirar proveito de paralelismo nativo, o Biome é até **25 vezes mais rápido** que o Prettier em projetos grandes.\n2. **Zero Conflito de Configuração**: Chega de conflitos entre formatação do Prettier e regras de estilização do ESLint. O Biome unifica ambos sob um mesmo motor sintático.\n3. **Compatibilidade com Prettier de 97%+**: Você pode migrar seu codebase sem que ele mude drasticamente a formatação que sua equipe já utiliza.\n\n---\n\n### Mão na Massa: Como Usar no seu Projeto\n\nA adoção do Biome é direta e não exige dezenas de dependências no `package.json`.\n\n#### 1. Instalação\n\nVocê pode rodar diretamente via npx ou instalar como dependência de desenvolvimento:\n\n```bash\n# Execução direta sem instalar\nnpx @biomejs/biome init\n\n# Ou instalando via pnpm / npm\npnpm add -D --save-exact @biomejs/biome\n```\n\nO comando `init` gera automaticamente um arquivo `biome.json` na raiz com as opções recomendadas.\n\n#### 2. Formatando e Corrigindo Erros\n\nPara checar todo o projeto e aplicar correções seguras automaticamente:\n\n```bash\n# Verifica formatação e erros de linting\npnpm biome check .\n\n# Corrige automaticamente e formata\npnpm biome check --write .\n```\n\n---\n\n### Exemplo de Configuração `biome.json`\n\nO arquivo de configuração é enxuto e autoexplicativo:\n\n```json\n{\n  \"$schema\": \"https://biomejs.dev/schemas/1.9.4/schema.json\",\n  \"vcs\": {\n    \"enabled\": true,\n    \"clientKind\": \"git\",\n    \"useIgnoreFile\": true\n  },\n  \"formatter\": {\n    \"enabled\": true,\n    \"indentStyle\": \"space\",\n    \"indentWidth\": 2,\n    \"lineWidth\": 100\n  },\n  \"linter\": {\n    \"enabled\": true,\n    \"rules\": {\n      \"recommended\": true\n    }\n  },\n  \"javascript\": {\n    \"formatter\": {\n      \"quoteStyle\": \"single\",\n      \"semicolons\": \"always\"\n    }\n  }\n}\n```\n\n---\n\n### Veredito: Vale a pena adotar hoje?\n\nPara **novos projetos e bibliotecas**, o Biome já é a nossa recomendação padrão. O ganho de velocidade no terminal e a simplicidade de manter apenas um arquivo de configuração pagam o investimento imediatamente.\n\nPara codebases legados gigantes com dezenas de regras customizadas de ESLint corporativo, vale testar primeiro em uma subpasta ou serviço isolado antes de migrar todo o monorepo.\n"
+  },
+  {
+    "slug": "uv-gerenciador-python-rust-ultrarapido",
+    "title": "uv: O Gerenciador de Pacotes e Ambientes Python 100x Mais Rápido que o pip",
+    "description": "Construído em Rust pela Astral, o uv substitui pip, pip-tools, virtualenv e poetry com resolução instantânea de dependências.",
+    "date": "2026-11-07",
+    "category": "Ferramentas",
+    "tags": [
+      "Python",
+      "Rust",
+      "DevTools",
+      "Performance"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "5 min de leitura",
+    "githubRepo": "astral-sh/uv",
+    "stars": "38.5k",
+    "content": "\nQuem programa em Python sabe que a gestão de ambientes virtuais e dependências com ferramentas tradicionais como `pip`, `venv` e `poetry` pode ser surpreendentemente lenta, especialmente ao instalar pacotes volumosos como PyTorch, Pandas ou Transformers.\n\nCriado pela **Astral** (mesma equipe por trás do linter Ruff), o **uv** é uma reescrita completa do ferramental de gerenciamento Python em Rust, projetado para ser um substituto drop-in para o `pip`.\n\n---\n\n### O que torna o uv revolucionário?\n\n1. **Velocidade de 10x a 100x**: Enquanto um `pip install` em projetos com lockfiles complexos pode demorar minutos, o uv resolve e instala dependências em questão de milissegundos graças a um cache global de wheels com links duros (hardlinks).\n2. **Substituição de Múltiplas Ferramentas**:\n   * Substitui `virtualenv` (`uv venv`)\n   * Substitui `pip install` (`uv pip install`)\n   * Substitui `pip-compile` (`uv pip compile`)\n   * Gerencia versões do próprio interpretador Python (`uv python install 3.12`)\n3. **Execução de Scripts Isolados**: Similar ao `npx` ou `bunx`, o comando `uvx` roda qualquer ferramenta CLI do ecossistema Python em um ambiente efêmero sem poluir seu sistema.\n\n---\n\n### Comandos Essenciais\n\n#### 1. Instalação do uv\n\nNo Linux ou macOS:\n\n```bash\ncurl -LsSf https://astral.sh/uv/install.sh | sh\n```\n\nOu via Homebrew / pipx:\n\n```bash\nbrew install uv\n```\n\n#### 2. Criando um Ambiente e Instalando Pacotes\n\n```bash\n# Cria um venv instantaneamente\nuv venv\n\n# Ativa o venv\nsource .venv/bin/activate\n\n# Instala pacotes na velocidade do Rust\nuv pip install fastapi uvicorn\n```\n\n#### 3. Rodando uma CLI sem Instalar Globalmente (`uvx`)\n\n```bash\n# Roda a ferramenta Ruff para checar o código sem instalá-la no sistema\nuvx ruff check .\n```\n\n---\n\n### Vale a pena adotar?\n\nSem dúvida. O uv já é considerado o novo padrão da indústria Python para 2026. A equipe da Astral tem mantido um ritmo de desenvolvimento impressionante e a ferramenta é estável para uso diário em desenvolvimento e ambientes de CI/CD.\n"
+  }
+]
