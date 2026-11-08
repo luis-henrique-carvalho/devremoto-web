@@ -58,7 +58,7 @@ export default function SobrePage() {
         {/* Social / Direct Channels */}
         <div className="flex flex-wrap items-center gap-2.5 font-mono text-xs pt-1">
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/luis-henrique-carvalho-072244213/"
             target="_blank"
             rel="noopener noreferrer"
             className={buttonVariants({
@@ -70,7 +70,7 @@ export default function SobrePage() {
             <span>LinkedIn</span>
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/luis-henrique-carvalho"
             target="_blank"
             rel="noopener noreferrer"
             className={buttonVariants({

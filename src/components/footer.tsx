@@ -30,20 +30,20 @@ export function Footer() {
               <InstagramIcon className="size-5" />
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/luis-henrique-carvalho"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-lg hover:text-white hover:bg-white/[0.05] transition-colors"
-              aria-label="GitHub"
+              aria-label="GitHub de Luis Carvalho"
             >
               <GithubIcon className="size-5" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/luis-henrique-carvalho-072244213/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-lg hover:text-white hover:bg-white/[0.05] transition-colors"
-              aria-label="LinkedIn"
+              aria-label="LinkedIn de Luis Carvalho"
             >
               <LinkedinIcon className="size-5" />
             </a>
