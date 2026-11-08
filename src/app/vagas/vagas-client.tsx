@@ -1,11 +1,23 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import Link from "next/link";
 import { Job, JobEdition } from "@/lib/types";
 import { JobCard } from "@/components/job-card";
 import { Input } from "@/components/ui/input";
-import { Search, Calendar, Briefcase, Filter, X } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import {
+  Search,
+  Calendar,
+  Briefcase,
+  Filter,
+  X,
+  ChevronDown,
+  CheckCircle2,
+  Sparkles,
+} from "lucide-react";
+
+const BATCH_SIZE = 12;
 
 interface VagasClientProps {
   initialJobs: { job: Job; editionDate: string }[];
@@ -16,8 +28,10 @@ export function VagasClient({ initialJobs, editions }: VagasClientProps) {
   const [search, setSearch] = useState("");
   const [selectedStack, setSelectedStack] = useState<string>("Todas");
   const [selectedSeniority, setSelectedSeniority] = useState<string>("Todas");
+  const [visibleCount, setVisibleCount] = useState<number>(BATCH_SIZE);
+  const [isLoadingMore, setIsLoadingMore] = useState<boolean>(false);
 
-  // Extract unique stacks
+  // Extract unique stacks from the available jobs
   const allStacks = useMemo(() => {
     const set = new Set<string>();
     for (const item of initialJobs) {
@@ -30,7 +44,7 @@ export function VagasClient({ initialJobs, editions }: VagasClientProps) {
 
   const seniorities = ["Todas", "Júnior", "Pleno", "Sênior", "Especialista"];
 
-  // Filter jobs
+  // Filter jobs based on active filters
   const filtered = useMemo(() => {
     return initialJobs.filter(({ job }) => {
       // Search text
@@ -43,18 +57,40 @@ export function VagasClient({ initialJobs, editions }: VagasClientProps) {
       }
 
       // Stack filter
-      if (selectedStack !== "Todas") {
-        if (!job.stacks.includes(selectedStack)) return false;
+      if (selectedStack !== "Todas" && !job.stacks.includes(selectedStack)) {
+        return false;
       }
 
       // Seniority filter
-      if (selectedSeniority !== "Todas") {
-        if (job.seniority !== selectedSeniority) return false;
+      if (selectedSeniority !== "Todas" && job.seniority !== selectedSeniority) {
+        return false;
       }
 
       return true;
     });
   }, [initialJobs, search, selectedStack, selectedSeniority]);
+
+  // Reset pagination to first batch whenever filters change
+  useEffect(() => {
+    setVisibleCount(BATCH_SIZE);
+  }, [search, selectedStack, selectedSeniority]);
+
+  // Current batch to display
+  const displayedJobs = useMemo(() => {
+    return filtered.slice(0, visibleCount);
+  }, [filtered, visibleCount]);
+
+  const hasMore = visibleCount < filtered.length;
+  const remainingCount = Math.min(BATCH_SIZE, filtered.length - visibleCount);
+
+  const handleLoadMore = () => {
+    setIsLoadingMore(true);
+    // Simulate brief transition for silky smooth feedback
+    setTimeout(() => {
+      setVisibleCount((prev) => prev + BATCH_SIZE);
+      setIsLoadingMore(false);
+    }, 150);
+  };
 
   return (
     <div className="flex flex-col gap-6">
@@ -131,11 +167,12 @@ export function VagasClient({ initialJobs, editions }: VagasClientProps) {
       {/* Counter and Editions bar */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 text-xs font-mono text-zinc-400 border-b border-white/[0.06] pb-3">
         <span>
-          Exibindo <strong className="text-white">{filtered.length}</strong> vagas abertas
+          Exibindo <strong className="text-white">{displayedJobs.length}</strong> de{" "}
+          <strong className="text-emerald-400">{filtered.length}</strong> vagas abertas
         </span>
 
         <div className="flex items-center gap-1.5 overflow-x-auto scrollbar-none">
-          <span className="text-zinc-500 shrink-0">Edições:</span>
+          <span className="text-zinc-500 shrink-0">Edições do Instagram:</span>
           {editions.map((ed) => (
             <Link
               key={ed.date}
@@ -150,9 +187,9 @@ export function VagasClient({ initialJobs, editions }: VagasClientProps) {
       </div>
 
       {/* Jobs Grid */}
-      {filtered.length > 0 ? (
+      {displayedJobs.length > 0 ? (
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          {filtered.map(({ job, editionDate }, index) => (
+          {displayedJobs.map(({ job, editionDate }, index) => (
             <JobCard key={`${job.url}-${index}`} job={job} editionDate={editionDate} />
           ))}
         </div>
@@ -172,6 +209,38 @@ export function VagasClient({ initialJobs, editions }: VagasClientProps) {
           >
             Limpar todos os filtros
           </button>
+        </div>
+      )}
+
+      {/* Batch Loading / Pagination Controls */}
+      {hasMore && (
+        <div className="flex flex-col items-center justify-center pt-4 pb-2 gap-3">
+          <button
+            type="button"
+            onClick={handleLoadMore}
+            disabled={isLoadingMore}
+            className="w-full sm:w-auto min-w-[280px] min-h-[48px] rounded-xl bg-[#16171B] hover:bg-emerald-500/10 border border-emerald-500/40 text-emerald-400 font-mono font-bold text-sm flex items-center justify-center gap-2 shadow-lg hover:shadow-emerald-500/10 transition-all duration-150 active:scale-[0.98] disabled:opacity-60 cursor-pointer"
+          >
+            {isLoadingMore ? (
+              <span>Carregando próximo lote...</span>
+            ) : (
+              <>
+                <ChevronDown className="size-4 animate-bounce" />
+                <span>Carregar mais {remainingCount} vagas</span>
+              </>
+            )}
+          </button>
+          <span className="text-[11px] font-mono text-zinc-500">
+            {filtered.length - visibleCount} vagas restantes nesta listagem
+          </span>
+        </div>
+      )}
+
+      {/* End of list indicator */}
+      {!hasMore && filtered.length > 0 && (
+        <div className="flex items-center justify-center gap-2 pt-6 pb-2 text-xs font-mono text-zinc-500 border-t border-white/[0.04]">
+          <CheckCircle2 className="size-4 text-emerald-500" />
+          <span>Você visualizou todas as {filtered.length} vagas verificadas dos últimos 30 dias.</span>
         </div>
       )}
     </div>
