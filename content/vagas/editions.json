@@ -1,5 +1,323 @@
 [
   {
+    "date": "2026-11-09",
+    "generatedAt": "2026-11-09T14:00:00.000Z",
+    "dateLabel": "09.nov",
+    "count": 8,
+    "hook": {
+      "angle": "multi-stack",
+      "headline": "Radar Dev de hoje: 8 vagas 100% home office abertas agora.",
+      "lead": "De Back-End e Dados a Front-End e Mobile: selecionamos vagas reais sem exigência presencial."
+    },
+    "uniqueStacks": [
+      "Golang",
+      "React",
+      "AWS",
+      "IA / GenAI"
+    ],
+    "senioritySummary": "Júnior → Especialista",
+    "jobs": [
+      {
+        "url": "https://magazineluiza.inhire.app/magalucloud/vagas/9c378616-4ffa-43d2-a0c0-697773043322/desenvolvedora-sr-postgresql",
+        "company": "Magalu Cloud",
+        "handle": "@magalu-cloud",
+        "title": "Desenvolvedor(a) Sênior · PostgreSQL",
+        "seniority": "Sênior",
+        "stacks": [
+          "PostgreSQL",
+          "Cloud",
+          "Back-End"
+        ],
+        "category": "Back-End & Engenharia",
+        "source": "InHire",
+        "postedAt": "2026-11-09",
+        "isRecognized": true,
+        "score": 48
+      },
+      {
+        "url": "https://lwsa.inhire.app/bling/vagas/b904415f-d269-4c53-8bba-3bee66b8fdf1/bling-or-desenvolvedora-pleno-or-golang-or-remoto",
+        "company": "LWSA",
+        "handle": "@lwsa",
+        "title": "Desenvolvedor(a) Pleno · Golang",
+        "seniority": "Pleno",
+        "stacks": [
+          "Golang",
+          "APIs",
+          "Back-End"
+        ],
+        "category": "Back-End & Engenharia",
+        "source": "InHire",
+        "postedAt": "2026-11-09",
+        "isRecognized": true,
+        "score": 45
+      },
+      {
+        "url": "https://programathor.com.br/jobs/33847-ai-engineer-pleno",
+        "company": "Askable",
+        "handle": "@askable",
+        "title": "AI Engineer Pleno",
+        "seniority": "Pleno",
+        "stacks": [
+          "IA / GenAI",
+          "Python",
+          "Machine Learning"
+        ],
+        "category": "Dados, Cloud & IA",
+        "source": "ProgramaThor",
+        "postedAt": "2026-11-07",
+        "isRecognized": false,
+        "score": 38
+      },
+      {
+        "url": "https://vemprabip.gupy.io/job/eyJqb2JJZCI6MTI4NDQ3ODAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "company": "BIP Brasil",
+        "handle": "@bip-brasil",
+        "title": "Desenvolvedor(a) de IA & RPA Júnior",
+        "seniority": "Júnior",
+        "stacks": [
+          "IA / GenAI",
+          "Python",
+          "RPA"
+        ],
+        "category": "Dados, Cloud & IA",
+        "source": "Gupy",
+        "postedAt": "2026-11-05",
+        "isRecognized": false,
+        "score": 36
+      },
+      {
+        "url": "https://starian.gupy.io/job/eyJqb2JJZCI6MTI3Njk0NDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "company": "Starian",
+        "handle": "@starian",
+        "title": "Desenvolvedor(a) Fullstack Pleno (Java & React)",
+        "seniority": "Pleno",
+        "stacks": [
+          "Java",
+          "React",
+          "Node.js"
+        ],
+        "category": "Full Stack & Produto",
+        "source": "Gupy",
+        "postedAt": "2026-11-09",
+        "isRecognized": false,
+        "score": 35
+      },
+      {
+        "url": "https://jobs.lever.co/oowlish/cd66a853-ac1b-4740-a6b8-f6d33b13cb3c/apply?utm_source=remotar",
+        "company": "Oowlish",
+        "handle": "@oowlish",
+        "title": "Senior Frontend Engineer (React)",
+        "seniority": "Sênior",
+        "stacks": [
+          "React",
+          "Front-End",
+          "TypeScript"
+        ],
+        "category": "Front-End & Interfaces",
+        "source": "Lever",
+        "postedAt": "2026-11-07",
+        "isRecognized": false,
+        "score": 34
+      },
+      {
+        "url": "https://programathor.com.br/jobs/33831-engenheiro-a-de-cloud-devops-aws",
+        "company": "Grupo SOITIC",
+        "handle": "@grupo-soitic",
+        "title": "Engenheiro(a) de Cloud & DevOps · AWS",
+        "seniority": "Pleno / Sênior",
+        "stacks": [
+          "AWS",
+          "DevOps",
+          "GCP / Cloud"
+        ],
+        "category": "QA, Testes & DevOps",
+        "source": "ProgramaThor",
+        "postedAt": "2026-11-07",
+        "isRecognized": false,
+        "score": 33
+      },
+      {
+        "url": "https://programathor.com.br/jobs/33851-senior-mobile-developer-usd-based-pay",
+        "company": "Micro1",
+        "handle": "@micro1",
+        "title": "Senior Mobile Developer (USD / Dólar)",
+        "seniority": "Sênior",
+        "stacks": [
+          "Mobile",
+          "React Native",
+          "Apps"
+        ],
+        "category": "Mobile & Apps",
+        "source": "ProgramaThor",
+        "postedAt": "2026-11-07",
+        "isRecognized": false,
+        "score": 33
+      }
+    ],
+    "slidesPairs": [
+      {
+        "eyebrow": "// trilha_01 · vagas verificadas",
+        "heading": "Back-End & Engenharia · Cloud",
+        "jobs": [
+          {
+            "url": "https://magazineluiza.inhire.app/magalucloud/vagas/9c378616-4ffa-43d2-a0c0-697773043322/desenvolvedora-sr-postgresql",
+            "company": "Magalu Cloud",
+            "handle": "@magalu-cloud",
+            "title": "Desenvolvedor(a) Sênior · PostgreSQL",
+            "seniority": "Sênior",
+            "stacks": [
+              "PostgreSQL",
+              "Cloud",
+              "Back-End"
+            ],
+            "category": "Back-End & Engenharia",
+            "source": "InHire",
+            "postedAt": "2026-11-09",
+            "isRecognized": true,
+            "score": 48
+          },
+          {
+            "url": "https://lwsa.inhire.app/bling/vagas/b904415f-d269-4c53-8bba-3bee66b8fdf1/bling-or-desenvolvedora-pleno-or-golang-or-remoto",
+            "company": "LWSA",
+            "handle": "@lwsa",
+            "title": "Desenvolvedor(a) Pleno · Golang",
+            "seniority": "Pleno",
+            "stacks": [
+              "Golang",
+              "APIs",
+              "Back-End"
+            ],
+            "category": "Back-End & Engenharia",
+            "source": "InHire",
+            "postedAt": "2026-11-09",
+            "isRecognized": true,
+            "score": 45
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_02 · vagas verificadas",
+        "heading": "Dados / IA · RPA",
+        "jobs": [
+          {
+            "url": "https://programathor.com.br/jobs/33847-ai-engineer-pleno",
+            "company": "Askable",
+            "handle": "@askable",
+            "title": "AI Engineer Pleno",
+            "seniority": "Pleno",
+            "stacks": [
+              "IA / GenAI",
+              "Python",
+              "Machine Learning"
+            ],
+            "category": "Dados, Cloud & IA",
+            "source": "ProgramaThor",
+            "postedAt": "2026-11-07",
+            "isRecognized": false,
+            "score": 38
+          },
+          {
+            "url": "https://vemprabip.gupy.io/job/eyJqb2JJZCI6MTI4NDQ3ODAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+            "company": "BIP Brasil",
+            "handle": "@bip-brasil",
+            "title": "Desenvolvedor(a) de IA & RPA Júnior",
+            "seniority": "Júnior",
+            "stacks": [
+              "IA / GenAI",
+              "Python",
+              "RPA"
+            ],
+            "category": "Dados, Cloud & IA",
+            "source": "Gupy",
+            "postedAt": "2026-11-05",
+            "isRecognized": false,
+            "score": 36
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_03 · vagas verificadas",
+        "heading": "Full Stack · Front-End",
+        "jobs": [
+          {
+            "url": "https://starian.gupy.io/job/eyJqb2JJZCI6MTI3Njk0NDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+            "company": "Starian",
+            "handle": "@starian",
+            "title": "Desenvolvedor(a) Fullstack Pleno (Java & React)",
+            "seniority": "Pleno",
+            "stacks": [
+              "Java",
+              "React",
+              "Node.js"
+            ],
+            "category": "Full Stack & Produto",
+            "source": "Gupy",
+            "postedAt": "2026-11-09",
+            "isRecognized": false,
+            "score": 35
+          },
+          {
+            "url": "https://jobs.lever.co/oowlish/cd66a853-ac1b-4740-a6b8-f6d33b13cb3c/apply?utm_source=remotar",
+            "company": "Oowlish",
+            "handle": "@oowlish",
+            "title": "Senior Frontend Engineer (React)",
+            "seniority": "Sênior",
+            "stacks": [
+              "React",
+              "Front-End",
+              "TypeScript"
+            ],
+            "category": "Front-End & Interfaces",
+            "source": "Lever",
+            "postedAt": "2026-11-07",
+            "isRecognized": false,
+            "score": 34
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_04 · vagas verificadas",
+        "heading": "DevOps & Cloud · Mobile (USD)",
+        "jobs": [
+          {
+            "url": "https://programathor.com.br/jobs/33831-engenheiro-a-de-cloud-devops-aws",
+            "company": "Grupo SOITIC",
+            "handle": "@grupo-soitic",
+            "title": "Engenheiro(a) de Cloud & DevOps · AWS",
+            "seniority": "Pleno / Sênior",
+            "stacks": [
+              "AWS",
+              "DevOps",
+              "GCP / Cloud"
+            ],
+            "category": "QA, Testes & DevOps",
+            "source": "ProgramaThor",
+            "postedAt": "2026-11-07",
+            "isRecognized": false,
+            "score": 33
+          },
+          {
+            "url": "https://programathor.com.br/jobs/33851-senior-mobile-developer-usd-based-pay",
+            "company": "Micro1",
+            "handle": "@micro1",
+            "title": "Senior Mobile Developer (USD / Dólar)",
+            "seniority": "Sênior",
+            "stacks": [
+              "Mobile",
+              "React Native",
+              "Apps"
+            ],
+            "category": "Mobile & Apps",
+            "source": "ProgramaThor",
+            "postedAt": "2026-11-07",
+            "isRecognized": false,
+            "score": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
     "generatedAt": "2026-11-08T14:05:00.000Z",
     "dateLabel": "08.nov",
     "count": 8,
