@@ -1,5 +1,323 @@
 [
   {
+    "date": "2026-11-10",
+    "generatedAt": "2026-11-10T14:00:00.000Z",
+    "dateLabel": "10.nov",
+    "count": 8,
+    "hook": {
+      "angle": "brand-anchor",
+      "headline": "iFood, Magalu Cloud e +6 techs contratando de casa hoje.",
+      "lead": "Curadoria diária sem híbrido disfarçado. Oportunidades verificadas abertas para trabalhar de qualquer estado."
+    },
+    "uniqueStacks": [
+      "Golang",
+      "React",
+      "Java",
+      "IA / GenAI"
+    ],
+    "senioritySummary": "Júnior → Especialista",
+    "jobs": [
+      {
+        "url": "https://job-boards.greenhouse.io/ifoodcarreiras/jobs/8919249002?utm_source=remotar",
+        "company": "iFood",
+        "handle": "@ifood",
+        "title": "Senior Software Engineer · Full Stack (Agent Max)",
+        "seniority": "Sênior",
+        "stacks": [
+          "Full Stack",
+          "IA / GenAI",
+          "Web APIs"
+        ],
+        "category": "Full Stack & Produto",
+        "source": "Greenhouse",
+        "postedAt": "2026-11-09",
+        "isRecognized": true,
+        "score": 48
+      },
+      {
+        "url": "https://magazineluiza.inhire.app/magalucloud/vagas/2bb20e7b-1f07-49d3-a6b1-979fb7ae00f0/desenvolvedora-sr-fast-track-mensageria",
+        "company": "Magalu Cloud",
+        "handle": "@magalu-cloud",
+        "title": "Desenvolvedor(a) Sênior · Mensageria",
+        "seniority": "Sênior",
+        "stacks": [
+          "Kafka / Filas",
+          "Cloud",
+          "Back-End"
+        ],
+        "category": "Back-End & Engenharia",
+        "source": "InHire",
+        "postedAt": "2026-11-09",
+        "isRecognized": true,
+        "score": 48
+      },
+      {
+        "url": "https://job-boards.greenhouse.io/canonical/jobs/3880952?utm_source=remotar",
+        "company": "Canonical",
+        "handle": "@canonical",
+        "title": "Staff Software Engineer · Golang",
+        "seniority": "Especialista",
+        "stacks": [
+          "Golang",
+          "Linux / IAM",
+          "Back-End"
+        ],
+        "category": "Back-End & Engenharia",
+        "source": "Greenhouse",
+        "postedAt": "2026-11-10",
+        "isRecognized": false,
+        "score": 40
+      },
+      {
+        "url": "https://careers.epam.com/en/vacancy/senior-frontend-developer-bltkpa1t7lwaw4ljy8s_en?utm_source=remotar",
+        "company": "EPAM",
+        "handle": "@epam",
+        "title": "Senior Frontend Developer",
+        "seniority": "Sênior",
+        "stacks": [
+          "React",
+          "TypeScript",
+          "Front-End"
+        ],
+        "category": "Front-End & Interfaces",
+        "source": "Portal Direto",
+        "postedAt": "2026-11-10",
+        "isRecognized": false,
+        "score": 38
+      },
+      {
+        "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI4NTUxNDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "company": "Stefanini Group",
+        "handle": "@stefanini-group",
+        "title": "Desenvolvedor(a) Full Stack Pleno (Java e Angular)",
+        "seniority": "Pleno",
+        "stacks": [
+          "Angular",
+          "Java",
+          "Full Stack"
+        ],
+        "category": "Java, .NET & Enterprise",
+        "source": "Gupy",
+        "postedAt": "2026-11-09",
+        "isRecognized": false,
+        "score": 35
+      },
+      {
+        "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTI4NTk5NTUsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+        "company": "Compass.UOL",
+        "handle": "@compass-uol",
+        "title": "Desenvolvedor(a) Java Pleno",
+        "seniority": "Pleno",
+        "stacks": [
+          "Java",
+          "Spring",
+          "APIs"
+        ],
+        "category": "Java, .NET & Enterprise",
+        "source": "Gupy",
+        "postedAt": "2026-11-10",
+        "isRecognized": false,
+        "score": 36
+      },
+      {
+        "url": "https://br.linkedin.com/jobs/view/qa-test-automation-mid-remote-at-ai-r-4489144864",
+        "company": "AI/R",
+        "handle": "@ai-r",
+        "title": "QA Test Automation Pleno",
+        "seniority": "Pleno",
+        "stacks": [
+          "QA / Testes",
+          "Automação",
+          "CI/CD"
+        ],
+        "category": "QA, Testes & DevOps",
+        "source": "LinkedIn",
+        "postedAt": "2026-11-09",
+        "isRecognized": false,
+        "score": 34
+      },
+      {
+        "url": "https://daniel-ip.gupy.io/job/eyJqb2JJZCI6MTI4MzY5OTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "company": "Daniel",
+        "handle": "@daniel",
+        "title": "Desenvolvedor(a) Java Júnior",
+        "seniority": "Júnior",
+        "stacks": [
+          "Java",
+          "Spring",
+          "SQL"
+        ],
+        "category": "Java, .NET & Enterprise",
+        "source": "Gupy",
+        "postedAt": "2026-11-04",
+        "isRecognized": false,
+        "score": 32
+      }
+    ],
+    "slidesPairs": [
+      {
+        "eyebrow": "// trilha_01 · vagas verificadas",
+        "heading": "Full Stack · Cloud & Mensageria",
+        "jobs": [
+          {
+            "url": "https://job-boards.greenhouse.io/ifoodcarreiras/jobs/8919249002?utm_source=remotar",
+            "company": "iFood",
+            "handle": "@ifood",
+            "title": "Senior Software Engineer · Full Stack (Agent Max)",
+            "seniority": "Sênior",
+            "stacks": [
+              "Full Stack",
+              "IA / GenAI",
+              "Web APIs"
+            ],
+            "category": "Full Stack & Produto",
+            "source": "Greenhouse",
+            "postedAt": "2026-11-09",
+            "isRecognized": true,
+            "score": 48
+          },
+          {
+            "url": "https://magazineluiza.inhire.app/magalucloud/vagas/2bb20e7b-1f07-49d3-a6b1-979fb7ae00f0/desenvolvedora-sr-fast-track-mensageria",
+            "company": "Magalu Cloud",
+            "handle": "@magalu-cloud",
+            "title": "Desenvolvedor(a) Sênior · Mensageria",
+            "seniority": "Sênior",
+            "stacks": [
+              "Kafka / Filas",
+              "Cloud",
+              "Back-End"
+            ],
+            "category": "Back-End & Engenharia",
+            "source": "InHire",
+            "postedAt": "2026-11-09",
+            "isRecognized": true,
+            "score": 48
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_02 · vagas verificadas",
+        "heading": "Back-End (Go) · Front-End (React)",
+        "jobs": [
+          {
+            "url": "https://job-boards.greenhouse.io/canonical/jobs/3880952?utm_source=remotar",
+            "company": "Canonical",
+            "handle": "@canonical",
+            "title": "Staff Software Engineer · Golang",
+            "seniority": "Especialista",
+            "stacks": [
+              "Golang",
+              "Linux / IAM",
+              "Back-End"
+            ],
+            "category": "Back-End & Engenharia",
+            "source": "Greenhouse",
+            "postedAt": "2026-11-10",
+            "isRecognized": false,
+            "score": 40
+          },
+          {
+            "url": "https://careers.epam.com/en/vacancy/senior-frontend-developer-bltkpa1t7lwaw4ljy8s_en?utm_source=remotar",
+            "company": "EPAM",
+            "handle": "@epam",
+            "title": "Senior Frontend Developer",
+            "seniority": "Sênior",
+            "stacks": [
+              "React",
+              "TypeScript",
+              "Front-End"
+            ],
+            "category": "Front-End & Interfaces",
+            "source": "Portal Direto",
+            "postedAt": "2026-11-10",
+            "isRecognized": false,
+            "score": 38
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_03 · vagas verificadas",
+        "heading": "Java & Angular · Enterprise",
+        "jobs": [
+          {
+            "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI4NTUxNDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+            "company": "Stefanini Group",
+            "handle": "@stefanini-group",
+            "title": "Desenvolvedor(a) Full Stack Pleno (Java e Angular)",
+            "seniority": "Pleno",
+            "stacks": [
+              "Angular",
+              "Java",
+              "Full Stack"
+            ],
+            "category": "Java, .NET & Enterprise",
+            "source": "Gupy",
+            "postedAt": "2026-11-09",
+            "isRecognized": false,
+            "score": 35
+          },
+          {
+            "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTI4NTk5NTUsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+            "company": "Compass.UOL",
+            "handle": "@compass-uol",
+            "title": "Desenvolvedor(a) Java Pleno",
+            "seniority": "Pleno",
+            "stacks": [
+              "Java",
+              "Spring",
+              "APIs"
+            ],
+            "category": "Java, .NET & Enterprise",
+            "source": "Gupy",
+            "postedAt": "2026-11-10",
+            "isRecognized": false,
+            "score": 36
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_04 · vagas verificadas",
+        "heading": "QA Automação · Java Júnior",
+        "jobs": [
+          {
+            "url": "https://br.linkedin.com/jobs/view/qa-test-automation-mid-remote-at-ai-r-4489144864",
+            "company": "AI/R",
+            "handle": "@ai-r",
+            "title": "QA Test Automation Pleno",
+            "seniority": "Pleno",
+            "stacks": [
+              "QA / Testes",
+              "Automação",
+              "CI/CD"
+            ],
+            "category": "QA, Testes & DevOps",
+            "source": "LinkedIn",
+            "postedAt": "2026-11-09",
+            "isRecognized": false,
+            "score": 34
+          },
+          {
+            "url": "https://daniel-ip.gupy.io/job/eyJqb2JJZCI6MTI4MzY5OTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+            "company": "Daniel",
+            "handle": "@daniel",
+            "title": "Desenvolvedor(a) Java Júnior",
+            "seniority": "Júnior",
+            "stacks": [
+              "Java",
+              "Spring",
+              "SQL"
+            ],
+            "category": "Java, .NET & Enterprise",
+            "source": "Gupy",
+            "postedAt": "2026-11-04",
+            "isRecognized": false,
+            "score": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-09",
     "generatedAt": "2026-11-09T14:00:00.000Z",
     "dateLabel": "09.nov",
