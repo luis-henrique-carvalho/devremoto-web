@@ -1,5 +1,323 @@
 [
   {
+    "date": "2026-11-11",
+    "generatedAt": "2026-11-11T14:00:00.000Z",
+    "dateLabel": "11.nov",
+    "count": 8,
+    "hook": {
+      "angle": "anti-hibrido",
+      "headline": "8 empresas contratando 100% remoto hoje no Brasil.",
+      "lead": "Zero híbrido 3x na semana. Todas as oportunidades abaixo aceitam devs trabalhando de casa em qualquer cidade."
+    },
+    "uniqueStacks": [
+      "React",
+      "Node.js",
+      "Java",
+      "AWS"
+    ],
+    "senioritySummary": "Júnior → Sênior",
+    "jobs": [
+      {
+        "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4NjAwNDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "company": "FCamara",
+        "handle": "@fcamara",
+        "title": "Desenvolvedor(a) Full Stack Sênior",
+        "seniority": "Sênior",
+        "stacks": [
+          "Node.js",
+          "React",
+          "TypeScript"
+        ],
+        "category": "Full Stack & Produto",
+        "source": "Gupy",
+        "postedAt": "2026-11-09",
+        "isRecognized": true,
+        "score": 48
+      },
+      {
+        "url": "https://jobs.lever.co/caliza-financial-technologies/e0519b77-10e5-4918-8c8d-521641fb3d76/apply?utm_source=remotar",
+        "company": "Caliza",
+        "handle": "@caliza",
+        "title": "Senior Front-End Engineer",
+        "seniority": "Sênior",
+        "stacks": [
+          "React",
+          "TypeScript",
+          "Front-End"
+        ],
+        "category": "Front-End & Interfaces",
+        "source": "Lever",
+        "postedAt": "2026-11-09",
+        "isRecognized": false,
+        "score": 42
+      },
+      {
+        "url": "https://contabilizei.inhire.app/vagas/984aa6d8-0a7d-4aa1-8251-7a8403b88e06/tecnologia-desenvolvedora-back-end-pleno",
+        "company": "Contabilizei",
+        "handle": "@contabilizei",
+        "title": "Desenvolvedor(a) Back-End Pleno",
+        "seniority": "Pleno",
+        "stacks": [
+          "Back-End",
+          "Java",
+          "APIs"
+        ],
+        "category": "Back-End & Engenharia",
+        "source": "InHire",
+        "postedAt": "2026-11-10",
+        "isRecognized": true,
+        "score": 45
+      },
+      {
+        "url": "https://extremegroup.inhire.app/vagas/68f5ff4b-9ea2-46eb-bf0c-a163ea79ba3b/desenvolvedor-fullstrack-ii",
+        "company": "Extreme Digital Solutions",
+        "handle": "@extreme-digital-solutions",
+        "title": "Desenvolvedor Full Stack Java Pleno",
+        "seniority": "Pleno",
+        "stacks": [
+          "Java",
+          "Spring",
+          "Full Stack"
+        ],
+        "category": "Java, .NET & Enterprise",
+        "source": "InHire",
+        "postedAt": "2026-11-10",
+        "isRecognized": false,
+        "score": 38
+      },
+      {
+        "url": "https://luby.inhire.app/vagas/fb3f1498-c534-4e8d-b2f7-655fb8e69214/profissional-engenheiroa-de-dados-aws-pleno-remoto",
+        "company": "Luby",
+        "handle": "@luby",
+        "title": "Engenheiro(a) de Dados Pleno (AWS)",
+        "seniority": "Pleno",
+        "stacks": [
+          "AWS",
+          "Dados",
+          "Python"
+        ],
+        "category": "Dados, Cloud & IA",
+        "source": "InHire",
+        "postedAt": "2026-11-10",
+        "isRecognized": false,
+        "score": 38
+      },
+      {
+        "url": "https://deliverit.gupy.io/job/eyJqb2JJZCI6MTI4NjgwODcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "company": "Deliver IT",
+        "handle": "@deliver-it",
+        "title": "Desenvolvedor(a) iOS Pleno",
+        "seniority": "Pleno",
+        "stacks": [
+          "Swift / iOS",
+          "Mobile",
+          "APIs"
+        ],
+        "category": "Mobile & Apps",
+        "source": "Gupy",
+        "postedAt": "2026-11-10",
+        "isRecognized": false,
+        "score": 38
+      },
+      {
+        "url": "https://softexpert.gupy.io/job/eyJqb2JJZCI6MTI4NjY4NzAsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+        "company": "SoftExpert",
+        "handle": "@softexpert",
+        "title": "Engenheiro(a) de Teste Pleno (QA)",
+        "seniority": "Pleno",
+        "stacks": [
+          "QA / Testes",
+          "Automação",
+          "CI/CD"
+        ],
+        "category": "QA, Testes & DevOps",
+        "source": "Gupy",
+        "postedAt": "2026-11-11",
+        "isRecognized": false,
+        "score": 40
+      },
+      {
+        "url": "https://lwsa.inhire.app/vagas/bf53a8de-cc82-4d7f-9239-5f98f08ba5ab/lwsa-or-analista-de-seguranca-da-informacao-junior-soc-or-remoto",
+        "company": "LWSA",
+        "handle": "@lwsa",
+        "title": "Analista de Segurança da Informação Júnior",
+        "seniority": "Júnior",
+        "stacks": [
+          "Segurança",
+          "SOC",
+          "Cloud"
+        ],
+        "category": "QA, Testes & DevOps",
+        "source": "InHire",
+        "postedAt": "2026-11-10",
+        "isRecognized": true,
+        "score": 46
+      }
+    ],
+    "slidesPairs": [
+      {
+        "eyebrow": "// trilha_01 · full_stack & front_end",
+        "heading": "Full Stack & Front-End",
+        "jobs": [
+          {
+            "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4NjAwNDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+            "company": "FCamara",
+            "handle": "@fcamara",
+            "title": "Desenvolvedor(a) Full Stack Sênior",
+            "seniority": "Sênior",
+            "stacks": [
+              "Node.js",
+              "React",
+              "TypeScript"
+            ],
+            "category": "Full Stack & Produto",
+            "source": "Gupy",
+            "postedAt": "2026-11-09",
+            "isRecognized": true,
+            "score": 48
+          },
+          {
+            "url": "https://jobs.lever.co/caliza-financial-technologies/e0519b77-10e5-4918-8c8d-521641fb3d76/apply?utm_source=remotar",
+            "company": "Caliza",
+            "handle": "@caliza",
+            "title": "Senior Front-End Engineer",
+            "seniority": "Sênior",
+            "stacks": [
+              "React",
+              "TypeScript",
+              "Front-End"
+            ],
+            "category": "Front-End & Interfaces",
+            "source": "Lever",
+            "postedAt": "2026-11-09",
+            "isRecognized": false,
+            "score": 42
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_02 · back_end & enterprise",
+        "heading": "Back-End & Enterprise",
+        "jobs": [
+          {
+            "url": "https://contabilizei.inhire.app/vagas/984aa6d8-0a7d-4aa1-8251-7a8403b88e06/tecnologia-desenvolvedora-back-end-pleno",
+            "company": "Contabilizei",
+            "handle": "@contabilizei",
+            "title": "Desenvolvedor(a) Back-End Pleno",
+            "seniority": "Pleno",
+            "stacks": [
+              "Back-End",
+              "Java",
+              "APIs"
+            ],
+            "category": "Back-End & Engenharia",
+            "source": "InHire",
+            "postedAt": "2026-11-10",
+            "isRecognized": true,
+            "score": 45
+          },
+          {
+            "url": "https://extremegroup.inhire.app/vagas/68f5ff4b-9ea2-46eb-bf0c-a163ea79ba3b/desenvolvedor-fullstrack-ii",
+            "company": "Extreme Digital Solutions",
+            "handle": "@extreme-digital-solutions",
+            "title": "Desenvolvedor Full Stack Java Pleno",
+            "seniority": "Pleno",
+            "stacks": [
+              "Java",
+              "Spring",
+              "Full Stack"
+            ],
+            "category": "Java, .NET & Enterprise",
+            "source": "InHire",
+            "postedAt": "2026-11-10",
+            "isRecognized": false,
+            "score": 38
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_03 · dados & mobile",
+        "heading": "Dados / AWS · Mobile iOS",
+        "jobs": [
+          {
+            "url": "https://luby.inhire.app/vagas/fb3f1498-c534-4e8d-b2f7-655fb8e69214/profissional-engenheiroa-de-dados-aws-pleno-remoto",
+            "company": "Luby",
+            "handle": "@luby",
+            "title": "Engenheiro(a) de Dados Pleno (AWS)",
+            "seniority": "Pleno",
+            "stacks": [
+              "AWS",
+              "Dados",
+              "Python"
+            ],
+            "category": "Dados, Cloud & IA",
+            "source": "InHire",
+            "postedAt": "2026-11-10",
+            "isRecognized": false,
+            "score": 38
+          },
+          {
+            "url": "https://deliverit.gupy.io/job/eyJqb2JJZCI6MTI4NjgwODcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+            "company": "Deliver IT",
+            "handle": "@deliver-it",
+            "title": "Desenvolvedor(a) iOS Pleno",
+            "seniority": "Pleno",
+            "stacks": [
+              "Swift / iOS",
+              "Mobile",
+              "APIs"
+            ],
+            "category": "Mobile & Apps",
+            "source": "Gupy",
+            "postedAt": "2026-11-10",
+            "isRecognized": false,
+            "score": 38
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_04 · qualidade & segurança",
+        "heading": "QA / Testes · Segurança Júnior",
+        "jobs": [
+          {
+            "url": "https://softexpert.gupy.io/job/eyJqb2JJZCI6MTI4NjY4NzAsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+            "company": "SoftExpert",
+            "handle": "@softexpert",
+            "title": "Engenheiro(a) de Teste Pleno (QA)",
+            "seniority": "Pleno",
+            "stacks": [
+              "QA / Testes",
+              "Automação",
+              "CI/CD"
+            ],
+            "category": "QA, Testes & DevOps",
+            "source": "Gupy",
+            "postedAt": "2026-11-11",
+            "isRecognized": false,
+            "score": 40
+          },
+          {
+            "url": "https://lwsa.inhire.app/vagas/bf53a8de-cc82-4d7f-9239-5f98f08ba5ab/lwsa-or-analista-de-seguranca-da-informacao-junior-soc-or-remoto",
+            "company": "LWSA",
+            "handle": "@lwsa",
+            "title": "Analista de Segurança da Informação Júnior",
+            "seniority": "Júnior",
+            "stacks": [
+              "Segurança",
+              "SOC",
+              "Cloud"
+            ],
+            "category": "QA, Testes & DevOps",
+            "source": "InHire",
+            "postedAt": "2026-11-10",
+            "isRecognized": true,
+            "score": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-10",
     "generatedAt": "2026-11-10T14:00:00.000Z",
     "dateLabel": "10.nov",
