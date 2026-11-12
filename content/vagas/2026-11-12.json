@@ -1,0 +1,318 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T14:00:00.000Z",
+  "dateLabel": "12.nov",
+  "count": 8,
+  "hook": {
+    "angle": "brand-anchor",
+    "headline": "Grupo Boticário, Stefanini e +6 techs contratando de casa hoje.",
+    "lead": "Curadoria diária sem híbrido disfarçado. Oportunidades verificadas abertas para trabalhar de qualquer estado."
+  },
+  "uniqueStacks": [
+    "Golang",
+    "React",
+    "DevOps",
+    "Kotlin"
+  ],
+  "senioritySummary": "Júnior → Especialista",
+  "jobs": [
+    {
+      "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI3OTg3MjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Grupo Boticário",
+      "handle": "@grupo-boticario",
+      "title": "DevOps Analyst II",
+      "seniority": "Pleno",
+      "stacks": [
+        "DevOps",
+        "Cloud",
+        "CI/CD"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "Gupy",
+      "postedAt": "2026-11-09",
+      "isRecognized": true,
+      "score": 57.4
+    },
+    {
+      "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI4NzI4MDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Stefanini Group",
+      "handle": "@stefanini-group",
+      "title": "Analista Desenvolvedor Pleno (Cibersegurança)",
+      "seniority": "Pleno",
+      "stacks": [
+        "Segurança",
+        "Cloud",
+        "APIs"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "Gupy",
+      "postedAt": "2026-11-11",
+      "isRecognized": true,
+      "score": 45
+    },
+    {
+      "url": "https://www.playlist.com/careers/opportunities/4726097006?gh_jid=4726097006&utm_source=remotar",
+      "company": "Playlist",
+      "handle": "@playlist",
+      "title": "Staff Software Engineer (Front-End)",
+      "seniority": "Especialista",
+      "stacks": [
+        "React",
+        "TypeScript",
+        "Front-End"
+      ],
+      "category": "Front-End & Interfaces",
+      "source": "Portal Direto",
+      "postedAt": "2026-11-10",
+      "isRecognized": false,
+      "score": 42
+    },
+    {
+      "url": "https://www.housecallpro.com/careers/open-positions/?gh_jid=5367922004&utm_source=remotar",
+      "company": "Housecall Pro",
+      "handle": "@housecall-pro",
+      "title": "Senior Android Software Engineer",
+      "seniority": "Sênior",
+      "stacks": [
+        "Kotlin",
+        "Android",
+        "Mobile"
+      ],
+      "category": "Mobile & Apps",
+      "source": "Portal Direto",
+      "postedAt": "2026-11-12",
+      "isRecognized": false,
+      "score": 44
+    },
+    {
+      "url": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI4NjkxOTgsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "company": "Quality Digital",
+      "handle": "@quality-digital",
+      "title": "Pessoa Desenvolvedora Pleno (Golang)",
+      "seniority": "Pleno",
+      "stacks": [
+        "Golang",
+        "APIs",
+        "Back-End"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "Gupy",
+      "postedAt": "2026-11-11",
+      "isRecognized": false,
+      "score": 40
+    },
+    {
+      "url": "https://zummit.inhire.app/vagas/34d31e7f-cde1-4b18-a5eb-0188093f07d7/desenvolvedora-full-stack-pljavareact-remoto",
+      "company": "Zummit",
+      "handle": "@zummit",
+      "title": "Desenvolvedor(a) Full-Stack Pleno (Java/React)",
+      "seniority": "Pleno",
+      "stacks": [
+        "Java",
+        "React",
+        "Full Stack"
+      ],
+      "category": "Java, .NET & Enterprise",
+      "source": "InHire",
+      "postedAt": "2026-11-11",
+      "isRecognized": false,
+      "score": 38
+    },
+    {
+      "url": "https://vemprabip.gupy.io/job/eyJqb2JJZCI6MTI4NDQ2NjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "BIP Brasil",
+      "handle": "@bip-brasil",
+      "title": "Pessoa Desenvolvedora de IA/RPA - Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "IA / GenAI",
+        "Python",
+        "RPA"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "Gupy",
+      "postedAt": "2026-11-05",
+      "isRecognized": false,
+      "score": 36
+    },
+    {
+      "url": "https://ahlex.vagas.solides.com.br/vaga/951388?origem=remotar",
+      "company": "Ahlex",
+      "handle": "@ahlex",
+      "title": "Desenvolvedor(a) Júnior",
+      "seniority": "Júnior",
+      "stacks": [
+        "Node.js",
+        "APIs",
+        "Software"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "Sólides",
+      "postedAt": "2026-11-11",
+      "isRecognized": false,
+      "score": 35
+    }
+  ],
+  "slidesPairs": [
+    {
+      "eyebrow": "// trilha_01 · infra & segurança",
+      "heading": "DevOps · Cibersegurança",
+      "jobs": [
+        {
+          "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI3OTg3MjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Grupo Boticário",
+          "handle": "@grupo-boticario",
+          "title": "DevOps Analyst II",
+          "seniority": "Pleno",
+          "stacks": [
+            "DevOps",
+            "Cloud",
+            "CI/CD"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "Gupy",
+          "postedAt": "2026-11-09",
+          "isRecognized": true,
+          "score": 57.4
+        },
+        {
+          "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI4NzI4MDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Stefanini Group",
+          "handle": "@stefanini-group",
+          "title": "Analista Desenvolvedor Pleno (Cibersegurança)",
+          "seniority": "Pleno",
+          "stacks": [
+            "Segurança",
+            "Cloud",
+            "APIs"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "Gupy",
+          "postedAt": "2026-11-11",
+          "isRecognized": true,
+          "score": 45
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_02 · interfaces & mobile",
+      "heading": "Front-End · Mobile iOS/Android",
+      "jobs": [
+        {
+          "url": "https://www.playlist.com/careers/opportunities/4726097006?gh_jid=4726097006&utm_source=remotar",
+          "company": "Playlist",
+          "handle": "@playlist",
+          "title": "Staff Software Engineer (Front-End)",
+          "seniority": "Especialista",
+          "stacks": [
+            "React",
+            "TypeScript",
+            "Front-End"
+          ],
+          "category": "Front-End & Interfaces",
+          "source": "Portal Direto",
+          "postedAt": "2026-11-10",
+          "isRecognized": false,
+          "score": 42
+        },
+        {
+          "url": "https://www.housecallpro.com/careers/open-positions/?gh_jid=5367922004&utm_source=remotar",
+          "company": "Housecall Pro",
+          "handle": "@housecall-pro",
+          "title": "Senior Android Software Engineer",
+          "seniority": "Sênior",
+          "stacks": [
+            "Kotlin",
+            "Android",
+            "Mobile"
+          ],
+          "category": "Mobile & Apps",
+          "source": "Portal Direto",
+          "postedAt": "2026-11-12",
+          "isRecognized": false,
+          "score": 44
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_03 · engenharia & full stack",
+      "heading": "Golang · Java & React",
+      "jobs": [
+        {
+          "url": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI4NjkxOTgsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+          "company": "Quality Digital",
+          "handle": "@quality-digital",
+          "title": "Pessoa Desenvolvedora Pleno (Golang)",
+          "seniority": "Pleno",
+          "stacks": [
+            "Golang",
+            "APIs",
+            "Back-End"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "Gupy",
+          "postedAt": "2026-11-11",
+          "isRecognized": false,
+          "score": 40
+        },
+        {
+          "url": "https://zummit.inhire.app/vagas/34d31e7f-cde1-4b18-a5eb-0188093f07d7/desenvolvedora-full-stack-pljavareact-remoto",
+          "company": "Zummit",
+          "handle": "@zummit",
+          "title": "Desenvolvedor(a) Full-Stack Pleno (Java/React)",
+          "seniority": "Pleno",
+          "stacks": [
+            "Java",
+            "React",
+            "Full Stack"
+          ],
+          "category": "Java, .NET & Enterprise",
+          "source": "InHire",
+          "postedAt": "2026-11-11",
+          "isRecognized": false,
+          "score": 38
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_04 · ia & oportunidade júnior",
+      "heading": "Inteligência Artificial · Dev Júnior",
+      "jobs": [
+        {
+          "url": "https://vemprabip.gupy.io/job/eyJqb2JJZCI6MTI4NDQ2NjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "BIP Brasil",
+          "handle": "@bip-brasil",
+          "title": "Pessoa Desenvolvedora de IA/RPA - Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "IA / GenAI",
+            "Python",
+            "RPA"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "Gupy",
+          "postedAt": "2026-11-05",
+          "isRecognized": false,
+          "score": 36
+        },
+        {
+          "url": "https://ahlex.vagas.solides.com.br/vaga/951388?origem=remotar",
+          "company": "Ahlex",
+          "handle": "@ahlex",
+          "title": "Desenvolvedor(a) Júnior",
+          "seniority": "Júnior",
+          "stacks": [
+            "Node.js",
+            "APIs",
+            "Software"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "Sólides",
+          "postedAt": "2026-11-11",
+          "isRecognized": false,
+          "score": 35
+        }
+      ]
+    }
+  ]
+}
