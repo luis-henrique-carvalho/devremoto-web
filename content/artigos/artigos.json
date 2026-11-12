@@ -1,5 +1,138 @@
 [
   {
+    "slug": "birefnet-remocao-de-fundo-profissional-com-ia-open-source",
+    "title": "BiRefNet: O Removedor de Fundo com IA de Nível Profissional e Código Aberto",
+    "description": "Diga adeus a assinaturas de softwares fechados. O BiRefNet recorta cabelos, pelos, vidros e detalhes complexos com precisão cirúrgica em imagens de alta resolução.",
+    "date": "2026-11-12",
+    "category": "DevTools & Ferramentas",
+    "tags": [
+      "Visão Computacional",
+      "Design",
+      "Python",
+      "OpenSource",
+      "Photoshop"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "4 min de leitura",
+    "githubRepo": "ZhengPeng7/BiRefNet",
+    "stars": "16.8k",
+    "content": "Recortar pessoas, cabelos e objetos transparentes sempre foi uma das tarefas mais demoradas do design gráfico. Ferramentas online cobram por imagem processada ou reduzem a qualidade do arquivo final.\n\nO **BiRefNet** (Bilateral Reference Network) é o estado da arte em remoção de fundo (Background Removal) de alta resolução, superando até mesmo os filtros de inteligência artificial do Photoshop.\n\n---\n\n### Por que o BiRefNet se Destaca?\n\n- **Preservação de Fios Finos**: Cabelos cacheados, pelos de animais e folhagens são preservados sem aquele contorno branco serrilhado típico de ferramentas baratas.\n- **Transparência Real**: Vidros, óculos e plásticos são processados com canal alfa real, permitindo sobreposições perfeitas em fundos escuros.\n- **Roda Localmente**: Processe lotes inteiros de imagens de e-commerce ou thumbnails sem subir arquivos privados para servidores de terceiros.\n\n---\n\n### Veredito DevRemoto\n\nUma ferramenta indispensável para desenvolvedores front-end, designers e editores de vídeo que precisam automatizar o corte de fotos com perfeição milimétrica."
+  },
+  {
+    "slug": "kokoro-tts-voz-neural-ultra-realista-gratis-no-docker",
+    "title": "Kokoro-82M: O Motor de Voz Neural Gratuito que Desbanca Serviços Pagos",
+    "description": "Com apenas 82 milhões de parâmetros, o Kokoro gera fala humana com cadência natural, respiração e sotaque brasileiro rodando localmente sem placa de vídeo cara.",
+    "date": "2026-11-12",
+    "category": "Inteligência Artificial",
+    "tags": [
+      "TTS",
+      "Áudio",
+      "Voz Neural",
+      "Docker",
+      "Python"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "4 min de leitura",
+    "githubRepo": "hexgrad/kokoro",
+    "stars": "31.2k",
+    "content": "Serviços de voz neural como a ElevenLabs transformaram a produção de vídeos, mas cobram assinaturas pesadas em dólar e limitam a quantidade de caracteres que você pode vocalizar por mês.\n\nO **Kokoro-82M** chegou para mudar esse cenário: é um modelo de Text-to-Speech com apenas **82 milhões de parâmetros** que gera áudios de altíssima fidelidade e naturalidade rodando em tempo real até mesmo na CPU de um notebook comum.\n\n---\n\n### Como Rodar no Docker em Segundos\n\n```bash\n# Executa a API do Kokoro localmente com suporte a português\ndocker run -d -p 8880:8880 --name kokoro-tts ghcr.io/remsky/kokoro-fastapi-cpu:v0.1.0\n```\n\nA partir daí, você tem um endpoint local compatível com a API da OpenAI para gerar falas instantâneas para vídeos, podcasts e assistentes virtuais a custo zero.\n\n---\n\n### Veredito DevRemoto\n\nO Kokoro é a prova viva de que modelos de IA eficientes e compactos podem superar gigantes inflados. É a engine oficial que usamos para renderizar áudios de alta fidelidade no canal DevRemoto."
+  },
+  {
+    "slug": "openreply-automacao-de-direct-instagram-open-source",
+    "title": "OpenReply: A Alternativa Open-Source ao ManyChat sem Mensalidades em Dólar",
+    "description": "Descubra como automatizar respostas a comentários e disparos de links no Instagram Direct com zero custos de licença e total controle dos seus dados.",
+    "date": "2026-11-12",
+    "category": "Automação & Agentes",
+    "tags": [
+      "Instagram",
+      "Automação",
+      "OpenSource",
+      "Next.js",
+      "Meta API"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "5 min de leitura",
+    "githubRepo": "diwenne/openreply",
+    "stars": "8.4k",
+    "content": "Quem produz conteúdo para o Instagram sabe que plataformas de automação de DM como o ManyChat cobram mensalidades caras que escalam rapidamente conforme sua lista de contatos cresce.\n\nO **OpenReply** é uma solução completa de código aberto que faz exatamente o que criadores e empresas precisam: monitora comentários de posts e Reels em tempo real e entrega links e materiais no Direct via Meta Graph API oficial, com custo de software zerado.\n\n---\n\n### Por que o OpenReply é Essencial?\n\n1. **Dobra o Alcance Algorítmico**: Quando um usuário comenta uma palavra-chave (ex: *\"VAGA\"*), o robô publica uma resposta pública no comentário e envia uma mensagem no inbox privado. Esse duplo sinal de interação avisa ao algoritmo do Instagram que o post tem alto engajamento.\n2. **Zero Taxa por Contato**: Enquanto serviços pagos cobram taxas extras se você passar de 5.000 seguidores, no OpenReply você roda na sua própria infraestrutura sem limites artificiais.\n3. **Painel Visual com Campanhas**: Crie gatilhos com respostas rotativas para evitar detecção de spam e acompanhe taxas de conversão de cliques por link.\n\n---\n\n### Veredito DevRemoto\n\nSe você usa ou pretende usar automação de Direct no Instagram para crescer seu projeto ou atrair leads, o OpenReply é a ferramenta que devolve o controle da sua audiência para as suas mãos."
+  },
+  {
+    "slug": "career-ops-cacador-de-vagas-remotas-com-ia",
+    "title": "Career-Ops: O Caçador de Vagas com IA que Analisa 740 Oportunidades em Segundos",
+    "description": "Conheça o agente open-source que varre portais globais, analisa a compatibilidade do seu currículo com ATS e gera candidaturas customizadas no piloto automático.",
+    "date": "2026-11-12",
+    "category": "Carreira Remota",
+    "tags": [
+      "Carreira",
+      "IA",
+      "Vagas Remotas",
+      "Python",
+      "ATS"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "6 min de leitura",
+    "githubRepo": "career-ops-hq/career-ops",
+    "stars": "18.4k",
+    "content": "Conquistar uma vaga internacional ou remota de alto nível em tecnologia virou um jogo de números e precisão. Empresas recebem centenas de currículos por dia e filtram quase 80% dos candidatos usando sistemas de ATS (Applicant Tracking Systems) antes mesmo de qualquer humano ler uma linha.\n\nO **Career-Ops** é uma ferramenta de código aberto que inverte o jogo: em vez de você passar horas preenchendo formulários e aplicando em vagas genéricas, um agente inteligente varre dezenas de portais, pontua cada oportunidade contra seu perfil e prepara sua candidatura com precisão cirúrgica.\n\n---\n\n### Por que o Career-Ops é Diferente?\n\n1. **Varredura Contínua em 740+ Fontes**: O agente rastreia portais como Greenhouse, Lever, Workday, Hacker News Who's Hiring e sites de carreiras de startups sem você precisar abrir 30 abas.\n2. **Score de Aderência sem Alucinação**: Cada vaga recebe uma nota de 0 a 100 baseada em correspondência real de skills, senioridade e compatibilidade de fuso horário para brasileiros.\n3. **Adequação Semântica de Currículo**: Ajusta termos técnicos e conquistas no seu CV em formato Markdown/PDF para passar com facilidade pelos filtros de triagem automatizada da Gupy, Greenhouse e Ashby.\n4. **100% Gratuito e Local**: Seus dados profissionais e currículo ficam salvos na sua própria máquina, sem mensalidades em dólar.\n\n---\n\n### Como Rodar no seu Computador\n\nO Career-Ops foi construído em Python e pode ser executado em qualquer sistema operacional (Linux, macOS ou Windows via WSL).\n\n#### 1. Instalação e Clonagem\n\n```bash\n# Clone o repositório oficial\ngit clone https://github.com/career-ops-hq/career-ops.git\ncd career-ops\n\n# Crie e ative um ambiente virtual isolado\npython3 -m venv .venv\nsource .venv/bin/activate\n\n# Instale as dependências\npip install -r requirements.txt\n```\n\n#### 2. Configurando seu Perfil Profissional\n\nAdicione suas informações e stacks no arquivo de configuração `profile.yml`:\n\n```yaml\ncandidate:\n  name: \"Seu Nome\"\n  target_roles: [\"Senior Full Stack Engineer\", \"Backend Engineer\"]\n  stacks: [\"TypeScript\", \"Node.js\", \"Python\", \"React\", \"PostgreSQL\", \"AWS\"]\n  location: \"Brazil (Remote Only)\"\n  min_salary_usd: 60000\n```\n\n#### 3. Executando a Varredura de Vagas\n\n```bash\n# Rastreia novas oportunidades e gera o relatório pontuado\npython -m career_ops scan --remote-only --latam-friendly\n\n# Visualiza o dashboard interativo de vagas encontradas\npython -m career_ops dashboard\n```\n\n---\n\n### Veredito DevRemoto\n\nPara quem está buscando posições remotas internacionais ou transição para empresas do exterior que pagam em moeda forte, o **Career-Ops** é uma das ferramentas mais poderosas já criadas. Ele elimina a frustração de enviar dezenas de currículos no escuro e coloca os dados a favor da sua carreira."
+  },
+  {
+    "slug": "worldcam-globe-todas-as-cameras-do-planeta-em-3d",
+    "title": "WorldCam Globe: O Mapa 3D que Transmite 200.000 Câmeras e Satélites ao Vivo",
+    "description": "Explore um globo tridimensional em código aberto que reúne transmissões de rua, radar de voos comerciais, tráfego de cargueiros oceânicos e órbita da ISS em tempo real.",
+    "date": "2026-11-12",
+    "category": "DevTools & Ferramentas",
+    "tags": [
+      "WebGL",
+      "Three.js",
+      "OpenSource",
+      "JavaScript",
+      "Mapas"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "5 min de leitura",
+    "githubRepo": "vasturiano/globe.gl",
+    "stars": "42.8k",
+    "content": "Imagine abrir o navegador e poder rotacionar o planeta Terra em 3D, dar zoom em Tóquio, Times Square ou Londres e assistir câmeras públicas de rua transmitindo em 4K no exato momento da navegação.\n\nO **WorldCam Globe** utiliza bibliotecas de visualização espacial baseadas em WebGL e Three.js para plotar mais de **200.000 fontes de dados públicos** em uma única interface tridimensional sem travamentos e com latência de apenas 0.4s.\n\n---\n\n### As 4 Camadas de Monitoramento em Tempo Real\n\n1. **Câmeras Públicas Urbanas**: Milhares de feeds de vídeo de alta resolução transmitindo cruzamentos, praias, avenidas e pontos turísticos do mundo todo.\n2. **Tráfego Aéreo Comercial (ADS-B)**: Todos os aviões comerciais em voo com dados precisos de altitude, modelo da aeronave, velocidade e rota traçada em 3D.\n3. **Radar Marítimo & Cabos Submarinos**: Navios cargueiros navegando oceanos em tempo real com mapas interativos da infraestrutura submarina de internet que conecta os continentes.\n4. **Órbita Espacial & Constelações**: Acompanhe a trajetória da Estação Espacial Internacional (ISS) a 418 km de altitude e o enxame de satélites Starlink cortando a atmosfera terrestre.\n\n---\n\n### Como Incorporar um Globo 3D no seu Projeto\n\nA mágica por trás dessa visualização é acessível a qualquer desenvolvedor front-end através do componente de código aberto `globe.gl`.\n\n```bash\n# Instalação rápida via npm ou pnpm\nnpm install globe.gl three\n```\n\n#### Exemplo em JavaScript Puro:\n\n```javascript\nimport Globe from 'globe.gl';\n\nconst myGlobe = Globe()\n  .globeImageUrl('//unpkg.com/three-globe/example/img/earth-night.jpg')\n  .pointsData(liveCamerasArray)\n  .pointAltitude('altitude')\n  .pointColor(() => '#34D399')\n  .onPointClick(camera => window.open(camera.streamUrl, '_blank'))\n  (document.getElementById('globeViz'));\n```\n\n---\n\n### Veredito DevRemoto\n\nAlém de ser uma das explorações visuais mais impressionantes da web moderna, o projeto prova o poder do WebGL moderno para manipular grandes volumes de coordenadas geográficas no cliente sem exigir servidores pesados de renderização."
+  },
+  {
+    "slug": "pack-3-agentes-ia-substitui-agencia-marketing",
+    "title": "Pack 3 Agentes: As Ferramentas Gratuitas que Fazem o Trabalho de uma Agência",
+    "description": "Como uma pessoa sozinha pode ter a produtividade de uma equipe de 10 pessoas combinando navegação web autônoma, design generativo e atendimento 24/7 no direct.",
+    "date": "2026-11-12",
+    "category": "Automação & Agentes",
+    "tags": [
+      "Agentes",
+      "IA",
+      "Automação",
+      "OpenSource",
+      "Python"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "6 min de leitura",
+    "githubRepo": "browser-use/browser-use",
+    "stars": "54.1k",
+    "content": "Contratar uma agência tradicional de marketing e prospecção custa facilmente mais de **R$ 10.000 por mês**. Para desenvolvedores autônomos, agências enxutas e criadores de conteúdo, o avanço recente dos agentes de inteligência artificial permitiu substituir tarefas braçais repetitivas por fluxos 100% automatizados e gratuitos.\n\nNeste artigo, detalhamos o fluxo completo da **Tríade de Agentes** que roda na sua própria máquina sem você pagar mensalidades abusivas em dólar.\n\n---\n\n### Os 3 Agentes da Stack\n\n#### 1. Navegador Autônomo (`browser-use`)\nUm agente em Python que controla um navegador Chromium real via Chrome DevTools Protocol. Você dá uma instrução em português (ex: *\"Acesse o Google, pesquise 20 empresas de tecnologia em São Paulo e extraia o e-mail de contato para uma planilha\"*), e o robô navega abas, clica, rola páginas e preenche dados sozinho sem você tocar no mouse.\n\n#### 2. Designer Visual Generativo (Código + GSAP / SVG)\nEm vez de depender de designers lentos ou do Canva, uma camada de código transforma especificações de texto em carrosséis de alta definição (1080×1350) e mockups em segundos com tipografia limpa e paleta profissional.\n\n#### 3. Atendimento e Entrega no Direct 24/7 (`openreply`)\nO elo final de conversão: um bot de código aberto conectado à Meta Graph API que monitora comentários de posts e Reels. Quando alguém comenta uma palavra-chave, ele responde a pessoa publicamente e dispara no Direct o material prometido com botão de ação imediato.\n\n---\n\n### Mão na Massa: Testando o Navegador Autônomo\n\n```bash\n# Instalação do browser-use com modelos locais ou API\npip install browser-use playwright\nplaywright install chromium\n```\n\n#### Script em Python:\n\n```python\nfrom langchain_openai import ChatOpenAI\nfrom browser_use import Agent\nimport asyncio\n\nasync def main():\n    agent = Agent(\n        task=\"Encontre 5 empresas de tecnologia remotas no Brasil e extraia o site oficial\",\n        llm=ChatOpenAI(model=\"gpt-4o\"),\n    )\n    result = await agent.run()\n    print(\"Contatos encontrados:\", result)\n\nasyncio.run(main())\n```\n\n---\n\n### Veredito DevRemoto\n\nA verdadeira revolução dos agentes não está em bater papo em chatbots, mas em **executar ações no mundo real**. Integrando prospecção, conteúdo e atendimento automático, uma única pessoa passa a operar com o poder de fogo de uma agência inteira a custo zero."
+  },
+  {
+    "slug": "deepseek-v3-modelo-aberto-gratis-no-seu-pc",
+    "title": "DeepSeek-V3: A Inteligência Artificial Aberta que Bate Modelos Pagos",
+    "description": "Entenda a arquitetura Mixture-of-Experts da DeepSeek, como ela superou modelos trancados de bilhões de dólares e o passo a passo para rodar no seu computador.",
+    "date": "2026-11-12",
+    "category": "Inteligência Artificial",
+    "tags": [
+      "DeepSeek",
+      "LLM",
+      "OpenSource",
+      "IA Local",
+      "Ollama"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "5 min de leitura",
+    "githubRepo": "deepseek-ai/DeepSeek-V3",
+    "stars": "85.2k",
+    "content": "Nos últimos meses, a empresa chinesa **DeepSeek** chocou a indústria global de tecnologia ao lançar modelos de linguagem que competem diretamente com o GPT-4o e Claude 3.5 Sonnet, treinados por uma fração minúscula do custo e disponibilizados com pesos 100% abertos.\n\nO **DeepSeek-V3** (e a variante focada em raciocínio lógico profundo **DeepSeek-R1**) provou que o código aberto não apenas alcançou os monopólios fechados, como pode superá-los em matemática, programação e raciocínio formal.\n\n---\n\n### O Segredo Técnico: Mixture-of-Experts (MoE)\n\n1. **Ativação Esparsa**: Embora o modelo tenha centenas de bilhões de parâmetros, ele ativa apenas uma fração de especialistas para cada token processado, garantindo respostas rápidas sem fritar a GPU.\n2. **Multi-Head Latent Attention (MLA)**: Reduz drasticamente o consumo de memória VRAM no cache de chave-valor (KV cache), permitindo janelas de contexto gigantescas rodando localmente.\n3. **Foco Brutal em Programação e Matemática**: O modelo foi treinado intensamente em repositórios de código aberto e provas lógicas, tornando-se uma das melhores IAs para pair programming e refatoração.\n\n---\n\n### Como Rodar no seu Computador com o Ollama\n\nVocê não precisa de um supercomputador na nuvem para experimentar modelos da família DeepSeek. Usando o **Ollama**, você baixa e executa em 1 comando no terminal:\n\n```bash\n# Baixa e executa o DeepSeek-R1 quantizado localmente\nollama run deepseek-r1:8b\n\n# Ou a versão leve para computadores mais modestos\nollama run deepseek-r1:1.5b\n```\n\n---\n\n### Veredito DevRemoto\n\nO DeepSeek é a maior vitória recente do movimento de código aberto. Ele liberta desenvolvedores da dependência de cartões de crédito em dólar e garante privacidade total para rodar IAs de nível mundial diretamente na sua máquina local."
+  },
+  {
     "slug": "biome-substituindo-eslint-e-prettier",
     "title": "Biome.js: O Linter e Formatter em Rust que quer Aposentar o ESLint e Prettier",
     "description": "Descubra como o Biome formata e analisa projetos TypeScript e JavaScript com velocidade quase instantânea e configuração simplificada.",
