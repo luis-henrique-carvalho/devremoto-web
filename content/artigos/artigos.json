@@ -1,5 +1,23 @@
 [
   {
+    "slug": "clean-android-tv",
+    "title": "CleanYourTV: A Ferramenta Open-Source que Transforma o Dia a Dia Dev",
+    "description": "Tire toda a poluição visual e apps ocultos que deixam sua TV travando",
+    "date": "2026-11-14",
+    "category": "DevTools & Ferramentas",
+    "tags": [
+      "DevTools",
+      "OpenSource",
+      "Produtividade",
+      "Tecnologia"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "4 min de leitura",
+    "githubRepo": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "stars": "19.7k",
+    "content": "No ecossistema de tecnologia moderno, ferramentas de código aberto e soluções comunitárias têm substituído softwares comerciais caros com vantagens claras: transparência, velocidade e privacidade.\n\nO **CleanYourTV** é um excelente exemplo dessa transformação.\n\n---\n\n### Principais Recursos e Benefícios\n\n* **01**: 🚫 Remove banners gigantes de propaganda da tela inicial da TV\n* **02**: 🚀 Desativa processos ocultos que consomem toda a memória RAM\n* **03**: 🎨 Instala um menu limpo e rápido só com os seus apps favoritos\n* **04**: 🔄 Reversível com um clique se você quiser voltar ao padrão\n\n---\n\n### Como Começar\n\nPara explorar e testar o projeto no seu ambiente:\n\n```bash\n# Acesse o repositório oficial no GitHub\ngit clone https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation.git\ncd $(basename \"Universal-Debloater-Alliance/universal-android-debloater-next-generation\")\n```\n\n---\n\n### Veredito DevRemoto\n\nMais uma solução essencial mapeada pelo radar do DevRemoto para quem busca produtividade, autonomia e ferramentas profissionais gratuitas."
+  },
+  {
     "slug": "birefnet-remocao-de-fundo-profissional-com-ia-open-source",
     "title": "BiRefNet: O Removedor de Fundo com IA de Nível Profissional e Código Aberto",
     "description": "Diga adeus a assinaturas de softwares fechados. O BiRefNet recorta cabelos, pelos, vidros e detalhes complexos com precisão cirúrgica em imagens de alta resolução.",
