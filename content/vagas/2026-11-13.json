@@ -1,0 +1,318 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T14:00:00.000Z",
+  "dateLabel": "13.nov",
+  "count": 8,
+  "hook": {
+    "angle": "multi-stack",
+    "headline": "Radar Dev de hoje: 8 vagas 100% home office abertas agora.",
+    "lead": "De Back-End e Dados a Front-End e Mobile: selecionamos vagas reais sem exigência presencial."
+  },
+  "uniqueStacks": [
+    "Segurança",
+    "Swift / iOS",
+    "React",
+    "Java"
+  ],
+  "senioritySummary": "Júnior → Especialista",
+  "jobs": [
+    {
+      "url": "https://job-boards.greenhouse.io/stone/jobs/8011058003",
+      "company": "Stone",
+      "handle": "@stone",
+      "title": "Staff Security Engineer [AppSec]",
+      "seniority": "Especialista",
+      "stacks": [
+        "Segurança",
+        "AppSec",
+        "Cloud"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "Greenhouse",
+      "postedAt": "2026-11-12",
+      "isRecognized": true,
+      "score": 55
+    },
+    {
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4NzExOTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "FCamara",
+      "handle": "@fcamara",
+      "title": "Analista de QA Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "QA / Testes",
+        "Automação",
+        "CI/CD"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "Gupy",
+      "postedAt": "2026-11-11",
+      "isRecognized": true,
+      "score": 58
+    },
+    {
+      "url": "https://www.housecallpro.com/careers/open-positions/?gh_jid=5367907004&utm_source=remotar",
+      "company": "Housecall Pro",
+      "handle": "@housecall-pro",
+      "title": "Senior iOS Software Engineer",
+      "seniority": "Sênior",
+      "stacks": [
+        "Swift / iOS",
+        "iOS",
+        "Mobile"
+      ],
+      "category": "Mobile & Apps",
+      "source": "Portal Direto",
+      "postedAt": "2026-11-12",
+      "isRecognized": false,
+      "score": 45
+    },
+    {
+      "url": "https://cedrotech.vagas.solides.com.br/vaga/952467?origem=remotar",
+      "company": "Cedro Technologies",
+      "handle": "@cedro-technologies",
+      "title": "Desenvolvedor(a) Front-End React",
+      "seniority": "Pleno",
+      "stacks": [
+        "React",
+        "TypeScript",
+        "Front-End"
+      ],
+      "category": "Front-End & Interfaces",
+      "source": "Sólides",
+      "postedAt": "2026-11-12",
+      "isRecognized": false,
+      "score": 40
+    },
+    {
+      "url": "https://vemsergrupoolx.gupy.io/job/eyJqb2JJZCI6MTI4MzEzMjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Grupo OLX",
+      "handle": "@grupo-olx",
+      "title": "Pessoa Desenvolvedora Back-End Sênior",
+      "seniority": "Sênior",
+      "stacks": [
+        "Back-End",
+        "APIs",
+        "Microsserviços"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "Gupy",
+      "postedAt": "2026-11-12",
+      "isRecognized": true,
+      "score": 50
+    },
+    {
+      "url": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-azure-pleno-remoto-at-dataside-4489281449",
+      "company": "Dataside",
+      "handle": "@dataside",
+      "title": "Engenheiro(a) de Dados Azure Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Dados",
+        "Azure",
+        "ETL"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "LinkedIn",
+      "postedAt": "2026-11-13",
+      "isRecognized": false,
+      "score": 38
+    },
+    {
+      "url": "https://ibrowse.factorialhr.com.br/job_posting/analista-de-desenvolvimento-java-senior-328398?utm_source=remotar",
+      "company": "Ibrowse",
+      "handle": "@ibrowse",
+      "title": "Analista de Desenvolvimento Java Sênior",
+      "seniority": "Sênior",
+      "stacks": [
+        "Java",
+        "Spring Boot",
+        "APIs"
+      ],
+      "category": "Java, .NET & Enterprise",
+      "source": "Portal Direto",
+      "postedAt": "2026-11-12",
+      "isRecognized": false,
+      "score": 38
+    },
+    {
+      "url": "https://fast2mine.vagas.solides.com.br/vaga/951758?origem=remotar",
+      "company": "Fast2Mine",
+      "handle": "@fast2mine",
+      "title": "Analista de Testes e Qualidade Júnior",
+      "seniority": "Júnior",
+      "stacks": [
+        "QA / Testes",
+        "Testes",
+        "Software"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "Sólides",
+      "postedAt": "2026-11-11",
+      "isRecognized": false,
+      "score": 35
+    }
+  ],
+  "slidesPairs": [
+    {
+      "eyebrow": "// trilha_01 · infra & segurança",
+      "heading": "AppSec Especialista · QA Pleno",
+      "jobs": [
+        {
+          "url": "https://job-boards.greenhouse.io/stone/jobs/8011058003",
+          "company": "Stone",
+          "handle": "@stone",
+          "title": "Staff Security Engineer [AppSec]",
+          "seniority": "Especialista",
+          "stacks": [
+            "Segurança",
+            "AppSec",
+            "Cloud"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "Greenhouse",
+          "postedAt": "2026-11-12",
+          "isRecognized": true,
+          "score": 55
+        },
+        {
+          "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4NzExOTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "FCamara",
+          "handle": "@fcamara",
+          "title": "Analista de QA Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "QA / Testes",
+            "Automação",
+            "CI/CD"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "Gupy",
+          "postedAt": "2026-11-11",
+          "isRecognized": true,
+          "score": 58
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_02 · mobile & interfaces",
+      "heading": "iOS Swift Sênior · Front-End React",
+      "jobs": [
+        {
+          "url": "https://www.housecallpro.com/careers/open-positions/?gh_jid=5367907004&utm_source=remotar",
+          "company": "Housecall Pro",
+          "handle": "@housecall-pro",
+          "title": "Senior iOS Software Engineer",
+          "seniority": "Sênior",
+          "stacks": [
+            "Swift / iOS",
+            "iOS",
+            "Mobile"
+          ],
+          "category": "Mobile & Apps",
+          "source": "Portal Direto",
+          "postedAt": "2026-11-12",
+          "isRecognized": false,
+          "score": 45
+        },
+        {
+          "url": "https://cedrotech.vagas.solides.com.br/vaga/952467?origem=remotar",
+          "company": "Cedro Technologies",
+          "handle": "@cedro-technologies",
+          "title": "Desenvolvedor(a) Front-End React",
+          "seniority": "Pleno",
+          "stacks": [
+            "React",
+            "TypeScript",
+            "Front-End"
+          ],
+          "category": "Front-End & Interfaces",
+          "source": "Sólides",
+          "postedAt": "2026-11-12",
+          "isRecognized": false,
+          "score": 40
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_03 · engenharia & dados",
+      "heading": "Back-End Sênior · Dados Azure",
+      "jobs": [
+        {
+          "url": "https://vemsergrupoolx.gupy.io/job/eyJqb2JJZCI6MTI4MzEzMjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Grupo OLX",
+          "handle": "@grupo-olx",
+          "title": "Pessoa Desenvolvedora Back-End Sênior",
+          "seniority": "Sênior",
+          "stacks": [
+            "Back-End",
+            "APIs",
+            "Microsserviços"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "Gupy",
+          "postedAt": "2026-11-12",
+          "isRecognized": true,
+          "score": 50
+        },
+        {
+          "url": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-azure-pleno-remoto-at-dataside-4489281449",
+          "company": "Dataside",
+          "handle": "@dataside",
+          "title": "Engenheiro(a) de Dados Azure Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Dados",
+            "Azure",
+            "ETL"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "LinkedIn",
+          "postedAt": "2026-11-13",
+          "isRecognized": false,
+          "score": 38
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_04 · enterprise & oportunidade júnior",
+      "heading": "Java Sênior · QA Júnior",
+      "jobs": [
+        {
+          "url": "https://ibrowse.factorialhr.com.br/job_posting/analista-de-desenvolvimento-java-senior-328398?utm_source=remotar",
+          "company": "Ibrowse",
+          "handle": "@ibrowse",
+          "title": "Analista de Desenvolvimento Java Sênior",
+          "seniority": "Sênior",
+          "stacks": [
+            "Java",
+            "Spring Boot",
+            "APIs"
+          ],
+          "category": "Java, .NET & Enterprise",
+          "source": "Portal Direto",
+          "postedAt": "2026-11-12",
+          "isRecognized": false,
+          "score": 38
+        },
+        {
+          "url": "https://fast2mine.vagas.solides.com.br/vaga/951758?origem=remotar",
+          "company": "Fast2Mine",
+          "handle": "@fast2mine",
+          "title": "Analista de Testes e Qualidade Júnior",
+          "seniority": "Júnior",
+          "stacks": [
+            "QA / Testes",
+            "Testes",
+            "Software"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "Sólides",
+          "postedAt": "2026-11-11",
+          "isRecognized": false,
+          "score": 35
+        }
+      ]
+    }
+  ]
+}
