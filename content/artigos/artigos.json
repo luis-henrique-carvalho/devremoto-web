@@ -1,5 +1,24 @@
 [
   {
+    "slug": "career-ops-cacador-de-vagas-remotas-com-ia",
+    "title": "Career-Ops: O Caçador de Vagas com IA que Analisa 740 Oportunidades em Segundos",
+    "description": "Conheça o agente open-source que varre portais globais, analisa a compatibilidade do seu currículo com ATS e gera candidaturas customizadas no piloto automático.",
+    "date": "2026-11-14",
+    "category": "Carreira Remota",
+    "tags": [
+      "Carreira",
+      "IA",
+      "Vagas Remotas",
+      "Python",
+      "ATS"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "6 min de leitura",
+    "githubRepo": "career-ops-hq/career-ops",
+    "stars": "18.4k",
+    "content": "Conquistar uma vaga internacional ou remota de alto nível em tecnologia virou um jogo de números e precisão. Empresas recebem centenas de currículos por dia e filtram quase 80% dos candidatos usando sistemas de ATS (Applicant Tracking Systems) antes mesmo de qualquer humano ler uma linha.\n\nO **Career-Ops** é uma ferramenta de código aberto que inverte o jogo: em vez de você passar horas preenchendo formulários e aplicando em vagas genéricas, um agente inteligente varre dezenas de portais, pontua cada oportunidade contra seu perfil e prepara sua candidatura com precisão cirúrgica.\n\n---\n\n### Por que o Career-Ops é Diferente?\n\n1. **Varredura Contínua em 740+ Fontes**: O agente rastreia portais como Greenhouse, Lever, Workday, Hacker News Who's Hiring e sites de carreiras de startups sem você precisar abrir 30 abas.\n2. **Score de Aderência sem Alucinação**: Cada vaga recebe uma nota de 0 a 100 baseada em correspondência real de skills, senioridade e compatibilidade de fuso horário para brasileiros.\n3. **Adequação Semântica de Currículo**: Ajusta termos técnicos e conquistas no seu CV em formato Markdown/PDF para passar com facilidade pelos filtros de triagem automatizada da Gupy, Greenhouse e Ashby.\n4. **100% Gratuito e Local**: Seus dados profissionais e currículo ficam salvos na sua própria máquina, sem mensalidades em dólar.\n\n---\n\n### Como Rodar no seu Computador\n\nO Career-Ops foi construído em Python e pode ser executado em qualquer sistema operacional (Linux, macOS ou Windows via WSL).\n\n#### 1. Instalação e Clonagem\n\n```bash\n# Clone o repositório oficial\ngit clone https://github.com/career-ops-hq/career-ops.git\ncd career-ops\n\n# Crie e ative um ambiente virtual isolado\npython3 -m venv .venv\nsource .venv/bin/activate\n\n# Instale as dependências\npip install -r requirements.txt\n```\n\n#### 2. Configurando seu Perfil Profissional\n\nAdicione suas informações e stacks no arquivo de configuração `profile.yml`:\n\n```yaml\ncandidate:\n  name: \"Seu Nome\"\n  target_roles: [\"Senior Full Stack Engineer\", \"Backend Engineer\"]\n  stacks: [\"TypeScript\", \"Node.js\", \"Python\", \"React\", \"PostgreSQL\", \"AWS\"]\n  location: \"Brazil (Remote Only)\"\n  min_salary_usd: 60000\n```\n\n#### 3. Executando a Varredura de Vagas\n\n```bash\n# Rastreia novas oportunidades e gera o relatório pontuado\npython -m career_ops scan --remote-only --latam-friendly\n\n# Visualiza o dashboard interativo de vagas encontradas\npython -m career_ops dashboard\n```\n\n---\n\n### Veredito DevRemoto\n\nPara quem está buscando posições remotas internacionais ou transição para empresas do exterior que pagam em moeda forte, o **Career-Ops** é uma das ferramentas mais poderosas já criadas. Ele elimina a frustração de enviar dezenas de currículos no escuro e coloca os dados a favor da sua carreira."
+  },
+  {
     "slug": "clean-android-tv",
     "title": "CleanYourTV: A Ferramenta Open-Source que Transforma o Dia a Dia Dev",
     "description": "Tire toda a poluição visual e apps ocultos que deixam sua TV travando",
@@ -73,25 +92,6 @@
     "githubRepo": "diwenne/openreply",
     "stars": "8.4k",
     "content": "Quem produz conteúdo para o Instagram sabe que plataformas de automação de DM como o ManyChat cobram mensalidades caras que escalam rapidamente conforme sua lista de contatos cresce.\n\nO **OpenReply** é uma solução completa de código aberto que faz exatamente o que criadores e empresas precisam: monitora comentários de posts e Reels em tempo real e entrega links e materiais no Direct via Meta Graph API oficial, com custo de software zerado.\n\n---\n\n### Por que o OpenReply é Essencial?\n\n1. **Dobra o Alcance Algorítmico**: Quando um usuário comenta uma palavra-chave (ex: *\"VAGA\"*), o robô publica uma resposta pública no comentário e envia uma mensagem no inbox privado. Esse duplo sinal de interação avisa ao algoritmo do Instagram que o post tem alto engajamento.\n2. **Zero Taxa por Contato**: Enquanto serviços pagos cobram taxas extras se você passar de 5.000 seguidores, no OpenReply você roda na sua própria infraestrutura sem limites artificiais.\n3. **Painel Visual com Campanhas**: Crie gatilhos com respostas rotativas para evitar detecção de spam e acompanhe taxas de conversão de cliques por link.\n\n---\n\n### Veredito DevRemoto\n\nSe você usa ou pretende usar automação de Direct no Instagram para crescer seu projeto ou atrair leads, o OpenReply é a ferramenta que devolve o controle da sua audiência para as suas mãos."
-  },
-  {
-    "slug": "career-ops-cacador-de-vagas-remotas-com-ia",
-    "title": "Career-Ops: O Caçador de Vagas com IA que Analisa 740 Oportunidades em Segundos",
-    "description": "Conheça o agente open-source que varre portais globais, analisa a compatibilidade do seu currículo com ATS e gera candidaturas customizadas no piloto automático.",
-    "date": "2026-11-12",
-    "category": "Carreira Remota",
-    "tags": [
-      "Carreira",
-      "IA",
-      "Vagas Remotas",
-      "Python",
-      "ATS"
-    ],
-    "author": "Luis Carvalho",
-    "readTime": "6 min de leitura",
-    "githubRepo": "career-ops-hq/career-ops",
-    "stars": "18.4k",
-    "content": "Conquistar uma vaga internacional ou remota de alto nível em tecnologia virou um jogo de números e precisão. Empresas recebem centenas de currículos por dia e filtram quase 80% dos candidatos usando sistemas de ATS (Applicant Tracking Systems) antes mesmo de qualquer humano ler uma linha.\n\nO **Career-Ops** é uma ferramenta de código aberto que inverte o jogo: em vez de você passar horas preenchendo formulários e aplicando em vagas genéricas, um agente inteligente varre dezenas de portais, pontua cada oportunidade contra seu perfil e prepara sua candidatura com precisão cirúrgica.\n\n---\n\n### Por que o Career-Ops é Diferente?\n\n1. **Varredura Contínua em 740+ Fontes**: O agente rastreia portais como Greenhouse, Lever, Workday, Hacker News Who's Hiring e sites de carreiras de startups sem você precisar abrir 30 abas.\n2. **Score de Aderência sem Alucinação**: Cada vaga recebe uma nota de 0 a 100 baseada em correspondência real de skills, senioridade e compatibilidade de fuso horário para brasileiros.\n3. **Adequação Semântica de Currículo**: Ajusta termos técnicos e conquistas no seu CV em formato Markdown/PDF para passar com facilidade pelos filtros de triagem automatizada da Gupy, Greenhouse e Ashby.\n4. **100% Gratuito e Local**: Seus dados profissionais e currículo ficam salvos na sua própria máquina, sem mensalidades em dólar.\n\n---\n\n### Como Rodar no seu Computador\n\nO Career-Ops foi construído em Python e pode ser executado em qualquer sistema operacional (Linux, macOS ou Windows via WSL).\n\n#### 1. Instalação e Clonagem\n\n```bash\n# Clone o repositório oficial\ngit clone https://github.com/career-ops-hq/career-ops.git\ncd career-ops\n\n# Crie e ative um ambiente virtual isolado\npython3 -m venv .venv\nsource .venv/bin/activate\n\n# Instale as dependências\npip install -r requirements.txt\n```\n\n#### 2. Configurando seu Perfil Profissional\n\nAdicione suas informações e stacks no arquivo de configuração `profile.yml`:\n\n```yaml\ncandidate:\n  name: \"Seu Nome\"\n  target_roles: [\"Senior Full Stack Engineer\", \"Backend Engineer\"]\n  stacks: [\"TypeScript\", \"Node.js\", \"Python\", \"React\", \"PostgreSQL\", \"AWS\"]\n  location: \"Brazil (Remote Only)\"\n  min_salary_usd: 60000\n```\n\n#### 3. Executando a Varredura de Vagas\n\n```bash\n# Rastreia novas oportunidades e gera o relatório pontuado\npython -m career_ops scan --remote-only --latam-friendly\n\n# Visualiza o dashboard interativo de vagas encontradas\npython -m career_ops dashboard\n```\n\n---\n\n### Veredito DevRemoto\n\nPara quem está buscando posições remotas internacionais ou transição para empresas do exterior que pagam em moeda forte, o **Career-Ops** é uma das ferramentas mais poderosas já criadas. Ele elimina a frustração de enviar dezenas de currículos no escuro e coloca os dados a favor da sua carreira."
   },
   {
     "slug": "worldcam-globe-todas-as-cameras-do-planeta-em-3d",

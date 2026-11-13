@@ -1,7 +1,7 @@
 ---
 title: "Career-Ops: O Caçador de Vagas com IA que Analisa 740 Oportunidades em Segundos"
 description: "Conheça o agente open-source que varre portais globais, analisa a compatibilidade do seu currículo com ATS e gera candidaturas customizadas no piloto automático."
-date: "2026-11-12"
+date: "2026-11-14"
 category: "Carreira Remota"
 tags: ["Carreira","IA","Vagas Remotas","Python","ATS"]
 author: "Luis Carvalho"
