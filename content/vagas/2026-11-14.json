@@ -1,0 +1,318 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T14:00:00.000Z",
+  "dateLabel": "14.nov",
+  "count": 8,
+  "hook": {
+    "angle": "jr-pleno-spotlight",
+    "headline": "O remoto não acabou: 8 vagas abertas hoje (incluindo Júnior e Pleno).",
+    "lead": "Aplicar cedo aumenta suas chances de triagem. Curadoria sem pegadinhas nem híbrido disfarçado."
+  },
+  "uniqueStacks": [
+    "C# / .NET",
+    "Node.js",
+    "Python / IA",
+    "Golang"
+  ],
+  "senioritySummary": "Júnior → Especialista",
+  "jobs": [
+    {
+      "url": "https://job-boards.greenhouse.io/stone/jobs/8200949003",
+      "company": "Stone",
+      "handle": "@stone",
+      "title": "Software Engineer Pleno C#",
+      "seniority": "Pleno",
+      "stacks": [
+        "C# / .NET",
+        "Cloud",
+        "APIs"
+      ],
+      "category": "Java, .NET & Enterprise",
+      "source": "Greenhouse",
+      "postedAt": "2026-11-13",
+      "isRecognized": true,
+      "score": 59.4
+    },
+    {
+      "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI4ODI1MTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Grupo Boticário",
+      "handle": "@grupo-boticario",
+      "title": "Pessoa Desenvolvedora Back-End Node.js Especialista",
+      "seniority": "Especialista",
+      "stacks": [
+        "Node.js",
+        "Microsserviços",
+        "Cloud"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "Gupy",
+      "postedAt": "2026-11-12",
+      "isRecognized": true,
+      "score": 46.4
+    },
+    {
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4NzUxNzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "FCamara",
+      "handle": "@fcamara",
+      "title": "Desenvolvedor Python Sênior (Foco em IA)",
+      "seniority": "Sênior",
+      "stacks": [
+        "Python",
+        "IA / GenAI",
+        "LLMs"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "Gupy",
+      "postedAt": "2026-11-12",
+      "isRecognized": true,
+      "score": 46.4
+    },
+    {
+      "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTI4ODE4MTUsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "company": "Compass.UOL",
+      "handle": "@compass-uol",
+      "title": "Python Data Science e Machine Learning",
+      "seniority": "Pleno",
+      "stacks": [
+        "Python",
+        "Data Science",
+        "Machine Learning"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "Gupy",
+      "postedAt": "2026-11-13",
+      "isRecognized": false,
+      "score": 34.4
+    },
+    {
+      "url": "https://programathor.com.br/jobs/33886-developer-back-end-pleno",
+      "company": "Botcity",
+      "handle": "@botcity",
+      "title": "Developer Back-End Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Python",
+        "APIs",
+        "Automação"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "ProgramaThor",
+      "postedAt": "2026-11-14",
+      "isRecognized": false,
+      "score": 35.4
+    },
+    {
+      "url": "https://aurum.gupy.io/job/eyJqb2JJZCI6MTI4NTkwNzEsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "company": "Aurum Software",
+      "handle": "@aurum-software",
+      "title": "Pessoa Desenvolvedora Full Stack Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Full Stack",
+        "React",
+        "Node.js"
+      ],
+      "category": "Full Stack & Produto",
+      "source": "Gupy",
+      "postedAt": "2026-11-10",
+      "isRecognized": false,
+      "score": 31.4
+    },
+    {
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-python-j%C3%BAnior-trabalho-remoto-at-bairesdev-4489584007",
+      "company": "BairesDev",
+      "handle": "@bairesdev",
+      "title": "Desenvolvedor Python Júnior",
+      "seniority": "Júnior",
+      "stacks": [
+        "Python",
+        "Back-End",
+        "Git"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "LinkedIn",
+      "postedAt": "2026-11-14",
+      "isRecognized": false,
+      "score": 35.4
+    },
+    {
+      "url": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI4Njk0MjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Quality Digital",
+      "handle": "@quality-digital",
+      "title": "Pessoa Desenvolvedora Golang Júnior",
+      "seniority": "Júnior",
+      "stacks": [
+        "Golang",
+        "Microsserviços",
+        "APIs"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "Gupy",
+      "postedAt": "2026-11-11",
+      "isRecognized": false,
+      "score": 32.4
+    }
+  ],
+  "slidesPairs": [
+    {
+      "eyebrow": "// trilha_01 · grandes players & enterprise",
+      "heading": "C# .NET Pleno · Node.js Especialista",
+      "jobs": [
+        {
+          "url": "https://job-boards.greenhouse.io/stone/jobs/8200949003",
+          "company": "Stone",
+          "handle": "@stone",
+          "title": "Software Engineer Pleno C#",
+          "seniority": "Pleno",
+          "stacks": [
+            "C# / .NET",
+            "Cloud",
+            "APIs"
+          ],
+          "category": "Java, .NET & Enterprise",
+          "source": "Greenhouse",
+          "postedAt": "2026-11-13",
+          "isRecognized": true,
+          "score": 59.4
+        },
+        {
+          "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI4ODI1MTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Grupo Boticário",
+          "handle": "@grupo-boticario",
+          "title": "Pessoa Desenvolvedora Back-End Node.js Especialista",
+          "seniority": "Especialista",
+          "stacks": [
+            "Node.js",
+            "Microsserviços",
+            "Cloud"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "Gupy",
+          "postedAt": "2026-11-12",
+          "isRecognized": true,
+          "score": 46.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_02 · inteligência artificial & dados",
+      "heading": "Python IA Sênior · Data Science Pleno",
+      "jobs": [
+        {
+          "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4NzUxNzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "FCamara",
+          "handle": "@fcamara",
+          "title": "Desenvolvedor Python Sênior (Foco em IA)",
+          "seniority": "Sênior",
+          "stacks": [
+            "Python",
+            "IA / GenAI",
+            "LLMs"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "Gupy",
+          "postedAt": "2026-11-12",
+          "isRecognized": true,
+          "score": 46.4
+        },
+        {
+          "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTI4ODE4MTUsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+          "company": "Compass.UOL",
+          "handle": "@compass-uol",
+          "title": "Python Data Science e Machine Learning",
+          "seniority": "Pleno",
+          "stacks": [
+            "Python",
+            "Data Science",
+            "Machine Learning"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "Gupy",
+          "postedAt": "2026-11-13",
+          "isRecognized": false,
+          "score": 34.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_03 · produto saas & engenharia",
+      "heading": "Back-End Pleno · Full Stack Pleno",
+      "jobs": [
+        {
+          "url": "https://programathor.com.br/jobs/33886-developer-back-end-pleno",
+          "company": "Botcity",
+          "handle": "@botcity",
+          "title": "Developer Back-End Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Python",
+            "APIs",
+            "Automação"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "ProgramaThor",
+          "postedAt": "2026-11-14",
+          "isRecognized": false,
+          "score": 35.4
+        },
+        {
+          "url": "https://aurum.gupy.io/job/eyJqb2JJZCI6MTI4NTkwNzEsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+          "company": "Aurum Software",
+          "handle": "@aurum-software",
+          "title": "Pessoa Desenvolvedora Full Stack Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Full Stack",
+            "React",
+            "Node.js"
+          ],
+          "category": "Full Stack & Produto",
+          "source": "Gupy",
+          "postedAt": "2026-11-10",
+          "isRecognized": false,
+          "score": 31.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_04 · oportunidades de entrada júnior",
+      "heading": "Python Júnior · Golang Júnior",
+      "jobs": [
+        {
+          "url": "https://br.linkedin.com/jobs/view/desenvolvedor-python-j%C3%BAnior-trabalho-remoto-at-bairesdev-4489584007",
+          "company": "BairesDev",
+          "handle": "@bairesdev",
+          "title": "Desenvolvedor Python Júnior",
+          "seniority": "Júnior",
+          "stacks": [
+            "Python",
+            "Back-End",
+            "Git"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "LinkedIn",
+          "postedAt": "2026-11-14",
+          "isRecognized": false,
+          "score": 35.4
+        },
+        {
+          "url": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI4Njk0MjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Quality Digital",
+          "handle": "@quality-digital",
+          "title": "Pessoa Desenvolvedora Golang Júnior",
+          "seniority": "Júnior",
+          "stacks": [
+            "Golang",
+            "Microsserviços",
+            "APIs"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "Gupy",
+          "postedAt": "2026-11-11",
+          "isRecognized": false,
+          "score": 32.4
+        }
+      ]
+    }
+  ]
+}
