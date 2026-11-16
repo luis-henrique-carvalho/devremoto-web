@@ -1,5 +1,323 @@
 [
   {
+    "date": "2026-11-16",
+    "generatedAt": "2026-11-16T14:03:32.544Z",
+    "dateLabel": "16.nov",
+    "count": 8,
+    "hook": {
+      "angle": "anti-hibrido",
+      "headline": "8 empresas contratando 100% remoto hoje no Brasil.",
+      "lead": "Zero híbrido 3x na semana. Todas as oportunidades abaixo aceitam devs trabalhando de casa em qualquer cidade."
+    },
+    "uniqueStacks": [
+      "React",
+      "Java",
+      "Golang",
+      "DevOps"
+    ],
+    "senioritySummary": "Júnior → Especialista",
+    "jobs": [
+      {
+        "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4Nzk1OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "company": "FCamara",
+        "handle": "@fcamara",
+        "title": "Desenvolvedor FullStack .Net/React Sênior",
+        "seniority": "Sênior",
+        "stacks": [
+          "React",
+          "C# / .NET",
+          "Web APIs"
+        ],
+        "category": "Java, .NET & Enterprise",
+        "source": "Gupy",
+        "postedAt": "2026-11-12",
+        "isRecognized": true,
+        "score": 44.4
+      },
+      {
+        "url": "https://sejaglobalweb.gupy.io/job/eyJqb2JJZCI6MTI2NzQyOTUsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+        "company": "Globalweb",
+        "handle": "@globalweb",
+        "title": "Desenvolvedor Java Pleno",
+        "seniority": "Pleno",
+        "stacks": [
+          "Java",
+          "Spring",
+          "APIs"
+        ],
+        "category": "Java, .NET & Enterprise",
+        "source": "Gupy",
+        "postedAt": "2026-11-15",
+        "isRecognized": true,
+        "score": 34.4
+      },
+      {
+        "url": "https://jobs.quickin.io/reply/jobs/6af73ee4c646ee0013544109?utm_source=remotar",
+        "company": "Reply",
+        "handle": "@reply",
+        "title": "Engenheiro de Dados Pleno",
+        "seniority": "Pleno",
+        "stacks": [
+          "Dados",
+          "Cloud",
+          "ETL"
+        ],
+        "category": "Dados, Cloud & IA",
+        "source": "Portal Direto",
+        "postedAt": "2026-11-14",
+        "isRecognized": false,
+        "score": 33.4
+      },
+      {
+        "url": "https://tiflux.vagas.solides.com.br/vaga/950800?origem=remotar",
+        "company": "Tiflux",
+        "handle": "@tiflux",
+        "title": "DevOps Engineer Júnior/Pleno",
+        "seniority": "Júnior",
+        "stacks": [
+          "DevOps",
+          "Cloud",
+          "CI/CD"
+        ],
+        "category": "QA, Testes & DevOps",
+        "source": "Sólides",
+        "postedAt": "2026-11-10",
+        "isRecognized": false,
+        "score": 29.4
+      },
+      {
+        "url": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI4NjkxOTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "company": "Quality Digital",
+        "handle": "@quality-digital",
+        "title": "Desenvolvedor Golang Pleno",
+        "seniority": "Pleno",
+        "stacks": [
+          "Golang",
+          "Microsserviços",
+          "APIs"
+        ],
+        "category": "Back-End & Engenharia",
+        "source": "Gupy",
+        "postedAt": "2026-11-11",
+        "isRecognized": false,
+        "score": 30.4
+      },
+      {
+        "url": "https://tech6group.inhire.app/vagas/a2d4d554-a0bf-4592-81f5-46260fb529a8/desenvolvedora-full-stack-pleno-net-typescript",
+        "company": "Tech6 Group",
+        "handle": "@tech6-group",
+        "title": "Desenvolvedor Full Stack Pleno",
+        "seniority": "Pleno",
+        "stacks": [
+          ".NET",
+          "TypeScript",
+          "Web APIs"
+        ],
+        "category": "Full Stack & Produto",
+        "source": "InHire",
+        "postedAt": "2026-11-10",
+        "isRecognized": false,
+        "score": 29.4
+      },
+      {
+        "url": "https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI4MzExNjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "company": "Grupo SysMap",
+        "handle": "@grupo-sysmap",
+        "title": "Desenvolvedor Front-End Angular Sênior",
+        "seniority": "Sênior",
+        "stacks": [
+          "Angular",
+          "TypeScript",
+          "Web UI"
+        ],
+        "category": "Front-End & Interfaces",
+        "source": "Gupy",
+        "postedAt": "2026-11-04",
+        "isRecognized": false,
+        "score": 11.4
+      },
+      {
+        "url": "https://softexpert.gupy.io/job/eyJqb2JJZCI6MTI4NjY4NzAsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+        "company": "SoftExpert",
+        "handle": "@softexpert",
+        "title": "Engenheiro de Testes Pleno (QA)",
+        "seniority": "Pleno",
+        "stacks": [
+          "QA / Testes",
+          "Automação",
+          "Software"
+        ],
+        "category": "QA, Testes & DevOps",
+        "source": "Gupy",
+        "postedAt": "2026-11-11",
+        "isRecognized": false,
+        "score": 29.4
+      }
+    ],
+    "slidesPairs": [
+      {
+        "eyebrow": "// trilha_01 · vagas verificadas",
+        "heading": "Java, .NET & Enterprise",
+        "jobs": [
+          {
+            "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4Nzk1OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+            "company": "FCamara",
+            "handle": "@fcamara",
+            "title": "Desenvolvedor FullStack .Net/React Sênior",
+            "seniority": "Sênior",
+            "stacks": [
+              "React",
+              "C# / .NET",
+              "Web APIs"
+            ],
+            "category": "Java, .NET & Enterprise",
+            "source": "Gupy",
+            "postedAt": "2026-11-12",
+            "isRecognized": true,
+            "score": 44.4
+          },
+          {
+            "url": "https://sejaglobalweb.gupy.io/job/eyJqb2JJZCI6MTI2NzQyOTUsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+            "company": "Globalweb",
+            "handle": "@globalweb",
+            "title": "Desenvolvedor Java Pleno",
+            "seniority": "Pleno",
+            "stacks": [
+              "Java",
+              "Spring",
+              "APIs"
+            ],
+            "category": "Java, .NET & Enterprise",
+            "source": "Gupy",
+            "postedAt": "2026-11-15",
+            "isRecognized": true,
+            "score": 34.4
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_02 · vagas verificadas",
+        "heading": "Dados / IA · DevOps / SRE",
+        "jobs": [
+          {
+            "url": "https://jobs.quickin.io/reply/jobs/6af73ee4c646ee0013544109?utm_source=remotar",
+            "company": "Reply",
+            "handle": "@reply",
+            "title": "Engenheiro de Dados Pleno",
+            "seniority": "Pleno",
+            "stacks": [
+              "Dados",
+              "Cloud",
+              "ETL"
+            ],
+            "category": "Dados, Cloud & IA",
+            "source": "Portal Direto",
+            "postedAt": "2026-11-14",
+            "isRecognized": false,
+            "score": 33.4
+          },
+          {
+            "url": "https://tiflux.vagas.solides.com.br/vaga/950800?origem=remotar",
+            "company": "Tiflux",
+            "handle": "@tiflux",
+            "title": "DevOps Engineer Júnior/Pleno",
+            "seniority": "Júnior",
+            "stacks": [
+              "DevOps",
+              "Cloud",
+              "CI/CD"
+            ],
+            "category": "QA, Testes & DevOps",
+            "source": "Sólides",
+            "postedAt": "2026-11-10",
+            "isRecognized": false,
+            "score": 29.4
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_03 · vagas verificadas",
+        "heading": "Back-End · Full Stack",
+        "jobs": [
+          {
+            "url": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI4NjkxOTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+            "company": "Quality Digital",
+            "handle": "@quality-digital",
+            "title": "Desenvolvedor Golang Pleno",
+            "seniority": "Pleno",
+            "stacks": [
+              "Golang",
+              "Microsserviços",
+              "APIs"
+            ],
+            "category": "Back-End & Engenharia",
+            "source": "Gupy",
+            "postedAt": "2026-11-11",
+            "isRecognized": false,
+            "score": 30.4
+          },
+          {
+            "url": "https://tech6group.inhire.app/vagas/a2d4d554-a0bf-4592-81f5-46260fb529a8/desenvolvedora-full-stack-pleno-net-typescript",
+            "company": "Tech6 Group",
+            "handle": "@tech6-group",
+            "title": "Desenvolvedor Full Stack Pleno",
+            "seniority": "Pleno",
+            "stacks": [
+              ".NET",
+              "TypeScript",
+              "Web APIs"
+            ],
+            "category": "Full Stack & Produto",
+            "source": "InHire",
+            "postedAt": "2026-11-10",
+            "isRecognized": false,
+            "score": 29.4
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_04 · vagas verificadas",
+        "heading": "Front-End · QA & Testes",
+        "jobs": [
+          {
+            "url": "https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI4MzExNjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+            "company": "Grupo SysMap",
+            "handle": "@grupo-sysmap",
+            "title": "Desenvolvedor Front-End Angular Sênior",
+            "seniority": "Sênior",
+            "stacks": [
+              "Angular",
+              "TypeScript",
+              "Web UI"
+            ],
+            "category": "Front-End & Interfaces",
+            "source": "Gupy",
+            "postedAt": "2026-11-04",
+            "isRecognized": false,
+            "score": 11.4
+          },
+          {
+            "url": "https://softexpert.gupy.io/job/eyJqb2JJZCI6MTI4NjY4NzAsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+            "company": "SoftExpert",
+            "handle": "@softexpert",
+            "title": "Engenheiro de Testes Pleno (QA)",
+            "seniority": "Pleno",
+            "stacks": [
+              "QA / Testes",
+              "Automação",
+              "Software"
+            ],
+            "category": "QA, Testes & DevOps",
+            "source": "Gupy",
+            "postedAt": "2026-11-11",
+            "isRecognized": false,
+            "score": 29.4
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-14",
     "generatedAt": "2026-11-14T14:00:00.000Z",
     "dateLabel": "14.nov",
