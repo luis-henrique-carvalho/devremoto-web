@@ -1,5 +1,23 @@
 [
   {
+    "slug": "bolt-diy-app",
+    "title": "Boltdiy: A Ferramenta Open-Source que Transforma o Dia a Dia Dev",
+    "description": "Você descreve a ideia e a IA programa o front-end, back-end e banco na sua máquina",
+    "date": "2026-11-17",
+    "category": "DevTools & Ferramentas",
+    "tags": [
+      "DevTools",
+      "OpenSource",
+      "Produtividade",
+      "Tecnologia"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "4 min de leitura",
+    "githubRepo": "stackblitz-labs/bolt.diy",
+    "stars": "58.4k",
+    "content": "No ecossistema de tecnologia moderno, ferramentas de código aberto e soluções comunitárias têm substituído softwares comerciais caros com vantagens claras: transparência, velocidade e privacidade.\n\nO **Boltdiy** é um excelente exemplo dessa transformação.\n\n---\n\n### Principais Recursos e Benefícios\n\n* **01**: 💻 Gera aplicações completas em React, Node e banco de dados\n* **02**: 🔓 100% aberto: conecte com Ollama ou DeepSeek de graça\n* **03**: 🚀 Visualização ao vivo no navegador com terminal embutido\n* **04**: 📦 Exporte o código limpo direto para o GitHub sem travas\n\n---\n\n### Como Começar\n\nPara explorar e testar o projeto no seu ambiente:\n\n```bash\n# Acesse o repositório oficial no GitHub\ngit clone https://github.com/stackblitz-labs/bolt.diy.git\ncd $(basename \"stackblitz-labs/bolt.diy\")\n```\n\n---\n\n### Veredito DevRemoto\n\nMais uma solução essencial mapeada pelo radar do DevRemoto para quem busca produtividade, autonomia e ferramentas profissionais gratuitas."
+  },
+  {
     "slug": "localsend-airdrop",
     "title": "LocalSend: A Ferramenta Open-Source que Transforma o Dia a Dia Dev",
     "description": "Envie 4K sem cabo nem nuvem",
