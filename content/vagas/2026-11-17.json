@@ -1,0 +1,318 @@
+{
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T14:03:00.000Z",
+  "dateLabel": "17.nov",
+  "count": 8,
+  "hook": {
+    "angle": "brand-anchor",
+    "headline": "Caju, CI&T e +6 techs contratando 100% remoto hoje.",
+    "lead": "Vagas verificadas de Júnior a Sênior em Front-End, Back-End, IA, Mobile, Dados e QA. Zero híbrido disfarçado."
+  },
+  "uniqueStacks": [
+    "React",
+    "Kotlin / IA",
+    "Node.js",
+    "Vue / Python"
+  ],
+  "senioritySummary": "Júnior → Sênior",
+  "jobs": [
+    {
+      "url": "https://caju.gupy.io/job/eyJqb2JJZCI6MTI3NDkzNjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Caju",
+      "handle": "@caju",
+      "title": "Pessoa Desenvolvedora Front-End Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "React",
+        "TypeScript",
+        "APIs"
+      ],
+      "category": "Front-End & Interfaces",
+      "source": "Gupy",
+      "postedAt": "2026-11-16",
+      "isRecognized": true,
+      "score": 59.4
+    },
+    {
+      "url": "https://jobs.lever.co/ciandt/62204ff5-a609-4cfa-be00-9a478e5b9cd1?utm_source=remotar",
+      "company": "CI&T",
+      "handle": "@ci-e-t",
+      "title": "Senior Backend Developer (Kotlin/Java) · AI",
+      "seniority": "Sênior",
+      "stacks": [
+        "Kotlin",
+        "Java",
+        "IA / GenAI"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "Lever",
+      "postedAt": "2026-11-17",
+      "isRecognized": true,
+      "score": 48.4
+    },
+    {
+      "url": "https://smartnx.gupy.io/job/eyJqb2JJZCI6MTI4OTcxMjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Smart NX",
+      "handle": "@smart-nx",
+      "title": "Desenvolvedor Back-end Júnior",
+      "seniority": "Júnior",
+      "stacks": [
+        "Node.js",
+        "TypeScript",
+        "SQL"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "Gupy",
+      "postedAt": "2026-11-16",
+      "isRecognized": false,
+      "score": 34.4
+    },
+    {
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-react-junior-trabalho-remoto-at-bairesdev-4490680961",
+      "company": "BairesDev",
+      "handle": "@bairesdev",
+      "title": "Desenvolvedor React Júnior",
+      "seniority": "Júnior",
+      "stacks": [
+        "React",
+        "JavaScript",
+        "Web UI"
+      ],
+      "category": "Front-End & Interfaces",
+      "source": "LinkedIn",
+      "postedAt": "2026-11-16",
+      "isRecognized": false,
+      "score": 34.4
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/4489124490/?",
+      "company": "Space Inch",
+      "handle": "@space-inch",
+      "title": "Senior Full-Stack Engineer (Vue.js / Python)",
+      "seniority": "Sênior",
+      "stacks": [
+        "Vue.js",
+        "Python",
+        "Full Stack"
+      ],
+      "category": "Full Stack & Produto",
+      "source": "LinkedIn",
+      "postedAt": "2026-11-14",
+      "isRecognized": false,
+      "score": 20.4
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/4489808033/?utm_source=remotar",
+      "company": "Neoage",
+      "handle": "@neoage",
+      "title": "Senior Mobile Engineer (iOS / Android)",
+      "seniority": "Sênior",
+      "stacks": [
+        "React Native",
+        "Flutter",
+        "Mobile"
+      ],
+      "category": "Mobile & Apps",
+      "source": "LinkedIn",
+      "postedAt": "2026-11-14",
+      "isRecognized": false,
+      "score": 20.4
+    },
+    {
+      "url": "https://lina.factorialhr.com.br/job_posting/analytics-engineer-pleno-324639?utm_source=remotar",
+      "company": "LINA",
+      "handle": "@lina",
+      "title": "Analytics Engineer Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Dados",
+        "Pipelines",
+        "Analytics"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "Portal Direto",
+      "postedAt": "2026-11-12",
+      "isRecognized": false,
+      "score": 30.4
+    },
+    {
+      "url": "https://ibrowse.factorialhr.com.br/job_posting/analista-de-testes-e-qualidade-pleno-331295?utm_source=remotar",
+      "company": "Ibrowse",
+      "handle": "@ibrowse",
+      "title": "Analista de Testes e Qualidade Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "QA / Testes",
+        "Automação",
+        "Regressão"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "Portal Direto",
+      "postedAt": "2026-11-12",
+      "isRecognized": false,
+      "score": 30.4
+    }
+  ],
+  "slidesPairs": [
+    {
+      "eyebrow": "// trilha_01 · vagas verificadas",
+      "heading": "Front-End · IA & Back-End",
+      "jobs": [
+        {
+          "url": "https://caju.gupy.io/job/eyJqb2JJZCI6MTI3NDkzNjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Caju",
+          "handle": "@caju",
+          "title": "Pessoa Desenvolvedora Front-End Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "React",
+            "TypeScript",
+            "APIs"
+          ],
+          "category": "Front-End & Interfaces",
+          "source": "Gupy",
+          "postedAt": "2026-11-16",
+          "isRecognized": true,
+          "score": 59.4
+        },
+        {
+          "url": "https://jobs.lever.co/ciandt/62204ff5-a609-4cfa-be00-9a478e5b9cd1?utm_source=remotar",
+          "company": "CI&T",
+          "handle": "@ci-e-t",
+          "title": "Senior Backend Developer (Kotlin/Java) · AI",
+          "seniority": "Sênior",
+          "stacks": [
+            "Kotlin",
+            "Java",
+            "IA / GenAI"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "Lever",
+          "postedAt": "2026-11-17",
+          "isRecognized": true,
+          "score": 48.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_02 · vagas verificadas",
+      "heading": "Júnior · Back & Front-End",
+      "jobs": [
+        {
+          "url": "https://smartnx.gupy.io/job/eyJqb2JJZCI6MTI4OTcxMjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Smart NX",
+          "handle": "@smart-nx",
+          "title": "Desenvolvedor Back-end Júnior",
+          "seniority": "Júnior",
+          "stacks": [
+            "Node.js",
+            "TypeScript",
+            "SQL"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "Gupy",
+          "postedAt": "2026-11-16",
+          "isRecognized": false,
+          "score": 34.4
+        },
+        {
+          "url": "https://br.linkedin.com/jobs/view/desenvolvedor-react-junior-trabalho-remoto-at-bairesdev-4490680961",
+          "company": "BairesDev",
+          "handle": "@bairesdev",
+          "title": "Desenvolvedor React Júnior",
+          "seniority": "Júnior",
+          "stacks": [
+            "React",
+            "JavaScript",
+            "Web UI"
+          ],
+          "category": "Front-End & Interfaces",
+          "source": "LinkedIn",
+          "postedAt": "2026-11-16",
+          "isRecognized": false,
+          "score": 34.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_03 · vagas verificadas",
+      "heading": "Full Stack · Mobile",
+      "jobs": [
+        {
+          "url": "https://www.linkedin.com/jobs/view/4489124490/?",
+          "company": "Space Inch",
+          "handle": "@space-inch",
+          "title": "Senior Full-Stack Engineer (Vue.js / Python)",
+          "seniority": "Sênior",
+          "stacks": [
+            "Vue.js",
+            "Python",
+            "Full Stack"
+          ],
+          "category": "Full Stack & Produto",
+          "source": "LinkedIn",
+          "postedAt": "2026-11-14",
+          "isRecognized": false,
+          "score": 20.4
+        },
+        {
+          "url": "https://www.linkedin.com/jobs/view/4489808033/?utm_source=remotar",
+          "company": "Neoage",
+          "handle": "@neoage",
+          "title": "Senior Mobile Engineer (iOS / Android)",
+          "seniority": "Sênior",
+          "stacks": [
+            "React Native",
+            "Flutter",
+            "Mobile"
+          ],
+          "category": "Mobile & Apps",
+          "source": "LinkedIn",
+          "postedAt": "2026-11-14",
+          "isRecognized": false,
+          "score": 20.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_04 · vagas verificadas",
+      "heading": "Dados / IA · QA & Testes",
+      "jobs": [
+        {
+          "url": "https://lina.factorialhr.com.br/job_posting/analytics-engineer-pleno-324639?utm_source=remotar",
+          "company": "LINA",
+          "handle": "@lina",
+          "title": "Analytics Engineer Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Dados",
+            "Pipelines",
+            "Analytics"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "Portal Direto",
+          "postedAt": "2026-11-12",
+          "isRecognized": false,
+          "score": 30.4
+        },
+        {
+          "url": "https://ibrowse.factorialhr.com.br/job_posting/analista-de-testes-e-qualidade-pleno-331295?utm_source=remotar",
+          "company": "Ibrowse",
+          "handle": "@ibrowse",
+          "title": "Analista de Testes e Qualidade Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "QA / Testes",
+            "Automação",
+            "Regressão"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "Portal Direto",
+          "postedAt": "2026-11-12",
+          "isRecognized": false,
+          "score": 30.4
+        }
+      ]
+    }
+  ]
+}
