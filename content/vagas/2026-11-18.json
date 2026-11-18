@@ -1,0 +1,318 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T14:04:00.000Z",
+  "dateLabel": "18.nov",
+  "count": 8,
+  "hook": {
+    "angle": "anti-hibrido",
+    "headline": "8 vagas 100% remotas abertas hoje no Brasil (Júnior a Sênior).",
+    "lead": "Sem híbrido disfarçado nem cidade obrigatória. Selecionamos vagas ativas na CI&T, Caju, PagBank, Ambev e mais 4 empresas."
+  },
+  "uniqueStacks": [
+    "Java",
+    "React",
+    "Python",
+    "Databricks"
+  ],
+  "senioritySummary": "Júnior → Sênior",
+  "jobs": [
+    {
+      "url": "https://jobs.lever.co/ciandt/cc96eaf9-8025-4976-9897-798bc411cb1a?utm_source=remotar",
+      "company": "CI&T",
+      "handle": "@ci-e-t",
+      "title": "Mid/Senior Java Developer, Brazil",
+      "seniority": "Pleno / Sênior",
+      "stacks": [
+        "Java",
+        "Spring Boot",
+        "Microsserviços"
+      ],
+      "category": "Java, .NET & Enterprise",
+      "source": "Lever",
+      "postedAt": "2026-11-17",
+      "isRecognized": true,
+      "score": 47.4
+    },
+    {
+      "url": "https://caju.gupy.io/job/eyJqb2JJZCI6MTI3MjYwMTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Caju",
+      "handle": "@caju",
+      "title": "Eng. de Software Sênior (Front-End) · Afirmativa",
+      "seniority": "Sênior",
+      "stacks": [
+        "React",
+        "TypeScript",
+        "APIs"
+      ],
+      "category": "Front-End & Interfaces",
+      "source": "Gupy",
+      "postedAt": "2026-11-12",
+      "isRecognized": true,
+      "score": 42.4
+    },
+    {
+      "url": "https://pagseguro.gupy.io/job/eyJqb2JJZCI6MTE4ODI1NTksInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "company": "PagBank",
+      "handle": "@pagbank",
+      "title": "Engenheiro de Qualidade de Software Jr.",
+      "seniority": "Júnior",
+      "stacks": [
+        "QA / Testes",
+        "APIs / SQL",
+        "Git"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "Gupy",
+      "postedAt": "2026-11-18",
+      "isRecognized": true,
+      "score": 35.4
+    },
+    {
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-python-junior-trabalho-remoto-ref%23309830-at-bairesdev-4491714545",
+      "company": "BairesDev",
+      "handle": "@bairesdev",
+      "title": "Desenvolvedor Python Júnior (Remoto)",
+      "seniority": "Júnior",
+      "stacks": [
+        "Python",
+        "Back-End",
+        "APIs"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "LinkedIn",
+      "postedAt": "2026-11-18",
+      "isRecognized": false,
+      "score": 35.4
+    },
+    {
+      "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI4OTk5NzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Stefanini Group",
+      "handle": "@stefanini-group",
+      "title": "Engenheiro de Dados Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Databricks",
+        "PySpark",
+        "SQL"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "Gupy",
+      "postedAt": "2026-11-17",
+      "isRecognized": false,
+      "score": 34.4
+    },
+    {
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4NzExNzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "FCamara",
+      "handle": "@fcamara",
+      "title": "Pessoa Desenvolvedora Fullstack Sênior",
+      "seniority": "Sênior",
+      "stacks": [
+        "Angular",
+        "Java / Spring",
+        "GCP"
+      ],
+      "category": "Full Stack & Produto",
+      "source": "Gupy",
+      "postedAt": "2026-11-11",
+      "isRecognized": true,
+      "score": 41.4
+    },
+    {
+      "url": "https://ambev.gupy.io/job/eyJqb2JJZCI6MTI4NjAwMjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Ambev",
+      "handle": "@ambev",
+      "title": "Desenvolvedor Back-End Pleno (Afirmativa PCD)",
+      "seniority": "Pleno",
+      "stacks": [
+        "Java 17",
+        "Kafka",
+        "Docker / AWS"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "Gupy",
+      "postedAt": "2026-11-09",
+      "isRecognized": true,
+      "score": 36.4
+    },
+    {
+      "url": "https://br.linkedin.com/jobs/view/net-back-end-developer-mid-remote-at-ai-r-4491759466",
+      "company": "AI/R",
+      "handle": "@ai-r",
+      "title": ".NET Back-End Developer Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "C# / .NET",
+        "Azure",
+        "SQL"
+      ],
+      "category": "Java, .NET & Enterprise",
+      "source": "LinkedIn",
+      "postedAt": "2026-11-17",
+      "isRecognized": false,
+      "score": 34.4
+    }
+  ],
+  "slidesPairs": [
+    {
+      "eyebrow": "// trilha_01 · vagas verificadas",
+      "heading": "Java · Front-End",
+      "jobs": [
+        {
+          "url": "https://jobs.lever.co/ciandt/cc96eaf9-8025-4976-9897-798bc411cb1a?utm_source=remotar",
+          "company": "CI&T",
+          "handle": "@ci-e-t",
+          "title": "Mid/Senior Java Developer, Brazil",
+          "seniority": "Pleno / Sênior",
+          "stacks": [
+            "Java",
+            "Spring Boot",
+            "Microsserviços"
+          ],
+          "category": "Java, .NET & Enterprise",
+          "source": "Lever",
+          "postedAt": "2026-11-17",
+          "isRecognized": true,
+          "score": 47.4
+        },
+        {
+          "url": "https://caju.gupy.io/job/eyJqb2JJZCI6MTI3MjYwMTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Caju",
+          "handle": "@caju",
+          "title": "Eng. de Software Sênior (Front-End) · Afirmativa",
+          "seniority": "Sênior",
+          "stacks": [
+            "React",
+            "TypeScript",
+            "APIs"
+          ],
+          "category": "Front-End & Interfaces",
+          "source": "Gupy",
+          "postedAt": "2026-11-12",
+          "isRecognized": true,
+          "score": 42.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_02 · vagas verificadas",
+      "heading": "Júnior · QA & Python",
+      "jobs": [
+        {
+          "url": "https://pagseguro.gupy.io/job/eyJqb2JJZCI6MTE4ODI1NTksInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+          "company": "PagBank",
+          "handle": "@pagbank",
+          "title": "Engenheiro de Qualidade de Software Jr.",
+          "seniority": "Júnior",
+          "stacks": [
+            "QA / Testes",
+            "APIs / SQL",
+            "Git"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "Gupy",
+          "postedAt": "2026-11-18",
+          "isRecognized": true,
+          "score": 35.4
+        },
+        {
+          "url": "https://br.linkedin.com/jobs/view/desenvolvedor-python-junior-trabalho-remoto-ref%23309830-at-bairesdev-4491714545",
+          "company": "BairesDev",
+          "handle": "@bairesdev",
+          "title": "Desenvolvedor Python Júnior (Remoto)",
+          "seniority": "Júnior",
+          "stacks": [
+            "Python",
+            "Back-End",
+            "APIs"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "LinkedIn",
+          "postedAt": "2026-11-18",
+          "isRecognized": false,
+          "score": 35.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_03 · vagas verificadas",
+      "heading": "Dados · Full Stack",
+      "jobs": [
+        {
+          "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI4OTk5NzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Stefanini Group",
+          "handle": "@stefanini-group",
+          "title": "Engenheiro de Dados Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Databricks",
+            "PySpark",
+            "SQL"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "Gupy",
+          "postedAt": "2026-11-17",
+          "isRecognized": false,
+          "score": 34.4
+        },
+        {
+          "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4NzExNzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "FCamara",
+          "handle": "@fcamara",
+          "title": "Pessoa Desenvolvedora Fullstack Sênior",
+          "seniority": "Sênior",
+          "stacks": [
+            "Angular",
+            "Java / Spring",
+            "GCP"
+          ],
+          "category": "Full Stack & Produto",
+          "source": "Gupy",
+          "postedAt": "2026-11-11",
+          "isRecognized": true,
+          "score": 41.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_04 · vagas verificadas",
+      "heading": "Back-End Cloud · .NET",
+      "jobs": [
+        {
+          "url": "https://ambev.gupy.io/job/eyJqb2JJZCI6MTI4NjAwMjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Ambev",
+          "handle": "@ambev",
+          "title": "Desenvolvedor Back-End Pleno (Afirmativa PCD)",
+          "seniority": "Pleno",
+          "stacks": [
+            "Java 17",
+            "Kafka",
+            "Docker / AWS"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "Gupy",
+          "postedAt": "2026-11-09",
+          "isRecognized": true,
+          "score": 36.4
+        },
+        {
+          "url": "https://br.linkedin.com/jobs/view/net-back-end-developer-mid-remote-at-ai-r-4491759466",
+          "company": "AI/R",
+          "handle": "@ai-r",
+          "title": ".NET Back-End Developer Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "C# / .NET",
+            "Azure",
+            "SQL"
+          ],
+          "category": "Java, .NET & Enterprise",
+          "source": "LinkedIn",
+          "postedAt": "2026-11-17",
+          "isRecognized": false,
+          "score": 34.4
+        }
+      ]
+    }
+  ]
+}
