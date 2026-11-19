@@ -1,5 +1,23 @@
 [
   {
+    "slug": "sherlock-osint-check",
+    "title": "Sherlock Check: A Ferramenta Open-Source que Transforma o Dia a Dia Dev",
+    "description": "Varra 400 plataformas em segundos e proteja sua identidade",
+    "date": "2026-11-20",
+    "category": "DevTools & Ferramentas",
+    "tags": [
+      "DevTools",
+      "OpenSource",
+      "Produtividade",
+      "Tecnologia"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "4 min de leitura",
+    "githubRepo": "sherlock-project/sherlock",
+    "stars": "114k",
+    "content": "No ecossistema de tecnologia moderno, ferramentas de código aberto e soluções comunitárias têm substituído softwares comerciais caros com vantagens claras: transparência, velocidade e privacidade.\n\nO **Sherlock Check** é um excelente exemplo dessa transformação.\n\n---\n\n### Principais Recursos e Benefícios\n\n* **01**: 🔎 Busca 400+ redes\n* **02**: 🚨 Acha perfis fakes\n* **03**: 🧹 Limpa contas antigas\n* **04**: 🔓 100% código aberto\n\n---\n\n### Como Começar\n\nPara explorar e testar o projeto no seu ambiente:\n\n```bash\n# Acesse o repositório oficial no GitHub\ngit clone https://github.com/sherlock-project/sherlock.git\ncd $(basename \"sherlock-project/sherlock\")\n```\n\n---\n\n### Veredito DevRemoto\n\nMais uma solução essencial mapeada pelo radar do DevRemoto para quem busca produtividade, autonomia e ferramentas profissionais gratuitas."
+  },
+  {
     "slug": "worldmonitor-live-intel",
     "title": "WorldMonitor: A Ferramenta Open-Source que Transforma o Dia a Dia Dev",
     "description": "Voos, infraestrutura, energia e notícias resumidas por IA em tempo real",
