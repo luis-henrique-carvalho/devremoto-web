@@ -1,0 +1,318 @@
+{
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T14:05:00.000Z",
+  "dateLabel": "19.nov",
+  "count": 8,
+  "hook": {
+    "angle": "jr-pleno-spotlight",
+    "headline": "8 vagas 100% remotas abertas hoje (de Júnior a Especialista).",
+    "lead": "FCamara, Kraken, Bling, Alura e mais 4 empresas contratando de qualquer estado do Brasil."
+  },
+  "uniqueStacks": [
+    "Java",
+    "React / TS",
+    "Golang",
+    "IA / AWS"
+  ],
+  "senioritySummary": "Júnior → Especialista",
+  "jobs": [
+    {
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5MTY3MjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "FCamara",
+      "handle": "@fcamara",
+      "title": "Desenvolvedor Fullstack Java Especialista",
+      "seniority": "Especialista",
+      "stacks": [
+        "Java",
+        "Spring",
+        "Mensageria"
+      ],
+      "category": "Java, .NET & Enterprise",
+      "source": "Gupy",
+      "postedAt": "2026-11-19",
+      "isRecognized": true,
+      "score": 48.4
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/kraken.com/932fa767-7a6d-45bb-807b-48f881b53aeb?utm_source=remotar",
+      "company": "Kraken",
+      "handle": "@kraken",
+      "title": "Software Engineer II - Frontend (Dev Platform)",
+      "seniority": "Pleno",
+      "stacks": [
+        "React",
+        "TypeScript",
+        "Node.js"
+      ],
+      "category": "Front-End & Interfaces",
+      "source": "Ashby",
+      "postedAt": "2026-11-18",
+      "isRecognized": true,
+      "score": 44.4
+    },
+    {
+      "url": "https://lwsa.inhire.app/bling/vagas/44703dfc-e411-48e2-b285-dea37056aec7/bling-or-desenvolvedor-pleno-or-golang-or-remoto",
+      "company": "LWSA (Bling)",
+      "handle": "@lwsa",
+      "title": "Bling · Desenvolvedor Pleno (Golang)",
+      "seniority": "Pleno",
+      "stacks": [
+        "Golang",
+        "PHP",
+        "Microsserviços"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "InHire",
+      "postedAt": "2026-11-18",
+      "isRecognized": true,
+      "score": 40.4
+    },
+    {
+      "url": "https://alun.inhire.app/alura/vagas/d1ef421b-d33d-42ef-941a-daf82178b56a/pessoa-desenvolvedora-java-pleno",
+      "company": "Grupo Alura",
+      "handle": "@grupo-alura",
+      "title": "Pessoa Desenvolvedora Java Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Java",
+        "Spring Boot",
+        "SQL"
+      ],
+      "category": "Java, .NET & Enterprise",
+      "source": "InHire",
+      "postedAt": "2026-11-18",
+      "isRecognized": true,
+      "score": 39.4
+    },
+    {
+      "url": "https://objective.inhire.app/vagas/13668108-d253-4af1-a04b-4b9e4688ff61/desenvolvedora-de-software-jrpl-inteligencia-artificial-and-llms-or-remoto",
+      "company": "Objective",
+      "handle": "@objective",
+      "title": "Desenvolvedor(a) de Software JR/PL · IA & LLMs",
+      "seniority": "Júnior / Pleno",
+      "stacks": [
+        "IA / LLMs",
+        "Python / TS",
+        "APIs"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "InHire",
+      "postedAt": "2026-11-18",
+      "isRecognized": false,
+      "score": 34.4
+    },
+    {
+      "url": "https://grupogcbinvestimentos.inhire.app/vagas/8474a680-9505-4c3d-8279-9999c8040df4/desenvolvedor-pleno",
+      "company": "Grupo GCB",
+      "handle": "@grupo-gcb",
+      "title": "Desenvolvedor Pleno (AWS & Agentes de IA)",
+      "seniority": "Pleno",
+      "stacks": [
+        "AWS",
+        "Agentes IA",
+        "Back-End"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "InHire",
+      "postedAt": "2026-11-17",
+      "isRecognized": false,
+      "score": 33.4
+    },
+    {
+      "url": "https://solutis.inhire.app/vagas/a50057e7-388e-4eaf-a4fb-c02004fc3462/engenheiroa-de-seguranca-de-aplicacoes-appsec-devsecops-or-remoto",
+      "company": "Solutis",
+      "handle": "@solutis",
+      "title": "Engenheiro(a) de Segurança (AppSec / DevSecOps)",
+      "seniority": "Pleno / Sênior",
+      "stacks": [
+        "AppSec",
+        "CI/CD",
+        "Cloud / OWASP"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "InHire",
+      "postedAt": "2026-11-18",
+      "isRecognized": true,
+      "score": 47.4
+    },
+    {
+      "url": "https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI5MDc0OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Grupo SysMap",
+      "handle": "@grupo-sysmap",
+      "title": "Analista de QA Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "QA / Testes",
+        "Playwright",
+        "SQL / APIs"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "Gupy",
+      "postedAt": "2026-11-18",
+      "isRecognized": false,
+      "score": 34.4
+    }
+  ],
+  "slidesPairs": [
+    {
+      "eyebrow": "// trilha_01 · vagas verificadas",
+      "heading": "Full Stack · Front-End",
+      "jobs": [
+        {
+          "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5MTY3MjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "FCamara",
+          "handle": "@fcamara",
+          "title": "Desenvolvedor Fullstack Java Especialista",
+          "seniority": "Especialista",
+          "stacks": [
+            "Java",
+            "Spring",
+            "Mensageria"
+          ],
+          "category": "Java, .NET & Enterprise",
+          "source": "Gupy",
+          "postedAt": "2026-11-19",
+          "isRecognized": true,
+          "score": 48.4
+        },
+        {
+          "url": "https://jobs.ashbyhq.com/kraken.com/932fa767-7a6d-45bb-807b-48f881b53aeb?utm_source=remotar",
+          "company": "Kraken",
+          "handle": "@kraken",
+          "title": "Software Engineer II - Frontend (Dev Platform)",
+          "seniority": "Pleno",
+          "stacks": [
+            "React",
+            "TypeScript",
+            "Node.js"
+          ],
+          "category": "Front-End & Interfaces",
+          "source": "Ashby",
+          "postedAt": "2026-11-18",
+          "isRecognized": true,
+          "score": 44.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_02 · vagas verificadas",
+      "heading": "Back-End · Golang & Java",
+      "jobs": [
+        {
+          "url": "https://lwsa.inhire.app/bling/vagas/44703dfc-e411-48e2-b285-dea37056aec7/bling-or-desenvolvedor-pleno-or-golang-or-remoto",
+          "company": "LWSA (Bling)",
+          "handle": "@lwsa",
+          "title": "Bling · Desenvolvedor Pleno (Golang)",
+          "seniority": "Pleno",
+          "stacks": [
+            "Golang",
+            "PHP",
+            "Microsserviços"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "InHire",
+          "postedAt": "2026-11-18",
+          "isRecognized": true,
+          "score": 40.4
+        },
+        {
+          "url": "https://alun.inhire.app/alura/vagas/d1ef421b-d33d-42ef-941a-daf82178b56a/pessoa-desenvolvedora-java-pleno",
+          "company": "Grupo Alura",
+          "handle": "@grupo-alura",
+          "title": "Pessoa Desenvolvedora Java Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Java",
+            "Spring Boot",
+            "SQL"
+          ],
+          "category": "Java, .NET & Enterprise",
+          "source": "InHire",
+          "postedAt": "2026-11-18",
+          "isRecognized": true,
+          "score": 39.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_03 · vagas verificadas",
+      "heading": "IA & Cloud · Júnior a Pleno",
+      "jobs": [
+        {
+          "url": "https://objective.inhire.app/vagas/13668108-d253-4af1-a04b-4b9e4688ff61/desenvolvedora-de-software-jrpl-inteligencia-artificial-and-llms-or-remoto",
+          "company": "Objective",
+          "handle": "@objective",
+          "title": "Desenvolvedor(a) de Software JR/PL · IA & LLMs",
+          "seniority": "Júnior / Pleno",
+          "stacks": [
+            "IA / LLMs",
+            "Python / TS",
+            "APIs"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "InHire",
+          "postedAt": "2026-11-18",
+          "isRecognized": false,
+          "score": 34.4
+        },
+        {
+          "url": "https://grupogcbinvestimentos.inhire.app/vagas/8474a680-9505-4c3d-8279-9999c8040df4/desenvolvedor-pleno",
+          "company": "Grupo GCB",
+          "handle": "@grupo-gcb",
+          "title": "Desenvolvedor Pleno (AWS & Agentes de IA)",
+          "seniority": "Pleno",
+          "stacks": [
+            "AWS",
+            "Agentes IA",
+            "Back-End"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "InHire",
+          "postedAt": "2026-11-17",
+          "isRecognized": false,
+          "score": 33.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_04 · vagas verificadas",
+      "heading": "Segurança · QA & Testes",
+      "jobs": [
+        {
+          "url": "https://solutis.inhire.app/vagas/a50057e7-388e-4eaf-a4fb-c02004fc3462/engenheiroa-de-seguranca-de-aplicacoes-appsec-devsecops-or-remoto",
+          "company": "Solutis",
+          "handle": "@solutis",
+          "title": "Engenheiro(a) de Segurança (AppSec / DevSecOps)",
+          "seniority": "Pleno / Sênior",
+          "stacks": [
+            "AppSec",
+            "CI/CD",
+            "Cloud / OWASP"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "InHire",
+          "postedAt": "2026-11-18",
+          "isRecognized": true,
+          "score": 47.4
+        },
+        {
+          "url": "https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI5MDc0OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Grupo SysMap",
+          "handle": "@grupo-sysmap",
+          "title": "Analista de QA Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "QA / Testes",
+            "Playwright",
+            "SQL / APIs"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "Gupy",
+          "postedAt": "2026-11-18",
+          "isRecognized": false,
+          "score": 34.4
+        }
+      ]
+    }
+  ]
+}
