@@ -1,5 +1,23 @@
 [
   {
+    "slug": "it-tools-dev-box",
+    "title": "IT-Tools: A Ferramenta Open-Source que Transforma o Dia a Dia Dev",
+    "description": "Conversores, QR Code, JSON e criptografia num painel único",
+    "date": "2026-11-21",
+    "category": "DevTools & Ferramentas",
+    "tags": [
+      "DevTools",
+      "OpenSource",
+      "Produtividade",
+      "Tecnologia"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "4 min de leitura",
+    "githubRepo": "CorentinTh/it-tools",
+    "stars": "41.3k",
+    "content": "No ecossistema de tecnologia moderno, ferramentas de código aberto e soluções comunitárias têm substituído softwares comerciais caros com vantagens claras: transparência, velocidade e privacidade.\n\nO **IT-Tools** é um excelente exemplo dessa transformação.\n\n---\n\n### Principais Recursos e Benefícios\n\n* 100% Gratuito e de Código Aberto\n* Roda direto na sua máquina sem mensalidades\n* Comunidade ativa com milhares de desenvolvedores\n\n---\n\n### Como Começar\n\nPara explorar e testar o projeto no seu ambiente:\n\n```bash\n# Acesse o repositório oficial no GitHub\ngit clone https://github.com/CorentinTh/it-tools.git\ncd $(basename \"CorentinTh/it-tools\")\n```\n\n---\n\n### Veredito DevRemoto\n\nMais uma solução essencial mapeada pelo radar do DevRemoto para quem busca produtividade, autonomia e ferramentas profissionais gratuitas."
+  },
+  {
     "slug": "graphify-code-graph",
     "title": "Graphify: A Ferramenta Open-Source que Transforma o Dia a Dia Dev",
     "description": "Transforma código, SQL, configs e PDFs em grafo consultável",
