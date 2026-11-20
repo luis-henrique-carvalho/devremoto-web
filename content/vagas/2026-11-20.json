@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T14:05:00.000Z",
+  "dateLabel": "20.nov",
+  "count": 8,
+  "hook": {
+    "angle": "brand-anchor",
+    "headline": "iFood, Neon, Boticário e +5 techs contratando remoto hoje.",
+    "lead": "Curadoria de hoje sem híbrido disfarçado nem vaga encerrada. Vagas ativas de Júnior a Especialista em todo o Brasil."
+  },
+  "uniqueStacks": [
+    "Python / ML",
+    "React Native",
+    "Java",
+    "Azure / QA"
+  ],
+  "senioritySummary": "Júnior → Especialista",
+  "jobs": [
+    {
+      "url": "https://carreiras.ifood.com.br/job/8952099002/?utm_source=remotar",
+      "company": "iFood",
+      "handle": "@ifood",
+      "title": "Cientista de Dados Especialista",
+      "seniority": "Especialista",
+      "stacks": [
+        "Python / ML",
+        "Databricks",
+        "Crédito"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "Portal Direto",
+      "postedAt": "2026-11-20",
+      "isRecognized": true,
+      "score": 48.4
+    },
+    {
+      "url": "https://jobs.lever.co/neon/f4385bb6-dcdc-4519-836f-4437b29662f8",
+      "company": "Neon",
+      "handle": "@neon",
+      "title": "Staff Machine Learning Engineer",
+      "seniority": "Especialista",
+      "stacks": [
+        "Machine Learning",
+        "Python",
+        "Airflow / SQL"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "Lever",
+      "postedAt": "2026-11-19",
+      "isRecognized": true,
+      "score": 47.4
+    },
+    {
+      "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI4ODI4OTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Grupo Boticário",
+      "handle": "@grupo-boticario",
+      "title": "Dev Mobile React Native Especialista I",
+      "seniority": "Especialista",
+      "stacks": [
+        "React Native",
+        "TypeScript",
+        "CI/CD"
+      ],
+      "category": "Mobile & Apps",
+      "source": "Gupy",
+      "postedAt": "2026-11-19",
+      "isRecognized": true,
+      "score": 47.4
+    },
+    {
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5MTY5MTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "FCamara",
+      "handle": "@fcamara",
+      "title": "Desenvolvedor Fullstack Java Sênior",
+      "seniority": "Sênior",
+      "stacks": [
+        "Java",
+        "Spring",
+        "Mensageria"
+      ],
+      "category": "Java, .NET & Enterprise",
+      "source": "Gupy",
+      "postedAt": "2026-11-19",
+      "isRecognized": true,
+      "score": 47.4
+    },
+    {
+      "url": "https://confitec.gupy.io/job/eyJqb2JJZCI6MTI4ODI5ODMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Confitec",
+      "handle": "@confitec",
+      "title": "Desenvolvedor(a) Java Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Java 8+",
+        "Spring Boot",
+        "AWS / React"
+      ],
+      "category": "Java, .NET & Enterprise",
+      "source": "Gupy",
+      "postedAt": "2026-11-18",
+      "isRecognized": false,
+      "score": 33.4
+    },
+    {
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Brazil-Remote-Work/Mid-Level-DevOps-Engineer--Azure-_R68040?utm_source=remotar",
+      "company": "Motorola Solutions",
+      "handle": "@motorola-solutions",
+      "title": "Mid-Level DevOps Engineer (Azure)",
+      "seniority": "Pleno",
+      "stacks": [
+        "Azure",
+        "DevOps",
+        "Cloud"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "Portal Direto",
+      "postedAt": "2026-11-20",
+      "isRecognized": false,
+      "score": 35.4
+    },
+    {
+      "url": "https://printi.pandape.infojobs.com.br/Detail/3953829?utm_source=remotar",
+      "company": "Printi",
+      "handle": "@printi",
+      "title": "Analista de Segurança da Informação Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "SOC / Blue Team",
+        "SIEM",
+        "Segurança"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "Portal Direto",
+      "postedAt": "2026-11-20",
+      "isRecognized": false,
+      "score": 35.4
+    },
+    {
+      "url": "https://evoluservices.gupy.io/job/eyJqb2JJZCI6MTI5MjA2NjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Evoluservices",
+      "handle": "@evoluservices",
+      "title": "Analista de Testes e QA Júnior",
+      "seniority": "Júnior",
+      "stacks": [
+        "Testes E2E",
+        "Automação",
+        "Java / BDD"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "Gupy",
+      "postedAt": "2026-11-19",
+      "isRecognized": false,
+      "score": 34.4
+    }
+  ],
+  "slidesPairs": [
+    {
+      "eyebrow": "// trilha_01 · vagas verificadas",
+      "heading": "Dados & Machine Learning",
+      "jobs": [
+        {
+          "url": "https://carreiras.ifood.com.br/job/8952099002/?utm_source=remotar",
+          "company": "iFood",
+          "handle": "@ifood",
+          "title": "Cientista de Dados Especialista",
+          "seniority": "Especialista",
+          "stacks": [
+            "Python / ML",
+            "Databricks",
+            "Crédito"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "Portal Direto",
+          "postedAt": "2026-11-20",
+          "isRecognized": true,
+          "score": 48.4
+        },
+        {
+          "url": "https://jobs.lever.co/neon/f4385bb6-dcdc-4519-836f-4437b29662f8",
+          "company": "Neon",
+          "handle": "@neon",
+          "title": "Staff Machine Learning Engineer",
+          "seniority": "Especialista",
+          "stacks": [
+            "Machine Learning",
+            "Python",
+            "Airflow / SQL"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "Lever",
+          "postedAt": "2026-11-19",
+          "isRecognized": true,
+          "score": 47.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_02 · vagas verificadas",
+      "heading": "Mobile & Back-End Java",
+      "jobs": [
+        {
+          "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI4ODI4OTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Grupo Boticário",
+          "handle": "@grupo-boticario",
+          "title": "Dev Mobile React Native Especialista I",
+          "seniority": "Especialista",
+          "stacks": [
+            "React Native",
+            "TypeScript",
+            "CI/CD"
+          ],
+          "category": "Mobile & Apps",
+          "source": "Gupy",
+          "postedAt": "2026-11-19",
+          "isRecognized": true,
+          "score": 47.4
+        },
+        {
+          "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5MTY5MTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "FCamara",
+          "handle": "@fcamara",
+          "title": "Desenvolvedor Fullstack Java Sênior",
+          "seniority": "Sênior",
+          "stacks": [
+            "Java",
+            "Spring",
+            "Mensageria"
+          ],
+          "category": "Java, .NET & Enterprise",
+          "source": "Gupy",
+          "postedAt": "2026-11-19",
+          "isRecognized": true,
+          "score": 47.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_03 · vagas verificadas",
+      "heading": "Java Pleno · Cloud DevOps",
+      "jobs": [
+        {
+          "url": "https://confitec.gupy.io/job/eyJqb2JJZCI6MTI4ODI5ODMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Confitec",
+          "handle": "@confitec",
+          "title": "Desenvolvedor(a) Java Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Java 8+",
+            "Spring Boot",
+            "AWS / React"
+          ],
+          "category": "Java, .NET & Enterprise",
+          "source": "Gupy",
+          "postedAt": "2026-11-18",
+          "isRecognized": false,
+          "score": 33.4
+        },
+        {
+          "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Brazil-Remote-Work/Mid-Level-DevOps-Engineer--Azure-_R68040?utm_source=remotar",
+          "company": "Motorola Solutions",
+          "handle": "@motorola-solutions",
+          "title": "Mid-Level DevOps Engineer (Azure)",
+          "seniority": "Pleno",
+          "stacks": [
+            "Azure",
+            "DevOps",
+            "Cloud"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "Portal Direto",
+          "postedAt": "2026-11-20",
+          "isRecognized": false,
+          "score": 35.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_04 · vagas verificadas",
+      "heading": "Segurança & QA Júnior",
+      "jobs": [
+        {
+          "url": "https://printi.pandape.infojobs.com.br/Detail/3953829?utm_source=remotar",
+          "company": "Printi",
+          "handle": "@printi",
+          "title": "Analista de Segurança da Informação Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "SOC / Blue Team",
+            "SIEM",
+            "Segurança"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "Portal Direto",
+          "postedAt": "2026-11-20",
+          "isRecognized": false,
+          "score": 35.4
+        },
+        {
+          "url": "https://evoluservices.gupy.io/job/eyJqb2JJZCI6MTI5MjA2NjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Evoluservices",
+          "handle": "@evoluservices",
+          "title": "Analista de Testes e QA Júnior",
+          "seniority": "Júnior",
+          "stacks": [
+            "Testes E2E",
+            "Automação",
+            "Java / BDD"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "Gupy",
+          "postedAt": "2026-11-19",
+          "isRecognized": false,
+          "score": 34.4
+        }
+      ]
+    }
+  ],
+  "caption": "iFood, Neon, Grupo Boticário e FCamara estão entre as 8 empresas com vagas 100% remotas abertas hoje para quem mora no Brasil.\n\nConferi cada página direto na fonte e deixei de fora qualquer vaga congelada, encerrada ou com modelo híbrido disfarçado. Tem oportunidade de QA Júnior a Especialista em Dados e Mobile.\n\nLista do radar de hoje (20.nov):\n- iFood: Cientista de Dados Especialista (Especialista)\n- Neon: Staff Machine Learning Engineer (Especialista)\n- Grupo Boticário: Dev Mobile React Native Especialista I (Especialista)\n- FCamara: Desenvolvedor Fullstack Java Sênior (Sênior)\n- Confitec: Desenvolvedor(a) Java Pleno (Pleno)\n- Motorola Solutions: Mid-Level DevOps Engineer Azure (Pleno)\n- Printi: Analista de Segurança da Informação Pleno (Pleno)\n- Evoluservices: Analista de Testes e QA Júnior (Júnior)\n\nComente REMOTO aqui embaixo que eu te envio os links diretos na DM, ou acesse agora pelo link fixo na bio @devremoto.br.\n\nSe estiver no celular, já salva esse post para abrir os links com calma no computador. Qual stack você quer ver amanhã?\n\n#vagasremotas #trabalhoremoto #vagastech #homeofficebrasil"
+}
