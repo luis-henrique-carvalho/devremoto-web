@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T14:05:00.000Z",
+  "dateLabel": "22.nov",
+  "count": 8,
+  "hook": {
+    "angle": "anti-hibrido",
+    "headline": "8 empresas contratando 100% remoto hoje no Brasil.",
+    "lead": "Zero híbrido 3x na semana nem vaga encerrada. Oportunidades de Júnior a Sênior abertas para trabalhar de qualquer cidade."
+  },
+  "uniqueStacks": [
+    "AWS / Dados",
+    "Java / Angular",
+    ".NET / Node",
+    "QA / SDET"
+  ],
+  "senioritySummary": "Júnior → Sênior",
+  "jobs": [
+    {
+      "url": "https://jobs.lever.co/ciandt/a6b88ae7-55dc-41eb-91ba-f17aa6667e72?utm_source=remotar",
+      "company": "CI&T",
+      "handle": "@ci-e-t",
+      "title": "Senior Data Engineer AWS L4, Brasil",
+      "seniority": "Sênior",
+      "stacks": [
+        "AWS",
+        "Spark",
+        "Airflow"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "Lever",
+      "postedAt": "2026-11-17",
+      "isRecognized": true,
+      "score": 43.4
+    },
+    {
+      "url": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI4Nzk3MDcsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "company": "Hitss Brasil",
+      "handle": "@hitss-brasil",
+      "title": "Analista de Dados Pleno (Power BI & FinOps)",
+      "seniority": "Pleno",
+      "stacks": [
+        "Power BI",
+        "DAX",
+        "SQL"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "Gupy",
+      "postedAt": "2026-11-12",
+      "isRecognized": false,
+      "score": 25.4
+    },
+    {
+      "url": "https://grupomoovenfornax.inhire.app/vagas/b393b734-c57c-4a57-a782-d42f1938b3b0/desenvolvedora-full-stack-pleno",
+      "company": "Grupo Mooven Fornax",
+      "handle": "@grupo-mooven-fornax",
+      "title": "Desenvolvedor(a) Full Stack Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Java",
+        "Angular",
+        "Full Stack"
+      ],
+      "category": "Full Stack & Produto",
+      "source": "InHire",
+      "postedAt": "2026-11-18",
+      "isRecognized": false,
+      "score": 31.4
+    },
+    {
+      "url": "https://programathor.com.br/jobs/33881-developer-back-end-pleno",
+      "company": "Inovando",
+      "handle": "@inovando",
+      "title": "Developer Back-End Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        ".NET",
+        "Node.js",
+        "APIs"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "ProgramaThor",
+      "postedAt": "2026-11-11",
+      "isRecognized": false,
+      "score": 24.4
+    },
+    {
+      "url": "https://amcom.inhire.app/vagas/94cfd39c-c81b-4f8a-a9a2-b22925d4a1b9/pessoa-desenvolvedora-salesforce-pleno",
+      "company": "AMcom",
+      "handle": "@amcom",
+      "title": "Pessoa Desenvolvedora Salesforce Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Salesforce",
+        "Apex",
+        "LWC"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "InHire",
+      "postedAt": "2026-11-18",
+      "isRecognized": false,
+      "score": 31.4
+    },
+    {
+      "url": "https://programathor.com.br/jobs/33925-desenvolvedor-a-junior-sustentacao",
+      "company": "Velvet",
+      "handle": "@velvet",
+      "title": "Desenvolvedor(a) Júnior · Sustentação",
+      "seniority": "Júnior",
+      "stacks": [
+        ".NET",
+        "React / Next.js",
+        "Azure"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "ProgramaThor",
+      "postedAt": "2026-11-22",
+      "isRecognized": false,
+      "score": 35.4
+    },
+    {
+      "url": "https://fast2mine.vagas.solides.com.br/vaga/953752?origem=remotar",
+      "company": "Fast2Mine",
+      "handle": "@fast2mine",
+      "title": "Analista de Testes e Qualidade Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "QA / Testes",
+        "Python",
+        "SQL"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "Sólides",
+      "postedAt": "2026-11-16",
+      "isRecognized": false,
+      "score": 29.4
+    },
+    {
+      "url": "https://apply.workable.com/ordermesh/j/89F22141AF/?utm_source=remotar",
+      "company": "OrderMesh",
+      "handle": "@ordermesh",
+      "title": "Junior Software Development Engineer in Test (SDET)",
+      "seniority": "Júnior",
+      "stacks": [
+        "SDET / QA",
+        "Kafka",
+        "REST APIs"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "Portal Direto",
+      "postedAt": "2026-11-21",
+      "isRecognized": false,
+      "score": 34.4
+    }
+  ],
+  "slidesPairs": [
+    {
+      "eyebrow": "// trilha_01 · vagas verificadas",
+      "heading": "Dados & Cloud AWS",
+      "jobs": [
+        {
+          "url": "https://jobs.lever.co/ciandt/a6b88ae7-55dc-41eb-91ba-f17aa6667e72?utm_source=remotar",
+          "company": "CI&T",
+          "handle": "@ci-e-t",
+          "title": "Senior Data Engineer AWS L4, Brasil",
+          "seniority": "Sênior",
+          "stacks": [
+            "AWS",
+            "Spark",
+            "Airflow"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "Lever",
+          "postedAt": "2026-11-17",
+          "isRecognized": true,
+          "score": 43.4
+        },
+        {
+          "url": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI4Nzk3MDcsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+          "company": "Hitss Brasil",
+          "handle": "@hitss-brasil",
+          "title": "Analista de Dados Pleno (Power BI & FinOps)",
+          "seniority": "Pleno",
+          "stacks": [
+            "Power BI",
+            "DAX",
+            "SQL"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "Gupy",
+          "postedAt": "2026-11-12",
+          "isRecognized": false,
+          "score": 25.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_02 · vagas verificadas",
+      "heading": "Full Stack & Back-End",
+      "jobs": [
+        {
+          "url": "https://grupomoovenfornax.inhire.app/vagas/b393b734-c57c-4a57-a782-d42f1938b3b0/desenvolvedora-full-stack-pleno",
+          "company": "Grupo Mooven Fornax",
+          "handle": "@grupo-mooven-fornax",
+          "title": "Desenvolvedor(a) Full Stack Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Java",
+            "Angular",
+            "Full Stack"
+          ],
+          "category": "Full Stack & Produto",
+          "source": "InHire",
+          "postedAt": "2026-11-18",
+          "isRecognized": false,
+          "score": 31.4
+        },
+        {
+          "url": "https://programathor.com.br/jobs/33881-developer-back-end-pleno",
+          "company": "Inovando",
+          "handle": "@inovando",
+          "title": "Developer Back-End Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            ".NET",
+            "Node.js",
+            "APIs"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "ProgramaThor",
+          "postedAt": "2026-11-11",
+          "isRecognized": false,
+          "score": 24.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_03 · vagas verificadas",
+      "heading": "Salesforce & Sustentação Júnior",
+      "jobs": [
+        {
+          "url": "https://amcom.inhire.app/vagas/94cfd39c-c81b-4f8a-a9a2-b22925d4a1b9/pessoa-desenvolvedora-salesforce-pleno",
+          "company": "AMcom",
+          "handle": "@amcom",
+          "title": "Pessoa Desenvolvedora Salesforce Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Salesforce",
+            "Apex",
+            "LWC"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "InHire",
+          "postedAt": "2026-11-18",
+          "isRecognized": false,
+          "score": 31.4
+        },
+        {
+          "url": "https://programathor.com.br/jobs/33925-desenvolvedor-a-junior-sustentacao",
+          "company": "Velvet",
+          "handle": "@velvet",
+          "title": "Desenvolvedor(a) Júnior · Sustentação",
+          "seniority": "Júnior",
+          "stacks": [
+            ".NET",
+            "React / Next.js",
+            "Azure"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "ProgramaThor",
+          "postedAt": "2026-11-22",
+          "isRecognized": false,
+          "score": 35.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_04 · vagas verificadas",
+      "heading": "QA, Testes & SDET",
+      "jobs": [
+        {
+          "url": "https://fast2mine.vagas.solides.com.br/vaga/953752?origem=remotar",
+          "company": "Fast2Mine",
+          "handle": "@fast2mine",
+          "title": "Analista de Testes e Qualidade Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "QA / Testes",
+            "Python",
+            "SQL"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "Sólides",
+          "postedAt": "2026-11-16",
+          "isRecognized": false,
+          "score": 29.4
+        },
+        {
+          "url": "https://apply.workable.com/ordermesh/j/89F22141AF/?utm_source=remotar",
+          "company": "OrderMesh",
+          "handle": "@ordermesh",
+          "title": "Junior Software Development Engineer in Test (SDET)",
+          "seniority": "Júnior",
+          "stacks": [
+            "SDET / QA",
+            "Kafka",
+            "REST APIs"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "Portal Direto",
+          "postedAt": "2026-11-21",
+          "isRecognized": false,
+          "score": 34.4
+        }
+      ]
+    }
+  ],
+  "caption": "CI&T, Hitss Brasil, Mooven Fornax, Velvet e mais 4 empresas estão com vagas 100% remotas abertas hoje para devs no Brasil.\n\nConferi cada link direto na fonte para deixar de fora vaga encerrada, congelada ou com modelo híbrido disfarçado. A lista de hoje vai de Júnior a Sênior, passando por Dados, AWS, Java, Angular, .NET, Node.js, Salesforce e QA.\n\nDestaques do radar de hoje (22.nov):\n- CI&T: Senior Data Engineer AWS L4 (Sênior)\n- Hitss Brasil: Analista de Dados Pleno (Pleno)\n- Grupo Mooven Fornax: Desenvolvedor(a) Full Stack Pleno (Pleno)\n- Inovando: Developer Back-End Pleno (Pleno)\n- AMcom: Pessoa Desenvolvedora Salesforce Pleno (Pleno)\n- Velvet: Desenvolvedor(a) Júnior de Sustentação (Júnior)\n- Fast2Mine: Analista de Testes e Qualidade Pleno (Pleno)\n- OrderMesh: Junior Software Development Engineer in Test (Júnior)\n\nComente REMOTO aqui embaixo para receber o acesso direto na DM, ou abra agora pelo link fixo na bio @devremoto.br.\n\nSe estiver vendo no celular, salve este post para aplicar com calma pelo computador. Qual stack você quer no radar de amanhã?\n\n#vagasremotas #trabalhoremoto #homeofficebrasil #vagastech #desenvolvedor #programacao #engenhariadesoftware #carreiratech"
+}
