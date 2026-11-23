@@ -1,5 +1,324 @@
 [
   {
+    "date": "2026-11-23",
+    "generatedAt": "2026-11-23T14:05:00.000Z",
+    "dateLabel": "23.nov",
+    "count": 8,
+    "hook": {
+      "angle": "multi-stack",
+      "headline": "Radar Dev de hoje: 8 vagas 100% home office abertas.",
+      "lead": "De Java, .NET e Python com IA a React Native, DevOps e QA Júnior. Vagas reais sem exigência presencial."
+    },
+    "uniqueStacks": [
+      "Java / React",
+      "Python / IA",
+      ".NET / Angular",
+      "Azure / Mobile"
+    ],
+    "senioritySummary": "Júnior → Especialista",
+    "jobs": [
+      {
+        "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5MjcxNDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "company": "FCamara",
+        "handle": "@fcamara",
+        "title": "Desenvolvedor Full Stack Java/React - Sênior",
+        "seniority": "Sênior",
+        "stacks": [
+          "Java",
+          "React",
+          "Azure / Kafka"
+        ],
+        "category": "Java, .NET & Enterprise",
+        "source": "Gupy",
+        "postedAt": "2026-11-23",
+        "isRecognized": true,
+        "score": 48.4
+      },
+      {
+        "url": "https://jobs.ashbyhq.com/truelogic/7b557eac-51e4-4396-ada3-483421b22fdc?utm_source=remotar",
+        "company": "Truelogic Software",
+        "handle": "@truelogic-software",
+        "title": "Lead Full-Stack AI Engineer (Python/TypeScript)",
+        "seniority": "Especialista",
+        "stacks": [
+          "Python",
+          "TypeScript",
+          "IA / RAG"
+        ],
+        "category": "Dados, Cloud & IA",
+        "source": "Ashby",
+        "postedAt": "2026-11-22",
+        "isRecognized": false,
+        "score": 22.4
+      },
+      {
+        "url": "https://job-boards.greenhouse.io/coderoad/jobs/4515014009?utm_source=remotar",
+        "company": "CodeRoad",
+        "handle": "@coderoad",
+        "title": "Mid-Level Blazor / .NET Developer",
+        "seniority": "Pleno",
+        "stacks": [
+          "C# / .NET",
+          "Blazor",
+          "SQL Server"
+        ],
+        "category": "Java, .NET & Enterprise",
+        "source": "Greenhouse",
+        "postedAt": "2026-11-22",
+        "isRecognized": false,
+        "score": 34.4
+      },
+      {
+        "url": "https://br.linkedin.com/jobs/view/desenvolvedor-full-stack-net-angular-pleno-remoto-at-target-software-technology-solutions-4489804802",
+        "company": "Target Software",
+        "handle": "@target-software",
+        "title": "Desenvolvedor Full Stack (.NET/Angular) Pleno",
+        "seniority": "Pleno",
+        "stacks": [
+          "C# / .NET",
+          "Angular",
+          "TypeScript"
+        ],
+        "category": "Full Stack & Produto",
+        "source": "LinkedIn",
+        "postedAt": "2026-11-13",
+        "isRecognized": false,
+        "score": 25.4
+      },
+      {
+        "url": "https://jobs.lever.co/ciandt/eb1d96ca-1587-4c6a-9826-a8b8fa4ba22c?utm_source=remotar",
+        "company": "CI&T",
+        "handle": "@ci-e-t",
+        "title": "Senior DevOps/Platform Engineer, Brazil",
+        "seniority": "Sênior",
+        "stacks": [
+          "Azure",
+          "Terraform",
+          "CI/CD"
+        ],
+        "category": "QA, Testes & DevOps",
+        "source": "Lever",
+        "postedAt": "2026-11-22",
+        "isRecognized": true,
+        "score": 47.4
+      },
+      {
+        "url": "https://github.com/frontendbr/vagas/issues/8576",
+        "company": "Still",
+        "handle": "@still",
+        "title": "React Native Developer (Dev Co-founder, Sênior)",
+        "seniority": "Sênior",
+        "stacks": [
+          "React Native",
+          "Expo",
+          "Supabase"
+        ],
+        "category": "Mobile & Apps",
+        "source": "GitHub BR",
+        "postedAt": "2026-11-21",
+        "isRecognized": false,
+        "score": 21.4
+      },
+      {
+        "url": "https://br.linkedin.com/jobs/view/desenvolvedor-de-software-junior-trabalho-remoto-at-bairesdev-4491849871",
+        "company": "BairesDev",
+        "handle": "@bairesdev",
+        "title": "Desenvolvedor de Software Júnior",
+        "seniority": "Júnior",
+        "stacks": [
+          "Software",
+          "Git",
+          "USD / Local"
+        ],
+        "category": "Back-End & Engenharia",
+        "source": "LinkedIn",
+        "postedAt": "2026-11-21",
+        "isRecognized": false,
+        "score": 33.4
+      },
+      {
+        "url": "https://evoluservices.gupy.io/job/eyJqb2JJZCI6MTI5MjA0OTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "company": "Evoluservices",
+        "handle": "@evoluservices",
+        "title": "Analista de Testes e QA Júnior (Exclusiva PCD)",
+        "seniority": "Júnior",
+        "stacks": [
+          "QA / Testes",
+          "Automação",
+          "Java"
+        ],
+        "category": "QA, Testes & DevOps",
+        "source": "Gupy",
+        "postedAt": "2026-11-19",
+        "isRecognized": false,
+        "score": 31.4
+      }
+    ],
+    "slidesPairs": [
+      {
+        "eyebrow": "// trilha_01 · vagas verificadas",
+        "heading": "Java, React & IA Generativa",
+        "jobs": [
+          {
+            "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5MjcxNDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+            "company": "FCamara",
+            "handle": "@fcamara",
+            "title": "Desenvolvedor Full Stack Java/React - Sênior",
+            "seniority": "Sênior",
+            "stacks": [
+              "Java",
+              "React",
+              "Azure / Kafka"
+            ],
+            "category": "Java, .NET & Enterprise",
+            "source": "Gupy",
+            "postedAt": "2026-11-23",
+            "isRecognized": true,
+            "score": 48.4
+          },
+          {
+            "url": "https://jobs.ashbyhq.com/truelogic/7b557eac-51e4-4396-ada3-483421b22fdc?utm_source=remotar",
+            "company": "Truelogic Software",
+            "handle": "@truelogic-software",
+            "title": "Lead Full-Stack AI Engineer (Python/TypeScript)",
+            "seniority": "Especialista",
+            "stacks": [
+              "Python",
+              "TypeScript",
+              "IA / RAG"
+            ],
+            "category": "Dados, Cloud & IA",
+            "source": "Ashby",
+            "postedAt": "2026-11-22",
+            "isRecognized": false,
+            "score": 22.4
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_02 · vagas verificadas",
+        "heading": ".NET, Blazor & Angular",
+        "jobs": [
+          {
+            "url": "https://job-boards.greenhouse.io/coderoad/jobs/4515014009?utm_source=remotar",
+            "company": "CodeRoad",
+            "handle": "@coderoad",
+            "title": "Mid-Level Blazor / .NET Developer",
+            "seniority": "Pleno",
+            "stacks": [
+              "C# / .NET",
+              "Blazor",
+              "SQL Server"
+            ],
+            "category": "Java, .NET & Enterprise",
+            "source": "Greenhouse",
+            "postedAt": "2026-11-22",
+            "isRecognized": false,
+            "score": 34.4
+          },
+          {
+            "url": "https://br.linkedin.com/jobs/view/desenvolvedor-full-stack-net-angular-pleno-remoto-at-target-software-technology-solutions-4489804802",
+            "company": "Target Software",
+            "handle": "@target-software",
+            "title": "Desenvolvedor Full Stack (.NET/Angular) Pleno",
+            "seniority": "Pleno",
+            "stacks": [
+              "C# / .NET",
+              "Angular",
+              "TypeScript"
+            ],
+            "category": "Full Stack & Produto",
+            "source": "LinkedIn",
+            "postedAt": "2026-11-13",
+            "isRecognized": false,
+            "score": 25.4
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_03 · vagas verificadas",
+        "heading": "DevOps Azure & Mobile",
+        "jobs": [
+          {
+            "url": "https://jobs.lever.co/ciandt/eb1d96ca-1587-4c6a-9826-a8b8fa4ba22c?utm_source=remotar",
+            "company": "CI&T",
+            "handle": "@ci-e-t",
+            "title": "Senior DevOps/Platform Engineer, Brazil",
+            "seniority": "Sênior",
+            "stacks": [
+              "Azure",
+              "Terraform",
+              "CI/CD"
+            ],
+            "category": "QA, Testes & DevOps",
+            "source": "Lever",
+            "postedAt": "2026-11-22",
+            "isRecognized": true,
+            "score": 47.4
+          },
+          {
+            "url": "https://github.com/frontendbr/vagas/issues/8576",
+            "company": "Still",
+            "handle": "@still",
+            "title": "React Native Developer (Dev Co-founder, Sênior)",
+            "seniority": "Sênior",
+            "stacks": [
+              "React Native",
+              "Expo",
+              "Supabase"
+            ],
+            "category": "Mobile & Apps",
+            "source": "GitHub BR",
+            "postedAt": "2026-11-21",
+            "isRecognized": false,
+            "score": 21.4
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_04 · vagas verificadas",
+        "heading": "Júnior, QA & Engenharia",
+        "jobs": [
+          {
+            "url": "https://br.linkedin.com/jobs/view/desenvolvedor-de-software-junior-trabalho-remoto-at-bairesdev-4491849871",
+            "company": "BairesDev",
+            "handle": "@bairesdev",
+            "title": "Desenvolvedor de Software Júnior",
+            "seniority": "Júnior",
+            "stacks": [
+              "Software",
+              "Git",
+              "USD / Local"
+            ],
+            "category": "Back-End & Engenharia",
+            "source": "LinkedIn",
+            "postedAt": "2026-11-21",
+            "isRecognized": false,
+            "score": 33.4
+          },
+          {
+            "url": "https://evoluservices.gupy.io/job/eyJqb2JJZCI6MTI5MjA0OTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+            "company": "Evoluservices",
+            "handle": "@evoluservices",
+            "title": "Analista de Testes e QA Júnior (Exclusiva PCD)",
+            "seniority": "Júnior",
+            "stacks": [
+              "QA / Testes",
+              "Automação",
+              "Java"
+            ],
+            "category": "QA, Testes & DevOps",
+            "source": "Gupy",
+            "postedAt": "2026-11-19",
+            "isRecognized": false,
+            "score": 31.4
+          }
+        ]
+      }
+    ],
+    "caption": "FCamara, CI&T, Truelogic Software, CodeRoad e mais 4 empresas estão com vagas 100% remotas abertas hoje para devs no Brasil.\n\nCada link foi conferido direto na página oficial para tirar fora vagas encerradas, congeladas ou com modelo híbrido escondido na descrição. A seleção de hoje cobre de Júnior a Especialista em Java, React, Python com IA, .NET, Blazor, Angular, Azure, React Native e QA.\n\nDestaques do radar de hoje (23.nov):\n- FCamara: Desenvolvedor Full Stack Java/React (Sênior)\n- Truelogic Software: Lead Full-Stack AI Engineer em Python/TypeScript (Especialista)\n- CodeRoad: Mid-Level Blazor / .NET Developer em USD (Pleno)\n- Target Software: Desenvolvedor Full Stack .NET/Angular (Pleno)\n- CI&T: Senior DevOps/Platform Engineer Azure (Sênior)\n- Still: React Native Developer / Dev Co-founder em USD (Sênior)\n- BairesDev: Desenvolvedor de Software Júnior (Júnior)\n- Evoluservices: Analista de Testes e QA Júnior - Exclusiva PCD (Júnior)\n\nComente REMOTO aqui embaixo para receber os links diretos na sua DM, ou abra agora pelo link fixo na bio @devremoto.br.\n\nVendo pelo celular? Salve este carrossel na bandeirinha para enviar seu currículo com calma no computador. Qual stack você quer ver no radar de amanhã?\n\n#vagasremotas #trabalhoremoto #homeofficebrasil #vagastech #desenvolvedor #programacao #engenhariadesoftware #carreiratech"
+  },
+  {
     "date": "2026-11-22",
     "generatedAt": "2026-11-22T14:05:00.000Z",
     "dateLabel": "22.nov",
