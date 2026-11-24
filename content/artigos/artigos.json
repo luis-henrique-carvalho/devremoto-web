@@ -1,5 +1,23 @@
 [
   {
+    "slug": "freelingo-ai-tutor",
+    "title": "FreeLingo: A Ferramenta Open-Source que Transforma o Dia a Dia Dev",
+    "description": "Conversa por voz em 50 cenários reais rodando com Ollama e Docker",
+    "date": "2026-11-25",
+    "category": "Inteligência Artificial",
+    "tags": [
+      "DevTools",
+      "OpenSource",
+      "Produtividade",
+      "Tecnologia"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "4 min de leitura",
+    "githubRepo": "artcc/freelingo",
+    "stars": "312",
+    "content": "No ecossistema de tecnologia moderno, ferramentas de código aberto e soluções comunitárias têm substituído softwares comerciais caros com vantagens claras: transparência, velocidade e privacidade.\n\nO **FreeLingo** é um excelente exemplo dessa transformação.\n\n---\n\n### Principais Recursos e Benefícios\n\n* **01**: 🎙️ Conversa por voz em 50 cenários reais do dia a dia\n* **02**: 🗺️ Plano semanal estruturado do nível A1 ao C2 (CEFR)\n* **03**: 🧠 Flashcards SM-2 e 3 jogos práticos de fixação\n* **04**: 🐳 Roda no seu servidor com Docker, Ollama ou OpenAI\n\n---\n\n### Como Começar\n\nPara explorar e testar o projeto no seu ambiente:\n\n```bash\n# Acesse o repositório oficial no GitHub\ngit clone https://github.com/artcc/freelingo.git\ncd $(basename \"artcc/freelingo\")\n```\n\n---\n\n### Veredito DevRemoto\n\nMais uma solução essencial mapeada pelo radar do DevRemoto para quem busca produtividade, autonomia e ferramentas profissionais gratuitas."
+  },
+  {
     "slug": "hermes-agent-nous",
     "title": "Hermes Agent: A Ferramenta Open-Source que Transforma o Dia a Dia Dev",
     "description": "Cria novas skills a partir da experiência e roda no Telegram",
