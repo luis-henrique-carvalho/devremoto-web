@@ -1,5 +1,324 @@
 [
   {
+    "date": "2026-11-24",
+    "generatedAt": "2026-11-24T14:04:00.000Z",
+    "dateLabel": "24.nov",
+    "count": 8,
+    "hook": {
+      "angle": "jr-pleno-spotlight",
+      "headline": "O remoto não acabou: 8 vagas abertas de Estágio a Especialista.",
+      "lead": "Todas checadas na página oficial, sem híbrido escondido. Hoje tem vagas de Estágio, Júnior e Pleno até Staff em todo o Brasil."
+    },
+    "uniqueStacks": [
+      "Java / Kotlin",
+      "Node / TS",
+      "C# / Python",
+      "Dados / QA"
+    ],
+    "senioritySummary": "Estágio → Especialista",
+    "jobs": [
+      {
+        "url": "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTI5MjgwMjcsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+        "company": "SoftDesign",
+        "handle": "@softdesign",
+        "title": "Software Engineer Backend (Java)",
+        "seniority": "Pleno / Sênior",
+        "stacks": [
+          "Java",
+          "Kotlin",
+          "AWS / K8s"
+        ],
+        "category": "Java, .NET & Enterprise",
+        "source": "Gupy",
+        "postedAt": "2026-11-24",
+        "isRecognized": false,
+        "score": 23.4
+      },
+      {
+        "url": "https://neogridcarreiras.gupy.io/job/eyJqb2JJZCI6MTI4NDY3NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "company": "Neogrid",
+        "handle": "@neogrid",
+        "title": "Desenvolvedor(a) Pleno(a)",
+        "seniority": "Pleno",
+        "stacks": [
+          "C#",
+          "Python",
+          "Docker / LLM"
+        ],
+        "category": "Back-End & Engenharia",
+        "source": "Gupy",
+        "postedAt": "2026-11-23",
+        "isRecognized": false,
+        "score": 34.4
+      },
+      {
+        "url": "https://programathor.com.br/jobs/33931-full-stack-engineer-kafka-mysql-node-js-usd-based-pay",
+        "company": "Strider",
+        "handle": "@strider",
+        "title": "Full-stack Engineer Node.js + Kafka (USD)",
+        "seniority": "Pleno / Sênior",
+        "stacks": [
+          "Node.js",
+          "TypeScript",
+          "Kafka"
+        ],
+        "category": "Full Stack & Produto",
+        "source": "ProgramaThor",
+        "postedAt": "2026-11-24",
+        "isRecognized": false,
+        "score": 23.4
+      },
+      {
+        "url": "https://wevy-cloud.inhire.app/vagas/bc1183dd-7723-4c32-b7d5-a96767c8eb69/analista-desenvolvedora-pleno-delphi-c",
+        "company": "Wevy",
+        "handle": "@wevy",
+        "title": "Analista Desenvolvedor(a) Pleno (Delphi / C#)",
+        "seniority": "Pleno",
+        "stacks": [
+          "C# / .NET",
+          "Delphi",
+          "SQL"
+        ],
+        "category": "Java, .NET & Enterprise",
+        "source": "InHire",
+        "postedAt": "2026-11-23",
+        "isRecognized": false,
+        "score": 34.4
+      },
+      {
+        "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5Mjc4OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "company": "FCamara",
+        "handle": "@fcamara",
+        "title": "Analista de Qualidade (QA) Sênior",
+        "seniority": "Sênior",
+        "stacks": [
+          "Cypress",
+          "Playwright",
+          "TypeScript"
+        ],
+        "category": "QA, Testes & DevOps",
+        "source": "Gupy",
+        "postedAt": "2026-11-23",
+        "isRecognized": true,
+        "score": 47.4
+      },
+      {
+        "url": "https://job-boards.greenhouse.io/stone/jobs/8210478003",
+        "company": "Stone",
+        "handle": "@stone",
+        "title": "Staff Data Engineer (Prevenção a Fraude)",
+        "seniority": "Especialista",
+        "stacks": [
+          "Python",
+          "Databricks",
+          "Spark"
+        ],
+        "category": "Dados, Cloud & IA",
+        "source": "Greenhouse",
+        "postedAt": "2026-11-23",
+        "isRecognized": true,
+        "score": 47.4
+      },
+      {
+        "url": "https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI5MTY0ODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "company": "Grupo SysMap",
+        "handle": "@grupo-sysmap",
+        "title": "Engenheiro de Dados JR",
+        "seniority": "Júnior",
+        "stacks": [
+          "Dados",
+          "ETL / ELT",
+          "SQL"
+        ],
+        "category": "Dados, Cloud & IA",
+        "source": "Gupy",
+        "postedAt": "2026-11-23",
+        "isRecognized": false,
+        "score": 34.4
+      },
+      {
+        "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/7491008002?utm_source=remotar",
+        "company": "Artefact",
+        "handle": "@artefact",
+        "title": "Estágio em Engenharia de Dados (Afirmativa)",
+        "seniority": "Estágio",
+        "stacks": [
+          "Dados",
+          "Python",
+          "ML / APIs"
+        ],
+        "category": "Dados, Cloud & IA",
+        "source": "Greenhouse",
+        "postedAt": "2026-11-22",
+        "isRecognized": false,
+        "score": 33.4
+      }
+    ],
+    "slidesPairs": [
+      {
+        "eyebrow": "// trilha_01 · vagas verificadas",
+        "heading": "Java, C# & Back-End",
+        "jobs": [
+          {
+            "url": "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTI5MjgwMjcsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+            "company": "SoftDesign",
+            "handle": "@softdesign",
+            "title": "Software Engineer Backend (Java)",
+            "seniority": "Pleno / Sênior",
+            "stacks": [
+              "Java",
+              "Kotlin",
+              "AWS / K8s"
+            ],
+            "category": "Java, .NET & Enterprise",
+            "source": "Gupy",
+            "postedAt": "2026-11-24",
+            "isRecognized": false,
+            "score": 23.4
+          },
+          {
+            "url": "https://neogridcarreiras.gupy.io/job/eyJqb2JJZCI6MTI4NDY3NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+            "company": "Neogrid",
+            "handle": "@neogrid",
+            "title": "Desenvolvedor(a) Pleno(a)",
+            "seniority": "Pleno",
+            "stacks": [
+              "C#",
+              "Python",
+              "Docker / LLM"
+            ],
+            "category": "Back-End & Engenharia",
+            "source": "Gupy",
+            "postedAt": "2026-11-23",
+            "isRecognized": false,
+            "score": 34.4
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_02 · vagas verificadas",
+        "heading": "Full Stack USD & .NET",
+        "jobs": [
+          {
+            "url": "https://programathor.com.br/jobs/33931-full-stack-engineer-kafka-mysql-node-js-usd-based-pay",
+            "company": "Strider",
+            "handle": "@strider",
+            "title": "Full-stack Engineer Node.js + Kafka (USD)",
+            "seniority": "Pleno / Sênior",
+            "stacks": [
+              "Node.js",
+              "TypeScript",
+              "Kafka"
+            ],
+            "category": "Full Stack & Produto",
+            "source": "ProgramaThor",
+            "postedAt": "2026-11-24",
+            "isRecognized": false,
+            "score": 23.4
+          },
+          {
+            "url": "https://wevy-cloud.inhire.app/vagas/bc1183dd-7723-4c32-b7d5-a96767c8eb69/analista-desenvolvedora-pleno-delphi-c",
+            "company": "Wevy",
+            "handle": "@wevy",
+            "title": "Analista Desenvolvedor(a) Pleno (Delphi / C#)",
+            "seniority": "Pleno",
+            "stacks": [
+              "C# / .NET",
+              "Delphi",
+              "SQL"
+            ],
+            "category": "Java, .NET & Enterprise",
+            "source": "InHire",
+            "postedAt": "2026-11-23",
+            "isRecognized": false,
+            "score": 34.4
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_03 · vagas verificadas",
+        "heading": "QA & Dados Sênior",
+        "jobs": [
+          {
+            "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5Mjc4OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+            "company": "FCamara",
+            "handle": "@fcamara",
+            "title": "Analista de Qualidade (QA) Sênior",
+            "seniority": "Sênior",
+            "stacks": [
+              "Cypress",
+              "Playwright",
+              "TypeScript"
+            ],
+            "category": "QA, Testes & DevOps",
+            "source": "Gupy",
+            "postedAt": "2026-11-23",
+            "isRecognized": true,
+            "score": 47.4
+          },
+          {
+            "url": "https://job-boards.greenhouse.io/stone/jobs/8210478003",
+            "company": "Stone",
+            "handle": "@stone",
+            "title": "Staff Data Engineer (Prevenção a Fraude)",
+            "seniority": "Especialista",
+            "stacks": [
+              "Python",
+              "Databricks",
+              "Spark"
+            ],
+            "category": "Dados, Cloud & IA",
+            "source": "Greenhouse",
+            "postedAt": "2026-11-23",
+            "isRecognized": true,
+            "score": 47.4
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_04 · vagas verificadas",
+        "heading": "Dados: Júnior & Estágio",
+        "jobs": [
+          {
+            "url": "https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI5MTY0ODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+            "company": "Grupo SysMap",
+            "handle": "@grupo-sysmap",
+            "title": "Engenheiro de Dados JR",
+            "seniority": "Júnior",
+            "stacks": [
+              "Dados",
+              "ETL / ELT",
+              "SQL"
+            ],
+            "category": "Dados, Cloud & IA",
+            "source": "Gupy",
+            "postedAt": "2026-11-23",
+            "isRecognized": false,
+            "score": 34.4
+          },
+          {
+            "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/7491008002?utm_source=remotar",
+            "company": "Artefact",
+            "handle": "@artefact",
+            "title": "Estágio em Engenharia de Dados (Afirmativa)",
+            "seniority": "Estágio",
+            "stacks": [
+              "Dados",
+              "Python",
+              "ML / APIs"
+            ],
+            "category": "Dados, Cloud & IA",
+            "source": "Greenhouse",
+            "postedAt": "2026-11-22",
+            "isRecognized": false,
+            "score": 33.4
+          }
+        ]
+      }
+    ],
+    "caption": "Stone, FCamara, SoftDesign, Neogrid e mais 4 empresas estão com vagas 100% remotas abertas hoje para trabalhar de qualquer lugar do Brasil.\n\nConferimos cada link direto na página oficial da vaga para tirar da lista anúncios expirados e processos com presencial escondido na descrição. O radar de hoje cobre de Estágio e Júnior até Pleno, Sênior e Staff.\n\nVagas da edição (24.nov):\n- SoftDesign: Software Engineer Backend em Java e Kotlin (Pleno / Sênior)\n- Neogrid: Desenvolvedor(a) Pleno(a) em C#, Python e LLM (Pleno)\n- Strider: Full-stack Engineer Node.js + Kafka em dólar (Pleno / Sênior)\n- Wevy: Analista Desenvolvedor(a) Pleno em Delphi e C# (Pleno)\n- FCamara: Analista de Qualidade QA com Cypress e Playwright (Sênior)\n- Stone: Staff Data Engineer em Prevenção a Fraude (Especialista)\n- Grupo SysMap: Engenheiro de Dados JR (Júnior)\n- Artefact: Estágio em Engenharia de Dados, afirmativa para mulheres cis e trans (Estágio)\n\nComente REMOTO aqui embaixo para receber os links diretos na sua DM, ou acesse agora pelo link fixo na bio @devremoto.br.\n\nVendo pelo celular? Salve este post na bandeirinha para enviar seu currículo com calma no computador. Qual stack ou nível você quer ver amanhã?\n\n#vagasremotas #trabalhoremoto #homeofficebrasil #vagastech #desenvolvedor #programacao #engenhariadesoftware #carreiratech"
+  },
+  {
     "date": "2026-11-23",
     "generatedAt": "2026-11-23T14:05:00.000Z",
     "dateLabel": "23.nov",
