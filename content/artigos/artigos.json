@@ -1,5 +1,23 @@
 [
   {
+    "slug": "yazi-rust-files",
+    "title": "Yazi: A Ferramenta Open-Source que Transforma o Dia a Dia Dev",
+    "description": "Veja fotos, PDFs e código direto no terminal em milissegundos",
+    "date": "2026-11-25",
+    "category": "DevTools & Ferramentas",
+    "tags": [
+      "DevTools",
+      "OpenSource",
+      "Produtividade",
+      "Tecnologia"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "4 min de leitura",
+    "githubRepo": "sxyazi/yazi",
+    "stars": "43.6k",
+    "content": "No ecossistema de tecnologia moderno, ferramentas de código aberto e soluções comunitárias têm substituído softwares comerciais caros com vantagens claras: transparência, velocidade e privacidade.\n\nO **Yazi** é um excelente exemplo dessa transformação.\n\n---\n\n### Principais Recursos e Benefícios\n\n* **01**: ⚡ Abre pastas com milhares de arquivos sem travar\n* **02**: 🖼️ Mostra preview de foto, PDF e código na hora\n* **03**: ⌨️ Navegação estilo Vim com busca instantânea\n* **04**: 🦀 100% escrito em Rust com plugins em Lua\n\n---\n\n### Como Começar\n\nPara explorar e testar o projeto no seu ambiente:\n\n```bash\n# Acesse o repositório oficial no GitHub\ngit clone https://github.com/sxyazi/yazi.git\ncd $(basename \"sxyazi/yazi\")\n```\n\n---\n\n### Veredito DevRemoto\n\nMais uma solução essencial mapeada pelo radar do DevRemoto para quem busca produtividade, autonomia e ferramentas profissionais gratuitas."
+  },
+  {
     "slug": "freelingo-ai-tutor",
     "title": "FreeLingo: A Ferramenta Open-Source que Transforma o Dia a Dia Dev",
     "description": "Conversa por voz em 50 cenários reais rodando com Ollama e Docker",
