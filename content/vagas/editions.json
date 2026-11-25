@@ -1,5 +1,324 @@
 [
   {
+    "date": "2026-11-25",
+    "generatedAt": "2026-11-25T14:04:00.000Z",
+    "dateLabel": "25.nov",
+    "count": 8,
+    "hook": {
+      "angle": "brand-anchor",
+      "headline": "Neon, Stone, QuintoAndar e +5 techs contratando remoto.",
+      "lead": "Curadoria diária sem híbrido disfarçado. Vagas verificadas hoje para trabalhar de casa de qualquer estado do Brasil."
+    },
+    "uniqueStacks": [
+      "TypeScript / IA",
+      ".NET / Java",
+      "Python / React",
+      "Android / Sec"
+    ],
+    "senioritySummary": "Pleno → Sênior",
+    "jobs": [
+      {
+        "url": "https://www.linkedin.com/jobs/view/4488694937/?",
+        "company": "Neon",
+        "handle": "@neon",
+        "title": "Senior Software Engineer (Foco em IA)",
+        "seniority": "Sênior",
+        "stacks": [
+          "Python / Go",
+          "IA / RAG",
+          "Agentes"
+        ],
+        "category": "Dados, Cloud & IA",
+        "source": "LinkedIn",
+        "postedAt": "2026-11-24",
+        "isRecognized": true,
+        "score": 47.4
+      },
+      {
+        "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5Mzg5NTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "company": "FCamara",
+        "handle": "@fcamara",
+        "title": "Pessoa Desenvolvedora TypeScript - Pleno",
+        "seniority": "Pleno",
+        "stacks": [
+          "TypeScript",
+          "Node.js",
+          "REST APIs"
+        ],
+        "category": "Back-End & Engenharia",
+        "source": "Gupy",
+        "postedAt": "2026-11-24",
+        "isRecognized": true,
+        "score": 59.4
+      },
+      {
+        "url": "https://job-boards.greenhouse.io/stone/jobs/8210479003",
+        "company": "Stone",
+        "handle": "@stone",
+        "title": "Senior Software Engineer .NET",
+        "seniority": "Sênior",
+        "stacks": [
+          "C# / .NET",
+          "Azure / GCP",
+          "Kafka"
+        ],
+        "category": "Java, .NET & Enterprise",
+        "source": "Greenhouse",
+        "postedAt": "2026-11-24",
+        "isRecognized": true,
+        "score": 47.4
+      },
+      {
+        "url": "https://jointecnologia.gupy.io/job/eyJqb2JJZCI6MTI5Mzc3MTQsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+        "company": "Join Tecnologia",
+        "handle": "@join-tecnologia",
+        "title": "Desenvolvedor Java Pleno",
+        "seniority": "Pleno",
+        "stacks": [
+          "Java",
+          "SQL",
+          "Testes / APIs"
+        ],
+        "category": "Java, .NET & Enterprise",
+        "source": "Gupy",
+        "postedAt": "2026-11-25",
+        "isRecognized": false,
+        "score": 35.4
+      },
+      {
+        "url": "https://br.linkedin.com/jobs/view/desenvolvedor-fullstack-remoto-at-getronics-4493044423",
+        "company": "Getronics",
+        "handle": "@getronics",
+        "title": "Desenvolvedor Fullstack (Python / React)",
+        "seniority": "Pleno / Sênior",
+        "stacks": [
+          "Python",
+          "React / TS",
+          "AWS / Azure"
+        ],
+        "category": "Full Stack & Produto",
+        "source": "LinkedIn",
+        "postedAt": "2026-11-24",
+        "isRecognized": false,
+        "score": 22.4
+      },
+      {
+        "url": "https://www.linkedin.com/jobs/view/4474965015/?",
+        "company": "Ibope",
+        "handle": "@ibope",
+        "title": "Analista de P&D (Android Embarcado)",
+        "seniority": "Pleno / Sênior",
+        "stacks": [
+          "Android",
+          "Java",
+          "Linux / SQL"
+        ],
+        "category": "Mobile & Apps",
+        "source": "LinkedIn",
+        "postedAt": "2026-11-24",
+        "isRecognized": false,
+        "score": 22.4
+      },
+      {
+        "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4023483009?utm_source=remotar",
+        "company": "QuintoAndar",
+        "handle": "@quintoandar",
+        "title": "Senior Data Scientist (Afirmativa Mulheres)",
+        "seniority": "Sênior",
+        "stacks": [
+          "Data Science",
+          "Python",
+          "IA / ML"
+        ],
+        "category": "Dados, Cloud & IA",
+        "source": "Greenhouse",
+        "postedAt": "2026-11-19",
+        "isRecognized": true,
+        "score": 42.4
+      },
+      {
+        "url": "https://lighthouseit.inhire.app/vagas/d4af4767-a853-460f-b263-b0e1408afeb8/analista-de-seguranca-da-informacao-pleno",
+        "company": "Lighthouse",
+        "handle": "@lighthouse",
+        "title": "Analista de Segurança da Informação",
+        "seniority": "Pleno",
+        "stacks": [
+          "Segurança / SOC",
+          "ISO 27001",
+          "SGSI"
+        ],
+        "category": "QA, Testes & DevOps",
+        "source": "InHire",
+        "postedAt": "2026-11-24",
+        "isRecognized": false,
+        "score": 34.4
+      }
+    ],
+    "slidesPairs": [
+      {
+        "eyebrow": "// trilha_01 · vagas verificadas",
+        "heading": "IA Generativa & TypeScript",
+        "jobs": [
+          {
+            "url": "https://www.linkedin.com/jobs/view/4488694937/?",
+            "company": "Neon",
+            "handle": "@neon",
+            "title": "Senior Software Engineer (Foco em IA)",
+            "seniority": "Sênior",
+            "stacks": [
+              "Python / Go",
+              "IA / RAG",
+              "Agentes"
+            ],
+            "category": "Dados, Cloud & IA",
+            "source": "LinkedIn",
+            "postedAt": "2026-11-24",
+            "isRecognized": true,
+            "score": 47.4
+          },
+          {
+            "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5Mzg5NTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+            "company": "FCamara",
+            "handle": "@fcamara",
+            "title": "Pessoa Desenvolvedora TypeScript - Pleno",
+            "seniority": "Pleno",
+            "stacks": [
+              "TypeScript",
+              "Node.js",
+              "REST APIs"
+            ],
+            "category": "Back-End & Engenharia",
+            "source": "Gupy",
+            "postedAt": "2026-11-24",
+            "isRecognized": true,
+            "score": 59.4
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_02 · vagas verificadas",
+        "heading": ".NET, Azure & Java",
+        "jobs": [
+          {
+            "url": "https://job-boards.greenhouse.io/stone/jobs/8210479003",
+            "company": "Stone",
+            "handle": "@stone",
+            "title": "Senior Software Engineer .NET",
+            "seniority": "Sênior",
+            "stacks": [
+              "C# / .NET",
+              "Azure / GCP",
+              "Kafka"
+            ],
+            "category": "Java, .NET & Enterprise",
+            "source": "Greenhouse",
+            "postedAt": "2026-11-24",
+            "isRecognized": true,
+            "score": 47.4
+          },
+          {
+            "url": "https://jointecnologia.gupy.io/job/eyJqb2JJZCI6MTI5Mzc3MTQsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+            "company": "Join Tecnologia",
+            "handle": "@join-tecnologia",
+            "title": "Desenvolvedor Java Pleno",
+            "seniority": "Pleno",
+            "stacks": [
+              "Java",
+              "SQL",
+              "Testes / APIs"
+            ],
+            "category": "Java, .NET & Enterprise",
+            "source": "Gupy",
+            "postedAt": "2026-11-25",
+            "isRecognized": false,
+            "score": 35.4
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_03 · vagas verificadas",
+        "heading": "Full Stack & Android",
+        "jobs": [
+          {
+            "url": "https://br.linkedin.com/jobs/view/desenvolvedor-fullstack-remoto-at-getronics-4493044423",
+            "company": "Getronics",
+            "handle": "@getronics",
+            "title": "Desenvolvedor Fullstack (Python / React)",
+            "seniority": "Pleno / Sênior",
+            "stacks": [
+              "Python",
+              "React / TS",
+              "AWS / Azure"
+            ],
+            "category": "Full Stack & Produto",
+            "source": "LinkedIn",
+            "postedAt": "2026-11-24",
+            "isRecognized": false,
+            "score": 22.4
+          },
+          {
+            "url": "https://www.linkedin.com/jobs/view/4474965015/?",
+            "company": "Ibope",
+            "handle": "@ibope",
+            "title": "Analista de P&D (Android Embarcado)",
+            "seniority": "Pleno / Sênior",
+            "stacks": [
+              "Android",
+              "Java",
+              "Linux / SQL"
+            ],
+            "category": "Mobile & Apps",
+            "source": "LinkedIn",
+            "postedAt": "2026-11-24",
+            "isRecognized": false,
+            "score": 22.4
+          }
+        ]
+      },
+      {
+        "eyebrow": "// trilha_04 · vagas verificadas",
+        "heading": "Data Science & Segurança",
+        "jobs": [
+          {
+            "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4023483009?utm_source=remotar",
+            "company": "QuintoAndar",
+            "handle": "@quintoandar",
+            "title": "Senior Data Scientist (Afirmativa Mulheres)",
+            "seniority": "Sênior",
+            "stacks": [
+              "Data Science",
+              "Python",
+              "IA / ML"
+            ],
+            "category": "Dados, Cloud & IA",
+            "source": "Greenhouse",
+            "postedAt": "2026-11-19",
+            "isRecognized": true,
+            "score": 42.4
+          },
+          {
+            "url": "https://lighthouseit.inhire.app/vagas/d4af4767-a853-460f-b263-b0e1408afeb8/analista-de-seguranca-da-informacao-pleno",
+            "company": "Lighthouse",
+            "handle": "@lighthouse",
+            "title": "Analista de Segurança da Informação",
+            "seniority": "Pleno",
+            "stacks": [
+              "Segurança / SOC",
+              "ISO 27001",
+              "SGSI"
+            ],
+            "category": "QA, Testes & DevOps",
+            "source": "InHire",
+            "postedAt": "2026-11-24",
+            "isRecognized": false,
+            "score": 34.4
+          }
+        ]
+      }
+    ],
+    "caption": "Neon, Stone, QuintoAndar, FCamara e mais 4 empresas estão com vagas 100% remotas abertas hoje para trabalhar de qualquer lugar do Brasil.\n\nChecamos os anúncios direto nas páginas oficiais para cortar links expirados e vagas com presencial escondido. Hoje a seleção vai de Back-End com TypeScript, Java e .NET até IA Generativa, Android embarcado, Ciência de Dados e Segurança da Informação.\n\nVagas da edição (25.nov):\n- Neon: Senior Software Engineer em AI Platform com RAG e Agentes (Sênior)\n- FCamara: Pessoa Desenvolvedora TypeScript e Node.js (Pleno)\n- Stone: Senior Software Engineer .NET com Azure e Kafka (Sênior)\n- Join Tecnologia: Desenvolvedor Java com auxílio infra CLT (Pleno)\n- Getronics: Desenvolvedor Fullstack em Python e React (Pleno / Sênior)\n- Ibope: Analista de P&D em Android Embarcado e Java (Pleno / Sênior)\n- QuintoAndar: Senior Data Scientist, afirmativa para mulheres (Sênior)\n- Lighthouse: Analista de Segurança da Informação e SGSI (Pleno)\n\nComente REMOTO aqui embaixo para receber os links diretos na sua DM, ou acesse agora pelo link fixo na bio @devremoto.br.\n\nEstá no celular? Salve este carrossel na bandeirinha para aplicar com calma pelo computador. Qual stack você quer ver amanhã?\n\n#vagasremotas #trabalhoremoto #homeofficebrasil #vagastech #desenvolvedor #programacao #engenhariadesoftware #carreiratech"
+  },
+  {
     "date": "2026-11-24",
     "generatedAt": "2026-11-24T14:04:00.000Z",
     "dateLabel": "24.nov",
