@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T14:05:00.000Z",
+  "dateLabel": "26.nov",
+  "count": 8,
+  "hook": {
+    "angle": "anti-hibrido",
+    "headline": "8 techs contratando 100% remoto hoje no Brasil.",
+    "lead": "Sem pegadinha de presencial 3x na semana. Selecionamos 8 vagas verificadas de Pleno a Especialista para trabalhar de qualquer estado."
+  },
+  "uniqueStacks": [
+    "Kotlin / Java",
+    "Node / Python",
+    "Databricks",
+    "DevOps / QA"
+  ],
+  "senioritySummary": "Pleno → Especialista",
+  "jobs": [
+    {
+      "url": "https://creditas.gupy.io/job/eyJqb2JJZCI6MTI5NDEyODAsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "company": "Creditas",
+      "handle": "@creditas",
+      "title": "Software Engineer III",
+      "seniority": "Sênior",
+      "stacks": [
+        "Kotlin",
+        "APIs Distribuídas",
+        "AI-Native"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "Gupy",
+      "postedAt": "2026-11-26",
+      "isRecognized": true,
+      "score": 48.4
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/stone/jobs/8203560003",
+      "company": "Stone",
+      "handle": "@stone",
+      "title": "Software Engineering Manager I · Open Finance",
+      "seniority": "Especialista",
+      "stacks": [
+        "Open Finance",
+        "APIs / CI/CD",
+        "Liderança"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "Greenhouse",
+      "postedAt": "2026-11-25",
+      "isRecognized": true,
+      "score": 59.4
+    },
+    {
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5MzAyODgsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "company": "FCamara",
+      "handle": "@fcamara",
+      "title": "Tech Lead Java",
+      "seniority": "Especialista",
+      "stacks": [
+        "Java 11+",
+        "Spring Boot",
+        "Kafka / RabbitMQ"
+      ],
+      "category": "Java, .NET & Enterprise",
+      "source": "Gupy",
+      "postedAt": "2026-11-24",
+      "isRecognized": true,
+      "score": 46.4
+    },
+    {
+      "url": "https://intelipost.gupy.io/job/eyJqb2JJZCI6MTI5NDQ3NzYsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "company": "Intelipost",
+      "handle": "@intelipost",
+      "title": "Senior Software Engineer",
+      "seniority": "Sênior",
+      "stacks": [
+        "Spring / Java",
+        "Node.js",
+        "AWS / GraphQL"
+      ],
+      "category": "Full Stack & Produto",
+      "source": "Gupy",
+      "postedAt": "2026-11-26",
+      "isRecognized": false,
+      "score": 23.4
+    },
+    {
+      "url": "https://programmers.inhire.app/vagas/c6169578-2b13-42c0-afaf-067e06e2aab3/devops-engineersre-pleno-home-officebrasil",
+      "company": "Programmers",
+      "handle": "@programmers",
+      "title": "DevOps Engineer / SRE Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Azure DevOps",
+        "Terraform",
+        "Kubernetes"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "InHire",
+      "postedAt": "2026-11-25",
+      "isRecognized": false,
+      "score": 34.4
+    },
+    {
+      "url": "https://entrustit-trial.inhire.app/vagas/462273de-8f9e-4519-8cdd-1bc68d2f3aa6/desenvolvedora-full-stack-pleno",
+      "company": "Entrust IT",
+      "handle": "@entrust-it",
+      "title": "Desenvolvedor(a) Full Stack Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Node.js / Python",
+        "REST / GraphQL",
+        "APIs de IA"
+      ],
+      "category": "Full Stack & Produto",
+      "source": "InHire",
+      "postedAt": "2026-11-25",
+      "isRecognized": false,
+      "score": 34.4
+    },
+    {
+      "url": "https://aggrandize.vagas.solides.com.br/vaga/957028?origem=remotar",
+      "company": "Aggrandize",
+      "handle": "@aggrandize",
+      "title": "Engenheiro de Dados Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Databricks",
+        "PySpark / SQL",
+        "Azure Data Factory"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "Sólides",
+      "postedAt": "2026-11-24",
+      "isRecognized": false,
+      "score": 33.4
+    },
+    {
+      "url": "https://lighthouseit.inhire.app/vagas/816730f4-99d8-4398-913e-4eab804420f7/analista-de-qualidade-de-software-pl",
+      "company": "Lighthouse",
+      "handle": "@lighthouse",
+      "title": "Analista de Qualidade de Software",
+      "seniority": "Pleno",
+      "stacks": [
+        "QA / Testes",
+        "Automação",
+        "Integração"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "InHire",
+      "postedAt": "2026-11-24",
+      "isRecognized": false,
+      "score": 33.4
+    }
+  ],
+  "slidesPairs": [
+    {
+      "eyebrow": "// trilha_01 · vagas verificadas",
+      "heading": "Back-End & Liderança",
+      "jobs": [
+        {
+          "url": "https://creditas.gupy.io/job/eyJqb2JJZCI6MTI5NDEyODAsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+          "company": "Creditas",
+          "handle": "@creditas",
+          "title": "Software Engineer III",
+          "seniority": "Sênior",
+          "stacks": [
+            "Kotlin",
+            "APIs Distribuídas",
+            "AI-Native"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "Gupy",
+          "postedAt": "2026-11-26",
+          "isRecognized": true,
+          "score": 48.4
+        },
+        {
+          "url": "https://job-boards.greenhouse.io/stone/jobs/8203560003",
+          "company": "Stone",
+          "handle": "@stone",
+          "title": "Software Engineering Manager I · Open Finance",
+          "seniority": "Especialista",
+          "stacks": [
+            "Open Finance",
+            "APIs / CI/CD",
+            "Liderança"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "Greenhouse",
+          "postedAt": "2026-11-25",
+          "isRecognized": true,
+          "score": 59.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_02 · vagas verificadas",
+      "heading": "Java, Spring & Full Stack",
+      "jobs": [
+        {
+          "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5MzAyODgsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+          "company": "FCamara",
+          "handle": "@fcamara",
+          "title": "Tech Lead Java",
+          "seniority": "Especialista",
+          "stacks": [
+            "Java 11+",
+            "Spring Boot",
+            "Kafka / RabbitMQ"
+          ],
+          "category": "Java, .NET & Enterprise",
+          "source": "Gupy",
+          "postedAt": "2026-11-24",
+          "isRecognized": true,
+          "score": 46.4
+        },
+        {
+          "url": "https://intelipost.gupy.io/job/eyJqb2JJZCI6MTI5NDQ3NzYsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+          "company": "Intelipost",
+          "handle": "@intelipost",
+          "title": "Senior Software Engineer",
+          "seniority": "Sênior",
+          "stacks": [
+            "Spring / Java",
+            "Node.js",
+            "AWS / GraphQL"
+          ],
+          "category": "Full Stack & Produto",
+          "source": "Gupy",
+          "postedAt": "2026-11-26",
+          "isRecognized": false,
+          "score": 23.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_03 · vagas verificadas",
+      "heading": "DevOps / SRE & Full Stack",
+      "jobs": [
+        {
+          "url": "https://programmers.inhire.app/vagas/c6169578-2b13-42c0-afaf-067e06e2aab3/devops-engineersre-pleno-home-officebrasil",
+          "company": "Programmers",
+          "handle": "@programmers",
+          "title": "DevOps Engineer / SRE Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Azure DevOps",
+            "Terraform",
+            "Kubernetes"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "InHire",
+          "postedAt": "2026-11-25",
+          "isRecognized": false,
+          "score": 34.4
+        },
+        {
+          "url": "https://entrustit-trial.inhire.app/vagas/462273de-8f9e-4519-8cdd-1bc68d2f3aa6/desenvolvedora-full-stack-pleno",
+          "company": "Entrust IT",
+          "handle": "@entrust-it",
+          "title": "Desenvolvedor(a) Full Stack Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Node.js / Python",
+            "REST / GraphQL",
+            "APIs de IA"
+          ],
+          "category": "Full Stack & Produto",
+          "source": "InHire",
+          "postedAt": "2026-11-25",
+          "isRecognized": false,
+          "score": 34.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_04 · vagas verificadas",
+      "heading": "Dados & Qualidade (QA)",
+      "jobs": [
+        {
+          "url": "https://aggrandize.vagas.solides.com.br/vaga/957028?origem=remotar",
+          "company": "Aggrandize",
+          "handle": "@aggrandize",
+          "title": "Engenheiro de Dados Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Databricks",
+            "PySpark / SQL",
+            "Azure Data Factory"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "Sólides",
+          "postedAt": "2026-11-24",
+          "isRecognized": false,
+          "score": 33.4
+        },
+        {
+          "url": "https://lighthouseit.inhire.app/vagas/816730f4-99d8-4398-913e-4eab804420f7/analista-de-qualidade-de-software-pl",
+          "company": "Lighthouse",
+          "handle": "@lighthouse",
+          "title": "Analista de Qualidade de Software",
+          "seniority": "Pleno",
+          "stacks": [
+            "QA / Testes",
+            "Automação",
+            "Integração"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "InHire",
+          "postedAt": "2026-11-24",
+          "isRecognized": false,
+          "score": 33.4
+        }
+      ]
+    }
+  ],
+  "caption": "Creditas, Stone, FCamara, Intelipost e mais 4 empresas estão com vagas 100% remotas abertas hoje no Brasil.\n\nChecamos cada anúncio direto na página oficial. Teve vaga de SP ou RJ que cortamos fora, link fora do ar e anúncio dizendo remoto com presencial escondido no texto. Sobraram 8 oportunidades reais pra trabalhar de qualquer estado.\n\nOlha o que entrou na edição de hoje (26.nov):\n- Creditas: Software Engineer III em Kotlin, fluxo AI-Native (Sênior)\n- Stone: Software Engineering Manager I para liderar squads no Open Finance (Especialista)\n- FCamara: Tech Lead Java 11+, Spring Boot e mensageria com Kafka ou RabbitMQ (Especialista)\n- Intelipost: Senior Software Engineer fullstack com Spring, Node.js, GraphQL e AWS (Sênior)\n- Programmers: DevOps Engineer / SRE em Azure DevOps, Terraform e Kubernetes (Pleno)\n- Entrust IT: Full Stack PJ em Node.js, Python e integração com APIs de IA (Pleno)\n- Aggrandize: Engenheiro de Dados com Databricks, PySpark e SQL (Pleno)\n- Lighthouse: Analista de Qualidade de Software CLT com foco em automação (Pleno)\n\nComente REMOTO aqui embaixo que eu te mando os 8 links diretos na DM. Se preferir abrir agora, eles já estão no link fixo da bio @devremoto.br.\n\nViu pelo celular? Salva na bandeirinha pra mandar o currículo com calma depois no computador, e me diz nos comentários qual stack tá faltando no radar de amanhã.\n\n#vagasremotas #trabalhoremoto #vagastech"
+}
