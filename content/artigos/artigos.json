@@ -1,5 +1,23 @@
 [
   {
+    "slug": "t3code-remote-agents",
+    "title": "T3 Code: A Ferramenta Open-Source que Transforma o Dia a Dia Dev",
+    "description": "Controle Claude Code, Codex e Cursor de qualquer aparelho",
+    "date": "2026-11-28",
+    "category": "Inteligência Artificial",
+    "tags": [
+      "DevTools",
+      "OpenSource",
+      "Produtividade",
+      "Tecnologia"
+    ],
+    "author": "Luis Carvalho",
+    "readTime": "4 min de leitura",
+    "githubRepo": "pingdotgg/t3code",
+    "stars": "81.6k",
+    "content": "No ecossistema de tecnologia moderno, ferramentas de código aberto e soluções comunitárias têm substituído softwares comerciais caros com vantagens claras: transparência, velocidade e privacidade.\n\nO **T3 Code** é um excelente exemplo dessa transformação.\n\n---\n\n### Principais Recursos e Benefícios\n\n* **01**: 📱 Aprova comandos de Claude Code e Codex direto no iPhone ou Android\n* **02**: 🔀 Troca de modelo no meio da mesma tarefa entre Claude, Codex e Cursor\n* **03**: 🌿 Cria worktree Git isolado por thread para revisar diff e abrir PR\n* **04**: 🔒 Roda na sua máquina usando suas próprias assinaturas sem revenda\n\n---\n\n### Como Começar\n\nPara explorar e testar o projeto no seu ambiente:\n\n```bash\n# Acesse o repositório oficial no GitHub\ngit clone https://github.com/pingdotgg/t3code.git\ncd $(basename \"pingdotgg/t3code\")\n```\n\n---\n\n### Veredito DevRemoto\n\nMais uma solução essencial mapeada pelo radar do DevRemoto para quem busca produtividade, autonomia e ferramentas profissionais gratuitas."
+  },
+  {
     "slug": "filee-offline-converter",
     "title": "Filee: A Ferramenta Open-Source que Transforma o Dia a Dia Dev",
     "description": "Segure uma tecla, arraste e converta PDF, vídeo, áudio e Word offline",
