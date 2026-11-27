@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T14:04:00.000Z",
+  "dateLabel": "27.nov",
+  "count": 8,
+  "hook": {
+    "angle": "multi-stack",
+    "headline": "Radar Dev de hoje: 8 vagas 100% home office abertas.",
+    "lead": "De Mobile iOS, IA e Dados a Back-End PHP e DevOps. Oportunidades verificadas sem exigência presencial, do estágio ao sênior."
+  },
+  "uniqueStacks": [
+    "Swift / iOS",
+    "Kotlin / React",
+    "IA / Python",
+    "PHP / Dados"
+  ],
+  "senioritySummary": "Estágio → Sênior",
+  "jobs": [
+    {
+      "url": "https://carreiras.ifood.com.br/job/8962512002/?utm_source=remotar",
+      "company": "iFood",
+      "handle": "@ifood",
+      "title": "iOS Software Engineer Sênior",
+      "seniority": "Sênior",
+      "stacks": [
+        "Swift / iOS",
+        "UIKit / SwiftUI",
+        "CI/CD"
+      ],
+      "category": "Mobile & Apps",
+      "source": "Portal Direto",
+      "postedAt": "2026-11-26",
+      "isRecognized": true,
+      "score": 47.4
+    },
+    {
+      "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI5NDM5OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Grupo Boticário",
+      "handle": "@grupo-boticario",
+      "title": "Desenvolvedor(a) Fullstack Kotlin/React III",
+      "seniority": "Sênior",
+      "stacks": [
+        "Kotlin / Java",
+        "React",
+        "Kafka / CDC"
+      ],
+      "category": "Full Stack & Produto",
+      "source": "Gupy",
+      "postedAt": "2026-11-26",
+      "isRecognized": true,
+      "score": 47.4
+    },
+    {
+      "url": "https://jobs.lever.co/ciandt/a5c4275a-def3-4d94-b80d-c38a43bea584?utm_source=remotar",
+      "company": "CI&T",
+      "handle": "@ci-e-t",
+      "title": "AI Engineer Senior (Brazil)",
+      "seniority": "Sênior",
+      "stacks": [
+        "IA / GenAI",
+        "Agentic SDLC",
+        "AI-Native"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "Lever",
+      "postedAt": "2026-11-22",
+      "isRecognized": true,
+      "score": 43.4
+    },
+    {
+      "url": "https://programathor.com.br/jobs/33950-software-engineer-python-java-node-js-usd-based-pay",
+      "company": "Strider",
+      "handle": "@strider",
+      "title": "Software Engineer Python + Java + Node.js",
+      "seniority": "Pleno / Sênior",
+      "stacks": [
+        "Python",
+        "Java / Node.js",
+        "Salário em USD"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "ProgramaThor",
+      "postedAt": "2026-11-27",
+      "isRecognized": false,
+      "score": 23.4
+    },
+    {
+      "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTI5NDk0ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Compass UOL",
+      "handle": "@compass-uol",
+      "title": "DevOps Cloud Engineer",
+      "seniority": "Pleno / Sênior",
+      "stacks": [
+        "DevOps / CI/CD",
+        "Python / Bash",
+        "Jenkins / Actions"
+      ],
+      "category": "QA, Testes & DevOps",
+      "source": "Gupy",
+      "postedAt": "2026-11-27",
+      "isRecognized": false,
+      "score": 23.4
+    },
+    {
+      "url": "https://spread.gupy.io/job/eyJqb2JJZCI6MTI5NDkzMjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "Spread Tecnologia",
+      "handle": "@spread-tecnologia",
+      "title": "Engenheiro(a) de Dados Pleno",
+      "seniority": "Pleno",
+      "stacks": [
+        "Python",
+        "PySpark / Delta",
+        "SQL / Cloud"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "Gupy",
+      "postedAt": "2026-11-26",
+      "isRecognized": false,
+      "score": 34.4
+    },
+    {
+      "url": "https://vexpenses.gupy.io/job/eyJqb2JJZCI6MTI5NDk0NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "company": "VExpenses",
+      "handle": "@vexpenses",
+      "title": "Desenvolvedor(a) Back-End Laravel Júnior",
+      "seniority": "Júnior",
+      "stacks": [
+        "PHP / Laravel",
+        "SQL / NoSQL",
+        "AWS / GCP"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "Gupy",
+      "postedAt": "2026-11-26",
+      "isRecognized": false,
+      "score": 34.4
+    },
+    {
+      "url": "https://poliedroeducacao.inhire.app/vagas/f407669c-dddf-4580-99ba-2242f5dcbe28/estagio-em-organizacao-e-analise-de-dados-educacionais",
+      "company": "Poliedro Educação",
+      "handle": "@poliedro-educacao",
+      "title": "Estágio em Análise de Dados Educacionais",
+      "seniority": "Estágio",
+      "stacks": [
+        "Dados",
+        "Análise / ETL",
+        "Remoto BR"
+      ],
+      "category": "Dados, Cloud & IA",
+      "source": "InHire",
+      "postedAt": "2026-11-26",
+      "isRecognized": false,
+      "score": 34.4
+    }
+  ],
+  "slidesPairs": [
+    {
+      "eyebrow": "// trilha_01 · vagas verificadas",
+      "heading": "Mobile & Full Stack",
+      "jobs": [
+        {
+          "url": "https://carreiras.ifood.com.br/job/8962512002/?utm_source=remotar",
+          "company": "iFood",
+          "handle": "@ifood",
+          "title": "iOS Software Engineer Sênior",
+          "seniority": "Sênior",
+          "stacks": [
+            "Swift / iOS",
+            "UIKit / SwiftUI",
+            "CI/CD"
+          ],
+          "category": "Mobile & Apps",
+          "source": "Portal Direto",
+          "postedAt": "2026-11-26",
+          "isRecognized": true,
+          "score": 47.4
+        },
+        {
+          "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI5NDM5OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Grupo Boticário",
+          "handle": "@grupo-boticario",
+          "title": "Desenvolvedor(a) Fullstack Kotlin/React III",
+          "seniority": "Sênior",
+          "stacks": [
+            "Kotlin / Java",
+            "React",
+            "Kafka / CDC"
+          ],
+          "category": "Full Stack & Produto",
+          "source": "Gupy",
+          "postedAt": "2026-11-26",
+          "isRecognized": true,
+          "score": 47.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_02 · vagas verificadas",
+      "heading": "IA Generativa & Back-End USD",
+      "jobs": [
+        {
+          "url": "https://jobs.lever.co/ciandt/a5c4275a-def3-4d94-b80d-c38a43bea584?utm_source=remotar",
+          "company": "CI&T",
+          "handle": "@ci-e-t",
+          "title": "AI Engineer Senior (Brazil)",
+          "seniority": "Sênior",
+          "stacks": [
+            "IA / GenAI",
+            "Agentic SDLC",
+            "AI-Native"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "Lever",
+          "postedAt": "2026-11-22",
+          "isRecognized": true,
+          "score": 43.4
+        },
+        {
+          "url": "https://programathor.com.br/jobs/33950-software-engineer-python-java-node-js-usd-based-pay",
+          "company": "Strider",
+          "handle": "@strider",
+          "title": "Software Engineer Python + Java + Node.js",
+          "seniority": "Pleno / Sênior",
+          "stacks": [
+            "Python",
+            "Java / Node.js",
+            "Salário em USD"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "ProgramaThor",
+          "postedAt": "2026-11-27",
+          "isRecognized": false,
+          "score": 23.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_03 · vagas verificadas",
+      "heading": "DevOps & Engenharia de Dados",
+      "jobs": [
+        {
+          "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTI5NDk0ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Compass UOL",
+          "handle": "@compass-uol",
+          "title": "DevOps Cloud Engineer",
+          "seniority": "Pleno / Sênior",
+          "stacks": [
+            "DevOps / CI/CD",
+            "Python / Bash",
+            "Jenkins / Actions"
+          ],
+          "category": "QA, Testes & DevOps",
+          "source": "Gupy",
+          "postedAt": "2026-11-27",
+          "isRecognized": false,
+          "score": 23.4
+        },
+        {
+          "url": "https://spread.gupy.io/job/eyJqb2JJZCI6MTI5NDkzMjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "Spread Tecnologia",
+          "handle": "@spread-tecnologia",
+          "title": "Engenheiro(a) de Dados Pleno",
+          "seniority": "Pleno",
+          "stacks": [
+            "Python",
+            "PySpark / Delta",
+            "SQL / Cloud"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "Gupy",
+          "postedAt": "2026-11-26",
+          "isRecognized": false,
+          "score": 34.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_04 · vagas verificadas",
+      "heading": "Júnior & Estágio Remoto",
+      "jobs": [
+        {
+          "url": "https://vexpenses.gupy.io/job/eyJqb2JJZCI6MTI5NDk0NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+          "company": "VExpenses",
+          "handle": "@vexpenses",
+          "title": "Desenvolvedor(a) Back-End Laravel Júnior",
+          "seniority": "Júnior",
+          "stacks": [
+            "PHP / Laravel",
+            "SQL / NoSQL",
+            "AWS / GCP"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "Gupy",
+          "postedAt": "2026-11-26",
+          "isRecognized": false,
+          "score": 34.4
+        },
+        {
+          "url": "https://poliedroeducacao.inhire.app/vagas/f407669c-dddf-4580-99ba-2242f5dcbe28/estagio-em-organizacao-e-analise-de-dados-educacionais",
+          "company": "Poliedro Educação",
+          "handle": "@poliedro-educacao",
+          "title": "Estágio em Análise de Dados Educacionais",
+          "seniority": "Estágio",
+          "stacks": [
+            "Dados",
+            "Análise / ETL",
+            "Remoto BR"
+          ],
+          "category": "Dados, Cloud & IA",
+          "source": "InHire",
+          "postedAt": "2026-11-26",
+          "isRecognized": false,
+          "score": 34.4
+        }
+      ]
+    }
+  ],
+  "caption": "iFood, Grupo Boticário, CI&T, Strider e mais 4 empresas estão com vagas 100% remotas abertas hoje para trabalhar de qualquer lugar do Brasil.\n\nA lista de hoje cobre desde estágio em Dados e júnior em PHP/Laravel até oportunidades sênior em Swift iOS, IA Generativa e vaga com remuneração em dólar. Tudo sem pegadinha de híbrido disfarçado.\n\nDestaques do radar de hoje (27.nov):\n- iFood: iOS Software Engineer Sênior (Swift / UIKit / SwiftUI)\n- Grupo Boticário: Desenvolvedor(a) Fullstack Kotlin/React III (Sênior)\n- CI&T: AI Engineer Senior (IA / GenAI / Agentic SDLC)\n- Strider: Software Engineer Python + Java + Node.js (Salário em USD)\n- Compass UOL: DevOps Cloud Engineer (Pleno / Sênior)\n- Spread Tecnologia: Engenheiro(a) de Dados Pleno (Python / PySpark)\n- VExpenses: Desenvolvedor(a) Back-End Laravel Júnior (PHP / AWS)\n- Poliedro Educação: Estágio em Análise de Dados Educacionais (Remoto)\n\nComo pegar os links diretos para aplicar:\n1. Comente REMOTO aqui embaixo para receber os links clicáveis direto na sua DM (ou acesse agora pelo link fixo na bio @devremoto.br).\n2. Viu pelo celular? Salve este carrossel na bandeirinha para abrir as candidaturas com calma no computador.\n\nQual stack e nível você quer ver no radar de amanhã? Deixa nos comentários para entrar no próximo filtro.\n\n#vagasremotas #trabalhoremoto #homeofficebrasil #vagastech #desenvolvedor #programacao #engenhariadesoftware #carreiratech"
+}
