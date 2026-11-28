@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T14:04:00.000Z",
+  "dateLabel": "28.nov",
+  "count": 8,
+  "hook": {
+    "angle": "jr-pleno-spotlight",
+    "headline": "O remoto não acabou: 8 vagas abertas (de Júnior a Gestão).",
+    "lead": "Aplicar cedo aumenta suas chances na triagem. Selecionamos vagas 100% home office hoje em Back-End, Front-End, Full Stack e Segurança."
+  },
+  "uniqueStacks": [
+    "TypeScript",
+    "Java / Go",
+    "C# / .NET",
+    "Angular / Vue"
+  ],
+  "senioritySummary": "Júnior → Gestão",
+  "jobs": [
+    {
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5Mzg5NTUsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "company": "FCamara",
+      "handle": "@fcamara",
+      "title": "Pessoa Desenvolvedora TypeScript",
+      "seniority": "Pleno / Sênior",
+      "stacks": [
+        "TypeScript",
+        "Node.js",
+        "AWS / K8s"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "Gupy",
+      "postedAt": "2026-11-25",
+      "isRecognized": true,
+      "score": 45.4
+    },
+    {
+      "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Brazil---Remote/Software-Engineer-2_R23362?utm_source=remotar",
+      "company": "WEX",
+      "handle": "@wex",
+      "title": "Software Engineer II · Risk Engineering",
+      "seniority": "Pleno",
+      "stacks": [
+        "Node.js",
+        "TypeScript",
+        "AWS / Kafka"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "Portal Direto",
+      "postedAt": "2026-11-22",
+      "isRecognized": false,
+      "score": 29.4
+    },
+    {
+      "url": "https://dock.inhire.app/vagas/cf79e329-b6d0-492f-9722-5f045cad5c82/software-engineer-i-authorization-javagolang",
+      "company": "Dock",
+      "handle": "@dock",
+      "title": "Software Engineer I (Authorization)",
+      "seniority": "Júnior",
+      "stacks": [
+        "Java / Golang",
+        "Autorização",
+        "Fintech"
+      ],
+      "category": "Back-End & Engenharia",
+      "source": "InHire",
+      "postedAt": "2026-11-26",
+      "isRecognized": true,
+      "score": 33.4
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/stone/jobs/8215435003",
+      "company": "Stone",
+      "handle": "@stone",
+      "title": "Software Engineering Manager I (Crédito Parcelado)",
+      "seniority": "Gestão / EM",
+      "stacks": [
+        "Eng. Manager",
+        "Pagamentos",
+        "Greenhouse"
+      ],
+      "category": "Liderança & Produto",
+      "source": "Greenhouse",
+      "postedAt": "2026-11-26",
+      "isRecognized": true,
+      "score": 58.4
+    },
+    {
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-net-s%C3%AAnior-remoto-at-nstech-4494770154",
+      "company": "nstech",
+      "handle": "@nstech",
+      "title": "Desenvolvedor(a) .NET Sênior",
+      "seniority": "Sênior",
+      "stacks": [
+        "C# / .NET",
+        "Azure / AWS",
+        "SQL Server"
+      ],
+      "category": "Java, .NET & Enterprise",
+      "source": "LinkedIn",
+      "postedAt": "2026-11-28",
+      "isRecognized": false,
+      "score": 23.4
+    },
+    {
+      "url": "https://clicksign.gupy.io/job/eyJqb2JJZCI6MTI5NTU2NTcsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "company": "Clicksign",
+      "handle": "@clicksign",
+      "title": "Desenvolvedor(a) Fullstack Sênior",
+      "seniority": "Sênior",
+      "stacks": [
+        "Vue.js / Nuxt",
+        "Ruby / Golang",
+        "PostgreSQL"
+      ],
+      "category": "Full Stack & Produto",
+      "source": "Gupy",
+      "postedAt": "2026-11-28",
+      "isRecognized": true,
+      "score": 23.4
+    },
+    {
+      "url": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI5NTYzODQsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "company": "Hitss Brasil",
+      "handle": "@hitss-brasil",
+      "title": "Desenvolvedor Front-end (Angular)",
+      "seniority": "Pleno / Sênior",
+      "stacks": [
+        "Angular",
+        "TypeScript",
+        "Signals / REST"
+      ],
+      "category": "Front-End & Interfaces",
+      "source": "Gupy",
+      "postedAt": "2026-11-28",
+      "isRecognized": false,
+      "score": 23.4
+    },
+    {
+      "url": "https://medsenior.gupy.io/job/eyJqb2JJZCI6MTI5NTUyNDIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "company": "MedSênior",
+      "handle": "@medsenior",
+      "title": "Analista de Segurança da Informação Pleno · Purple Team",
+      "seniority": "Pleno",
+      "stacks": [
+        "Purple Team",
+        "SIEM / SOC",
+        "Pentest"
+      ],
+      "category": "Segurança & Cloud",
+      "source": "Gupy",
+      "postedAt": "2026-11-27",
+      "isRecognized": false,
+      "score": 34.4
+    }
+  ],
+  "slidesPairs": [
+    {
+      "eyebrow": "// trilha_01 · vagas verificadas",
+      "heading": "Back-End & Engenharia",
+      "jobs": [
+        {
+          "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5Mzg5NTUsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+          "company": "FCamara",
+          "handle": "@fcamara",
+          "title": "Pessoa Desenvolvedora TypeScript",
+          "seniority": "Pleno / Sênior",
+          "stacks": [
+            "TypeScript",
+            "Node.js",
+            "AWS / K8s"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "Gupy",
+          "postedAt": "2026-11-25",
+          "isRecognized": true,
+          "score": 45.4
+        },
+        {
+          "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Brazil---Remote/Software-Engineer-2_R23362?utm_source=remotar",
+          "company": "WEX",
+          "handle": "@wex",
+          "title": "Software Engineer II · Risk Engineering",
+          "seniority": "Pleno",
+          "stacks": [
+            "Node.js",
+            "TypeScript",
+            "AWS / Kafka"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "Portal Direto",
+          "postedAt": "2026-11-22",
+          "isRecognized": false,
+          "score": 29.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_02 · vagas verificadas",
+      "heading": "Fintech · Júnior & Gestão",
+      "jobs": [
+        {
+          "url": "https://dock.inhire.app/vagas/cf79e329-b6d0-492f-9722-5f045cad5c82/software-engineer-i-authorization-javagolang",
+          "company": "Dock",
+          "handle": "@dock",
+          "title": "Software Engineer I (Authorization)",
+          "seniority": "Júnior",
+          "stacks": [
+            "Java / Golang",
+            "Autorização",
+            "Fintech"
+          ],
+          "category": "Back-End & Engenharia",
+          "source": "InHire",
+          "postedAt": "2026-11-26",
+          "isRecognized": true,
+          "score": 33.4
+        },
+        {
+          "url": "https://job-boards.greenhouse.io/stone/jobs/8215435003",
+          "company": "Stone",
+          "handle": "@stone",
+          "title": "Software Engineering Manager I (Crédito Parcelado)",
+          "seniority": "Gestão / EM",
+          "stacks": [
+            "Eng. Manager",
+            "Pagamentos",
+            "Greenhouse"
+          ],
+          "category": "Liderança & Produto",
+          "source": "Greenhouse",
+          "postedAt": "2026-11-26",
+          "isRecognized": true,
+          "score": 58.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_03 · vagas verificadas",
+      "heading": ".NET · Full Stack Sênior",
+      "jobs": [
+        {
+          "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-net-s%C3%AAnior-remoto-at-nstech-4494770154",
+          "company": "nstech",
+          "handle": "@nstech",
+          "title": "Desenvolvedor(a) .NET Sênior",
+          "seniority": "Sênior",
+          "stacks": [
+            "C# / .NET",
+            "Azure / AWS",
+            "SQL Server"
+          ],
+          "category": "Java, .NET & Enterprise",
+          "source": "LinkedIn",
+          "postedAt": "2026-11-28",
+          "isRecognized": false,
+          "score": 23.4
+        },
+        {
+          "url": "https://clicksign.gupy.io/job/eyJqb2JJZCI6MTI5NTU2NTcsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+          "company": "Clicksign",
+          "handle": "@clicksign",
+          "title": "Desenvolvedor(a) Fullstack Sênior",
+          "seniority": "Sênior",
+          "stacks": [
+            "Vue.js / Nuxt",
+            "Ruby / Golang",
+            "PostgreSQL"
+          ],
+          "category": "Full Stack & Produto",
+          "source": "Gupy",
+          "postedAt": "2026-11-28",
+          "isRecognized": true,
+          "score": 23.4
+        }
+      ]
+    },
+    {
+      "eyebrow": "// trilha_04 · vagas verificadas",
+      "heading": "Front-End · Segurança",
+      "jobs": [
+        {
+          "url": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI5NTYzODQsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+          "company": "Hitss Brasil",
+          "handle": "@hitss-brasil",
+          "title": "Desenvolvedor Front-end (Angular)",
+          "seniority": "Pleno / Sênior",
+          "stacks": [
+            "Angular",
+            "TypeScript",
+            "Signals / REST"
+          ],
+          "category": "Front-End & Interfaces",
+          "source": "Gupy",
+          "postedAt": "2026-11-28",
+          "isRecognized": false,
+          "score": 23.4
+        },
+        {
+          "url": "https://medsenior.gupy.io/job/eyJqb2JJZCI6MTI5NTUyNDIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+          "company": "MedSênior",
+          "handle": "@medsenior",
+          "title": "Analista de Segurança da Informação Pleno · Purple Team",
+          "seniority": "Pleno",
+          "stacks": [
+            "Purple Team",
+            "SIEM / SOC",
+            "Pentest"
+          ],
+          "category": "Segurança & Cloud",
+          "source": "Gupy",
+          "postedAt": "2026-11-27",
+          "isRecognized": false,
+          "score": 34.4
+        }
+      ]
+    }
+  ],
+  "caption": "Stone, Dock, Clicksign, FCamara e mais 4 empresas estão com vagas 100% remotas abertas hoje para trabalhar de qualquer lugar do Brasil.\n\nO filtro de hoje cobre de júnior em Java e Golang até sênior em .NET, Full Stack e liderança técnica em pagamentos. Tudo sem pegadinha de híbrido disfarçado.\n\nDestaques do radar de hoje (28.nov):\n- Stone: Software Engineering Manager I · Crédito Parcelado (Gestão)\n- Dock: Software Engineer I · Authorization (Júnior · Java / Golang)\n- FCamara: Pessoa Desenvolvedora TypeScript (Pleno / Sênior · Node.js / AWS)\n- WEX: Software Engineer II · Risk Engineering (Pleno · Node.js / Kafka)\n- nstech: Desenvolvedor(a) .NET Sênior (C# / Azure / SQL Server)\n- Clicksign: Desenvolvedor(a) Fullstack Sênior (Vue.js / Ruby / Golang)\n- Hitss Brasil: Desenvolvedor Front-end Angular (Pleno / Sênior · TypeScript)\n- MedSênior: Analista de Segurança da Informação Pleno (Purple Team / SIEM)\n\nComo pegar os links diretos para aplicar:\n1. Comente REMOTO aqui embaixo para receber os links clicáveis direto na sua DM (ou acesse agora pelo link fixo na bio @devremoto.br).\n2. Viu pelo celular? Salve este carrossel na bandeirinha para abrir as candidaturas com calma no computador.\n\nQual stack e senioridade você quer ver no radar de amanhã? Deixa nos comentários para entrar no próximo filtro.\n\n#vagasremotas #trabalhoremoto #homeofficebrasil #vagastech #desenvolvedor #programacao #engenhariadesoftware #carreiratech"
+}
